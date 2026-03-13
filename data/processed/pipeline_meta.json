@@ -1,0 +1,7 @@
+{
+  "python_version": "3.13.0 (tags/v3.13.0:60403a5, Oct  7 2024, 09:38:07) [MSC v.1941 64 bit (AMD64)]",
+  "pptx_version": "1.0.2",
+  "pymupdf_version": "PyMuPDF 1.26.6: Python bindings for the MuPDF 1.26.11 library (rebased implementation).\nPython 3.13 running on win32 (64-bit).\n",
+  "system": "Windows-11-10.0.26200-SP0",
+  "runtime_seconds": 5.023263931274414
+}
