@@ -1,0 +1,359 @@
+<!doctype html>
+<html lang="de">
+  <head>
+    <!-- Zeichencodierung und responsive Darstellung -->
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <!-- Titel der Seite im Browser -->
+    <title>Übersicht zu den Folien</title>
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="style/style.css" />
+
+    <!-- Font Awesome für Icons -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"
+    />
+  </head>
+
+  <body>
+    <!-- Kopfbereich mit Navigation -->
+    <header class="topbar">
+      <nav class="topbar-left" aria-label="Hauptnavigation">
+        <!-- Aktuelle Seite als nicht klickbarer Eintrag -->
+        <span class="tb-link" style="pointer-events: none; opacity: 0.95">
+          <i class="fa-solid fa-list"></i> Slide Index
+        </span>
+      </nav>
+
+      <!-- Mittlerer Bereich mit Seitenbezeichnung -->
+      <div class="slide-nav" aria-label="Navigation">
+        <span class="nav-meta">
+          <i class="fa-solid fa-grid-2"></i> Übersicht
+        </span>
+      </div>
+
+      <!-- Button zum Umschalten des Themes -->
+      <div class="topbar-right">
+        <button id="theme-toggle" class="tb-btn" aria-label="Theme wechseln">
+          <i class="fa-solid fa-moon"></i>
+        </button>
+      </div>
+    </header>
+
+    <!-- Hauptinhalt der Seite -->
+    <main class="wrap">
+      <h1><i class="fa-solid fa-list"></i> Slide Index</h1>
+      <p>Wähle eine Folie oder gehe direkt zu Glossar/Quiz.</p>
+
+      <!-- Bereich mit Tabs für verschiedene Ansichten -->
+      <div class="index-tabs card" style="padding: 10px 12px; margin-top: 14px">
+        <div class="index-tablist" role="tablist" aria-label="Index Navigation">
+          <!-- Tab für alle Folien -->
+          <button
+            class="index-tabbtn"
+            id="tab-alle"
+            role="tab"
+            aria-selected="false"
+            aria-controls="panel-alle"
+            tabindex="-1"
+            data-tab="alle"
+            type="button"
+          >
+            <i class="fa-solid fa-layer-group"></i> Alle Folien
+          </button>
+
+          <!-- Tab für Schnellzugriff -->
+          <button
+            class="index-tabbtn"
+            id="tab-schnell"
+            role="tab"
+            aria-selected="false"
+            aria-controls="panel-schnell"
+            tabindex="-1"
+            data-tab="schnell"
+            type="button"
+          >
+            <i class="fa-solid fa-bolt"></i> Schnellzugriff
+          </button>
+
+          <!-- Standardmäßig aktiver Tab für Themen -->
+          <button
+            class="index-tabbtn active"
+            id="tab-themen"
+            role="tab"
+            aria-selected="true"
+            aria-controls="panel-themen"
+            tabindex="0"
+            data-tab="themen"
+            type="button"
+          >
+            <i class="fa-solid fa-diagram-project"></i> Themen
+          </button>
+        </div>
+      </div>
+
+      <!-- Jinja-Makro: Prüft, ob ein Titel eher eine Abschnittsüberschrift ist -->
+      {% macro is_section_title(t) -%} {%- set tt = (t or '')|trim -%} {%- set
+      low = tt|lower -%} {%- if low.startswith('kein titel gefunden') -%} true
+      {%- elif low.startswith('kapitel ') or low.startswith('teil ') -%} true
+      {%- else -%} {%- set first = tt[:2] -%} {%- set first1 = tt[:1] -%} {%- if
+      first.isdigit() or first1.isdigit() -%} true {%- else -%} false {%- endif
+      -%} {%- endif -%} {%- endmacro %}
+
+      <!-- Themen-Ansicht -->
+      <section
+        id="panel-themen"
+        class="index-tabpanel"
+        role="tabpanel"
+        aria-labelledby="tab-themen"
+      >
+        <h2><i class="fa-solid fa-diagram-project"></i> Folien nach Themen</h2>
+
+        <!-- Topic-Hierarchie aus JSON laden -->
+        {% set root = (topic_hierarchy or {}).get("root") %} {% set clusters =
+        (root or {}).get("children") %} {% if clusters and clusters|length > 0
+        %} {% for c in clusters %} {% if c and c.get("type") == "cluster" %}
+        <h3 style="margin-top: 18px">
+          <i class="fa-solid fa-folder-open"></i> {{ c.get("title", "Thema") }}
+        </h3>
+
+        {% set slides = c.get("children") or [] %}
+        <ul class="index-list">
+          {% for s in slides %} {% if s and s.get("type") == "slide" %} {% set
+          jf = s.get("file") %} {% set meta = (slide_meta_by_json or {}).get(jf)
+          %} {% if meta %} {% set section = (is_section_title(meta.title) ==
+          'true') or (not meta.teaser) %}
+
+          <!-- Ein einzelner Eintrag in der Themenliste -->
+          <li class="index-item {% if section %}section{% endif %}">
+            <a class="index-link" href="{{ meta.filename }}">
+              <div class="index-title-row">
+                <span class="index-title">
+                  {% if section %}
+                  <i class="fa-solid fa-bookmark"></i>
+                  {% else %}
+                  <i class="fa-solid fa-file-powerpoint"></i>
+                  {% endif %} {{ meta.title }}
+                </span>
+
+                <!-- Badge für den Zusammenfassungsmodus -->
+                {% if meta.modus in ['t5','fallback'] and not section %}
+                <span class="index-badge">{{ meta.modus }}</span>
+                {% endif %}
+              </div>
+
+              <!-- Teasertext oder Hinweis auf Abschnitt -->
+              {% if meta.teaser %}
+              <div class="index-teaser">{{ meta.teaser }}</div>
+              {% elif section %}
+              <div class="index-teaser">Abschnitt / Kapitel</div>
+              {% endif %}
+
+              <!-- Dateiname bzw. Linkziel -->
+              <div class="fn">
+                <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                ({{ meta.filename }})
+              </div>
+            </a>
+          </li>
+          {% else %}
+          <!-- Fallback, falls keine Metadaten vorhanden sind -->
+          <li>
+            <a href="slides/{{ jf.replace('.json', '.html') }}">
+              <i class="fa-solid fa-file-powerpoint"></i> {{ jf }}
+            </a>
+          </li>
+          {% endif %} {% endif %} {% endfor %}
+        </ul>
+        {% endif %} {% endfor %} {% else %}
+        <!-- Hinweis, wenn keine Themenstruktur vorhanden ist -->
+        <p>
+          <em
+            >Hinweis: topic_hierarchy.json fehlt/leer – nutze „Alle Folien“
+            Tab.</em
+          >
+        </p>
+        {% endif %}
+      </section>
+
+      <!-- Ansicht mit allen Folien -->
+      <section
+        id="panel-alle"
+        class="index-tabpanel hidden"
+        role="tabpanel"
+        aria-labelledby="tab-alle"
+      >
+        <h2>
+          <i class="fa-solid fa-layer-group"></i> Alle Folien (Fallback /
+          Gesamtübersicht)
+        </h2>
+
+        <ul class="index-list">
+          {% for item in items %} {% set section = (is_section_title(item.title)
+          == 'true') or (not item.teaser) %}
+
+          <!-- Ein einzelner Foliensatz in der Gesamtübersicht -->
+          <li class="index-item {% if section %}section{% endif %}">
+            <a class="index-link" href="{{ item.filename }}">
+              <div class="index-title-row">
+                <span class="index-title">
+                  {% if section %}
+                  <i class="fa-solid fa-bookmark"></i>
+                  {% else %}
+                  <i class="fa-solid fa-file-powerpoint"></i>
+                  {% endif %} {{ item.title }}
+                </span>
+
+                {% if item.modus in ['t5','fallback'] and not section %}
+                <span class="index-badge">{{ item.modus }}</span>
+                {% endif %}
+              </div>
+
+              {% if item.teaser %}
+              <div class="index-teaser">{{ item.teaser }}</div>
+              {% elif section %}
+              <div class="index-teaser">Abschnitt / Kapitel</div>
+              {% endif %}
+
+              <div class="fn">
+                <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                ({{ item.filename }})
+              </div>
+            </a>
+          </li>
+          {% endfor %}
+        </ul>
+      </section>
+
+      <!-- Schnellzugriff auf wichtige Zusatzseiten -->
+      <section
+        id="panel-schnell"
+        class="index-tabpanel hidden"
+        role="tabpanel"
+        aria-labelledby="tab-schnell"
+      >
+        <h2><i class="fa-solid fa-bolt"></i> Schnellzugriff</h2>
+
+        <ul class="index-list">
+          <li>
+            <a href="glossar.html">
+              <i class="fa-solid fa-book"></i> Glossar
+              <span class="fn">(glossar.html)</span>
+            </a>
+          </li>
+          <li>
+            <a href="quiz.html">
+              <i class="fa-solid fa-circle-question"></i> Quiz
+              <span class="fn">(quiz.html)</span>
+            </a>
+          </li>
+        </ul>
+      </section>
+    </main>
+
+    <script>
+      (function () {
+        // Theme-Umschaltung zwischen Hell- und Dunkelmodus
+        const root = document.documentElement;
+        const toggle = document.getElementById("theme-toggle");
+        if (!toggle) return;
+
+        const saved = localStorage.getItem("theme");
+        if (saved) {
+          root.setAttribute("data-theme", saved);
+        } else if (
+          window.matchMedia &&
+          window.matchMedia("(prefers-color-scheme: dark)").matches
+        ) {
+          root.setAttribute("data-theme", "dark");
+        }
+
+        function updateIcon() {
+          const current = root.getAttribute("data-theme");
+          toggle.innerHTML =
+            current === "dark"
+              ? '<i class="fa-solid fa-sun"></i>'
+              : '<i class="fa-solid fa-moon"></i>';
+        }
+
+        updateIcon();
+
+        toggle.addEventListener("click", () => {
+          const current = root.getAttribute("data-theme");
+          const next = current === "dark" ? "light" : "dark";
+          root.setAttribute("data-theme", next);
+          localStorage.setItem("theme", next);
+          updateIcon();
+        });
+      })();
+
+      (function () {
+        // Verwaltung der Tabs in der Index-Seite
+        const TAB_KEY = "index_active_tab";
+
+        const tabButtons = Array.from(
+          document.querySelectorAll(".index-tabbtn"),
+        );
+        const panels = Array.from(document.querySelectorAll(".index-tabpanel"));
+
+        if (!tabButtons.length || !panels.length) return;
+
+        function setActive(tabName, { focus = false } = {}) {
+          // Aktiviert den gewählten Tab und blendet das passende Panel ein
+          tabButtons.forEach((btn) => {
+            const isActive = btn.dataset.tab === tabName;
+            btn.classList.toggle("active", isActive);
+            btn.setAttribute("aria-selected", isActive ? "true" : "false");
+            btn.tabIndex = isActive ? 0 : -1;
+            if (isActive && focus) btn.focus();
+          });
+
+          panels.forEach((p) => {
+            const isPanelActive = p.id === "panel-" + tabName;
+            p.classList.toggle("hidden", !isPanelActive);
+          });
+
+          localStorage.setItem(TAB_KEY, tabName);
+        }
+
+        // Klick- und Tastatursteuerung für die Tabs
+        tabButtons.forEach((btn) => {
+          btn.addEventListener("click", () => {
+            setActive(btn.dataset.tab, { focus: true });
+          });
+
+          btn.addEventListener("keydown", (e) => {
+            const idx = tabButtons.indexOf(btn);
+            if (idx < 0) return;
+
+            const isLeft = e.key === "ArrowLeft";
+            const isRight = e.key === "ArrowRight";
+            const isHome = e.key === "Home";
+            const isEnd = e.key === "End";
+
+            if (!isLeft && !isRight && !isHome && !isEnd) return;
+            e.preventDefault();
+
+            let nextIdx = idx;
+            if (isLeft)
+              nextIdx = (idx - 1 + tabButtons.length) % tabButtons.length;
+            if (isRight) nextIdx = (idx + 1) % tabButtons.length;
+            if (isHome) nextIdx = 0;
+            if (isEnd) nextIdx = tabButtons.length - 1;
+
+            const nextBtn = tabButtons[nextIdx];
+            setActive(nextBtn.dataset.tab, { focus: true });
+          });
+        });
+
+        // Zuletzt aktiven Tab aus localStorage laden
+        const saved = localStorage.getItem(TAB_KEY);
+        const exists = tabButtons.some((b) => b.dataset.tab === saved);
+        setActive(exists ? saved : "themen");
+      })();
+    </script>
+  </body>
+</html>

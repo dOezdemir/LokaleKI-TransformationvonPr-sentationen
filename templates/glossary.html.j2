@@ -1,0 +1,213 @@
+<!doctype html>
+<html lang="de">
+  <head>
+    <!-- Zeichencodierung und responsives Verhalten für mobile Geräte -->
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <!-- Titel der Seite im Browser-Tab -->
+    <title>Glossar</title>
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="style/style.css" />
+
+    <!-- Font Awesome für Icons -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"
+    />
+  </head>
+
+  <body>
+    <!-- Oberer Navigationsbereich -->
+    <header class="topbar">
+      <!-- Linke Navigation mit Verweisen auf andere Seiten -->
+      <nav class="topbar-left" aria-label="Hauptnavigation">
+        <a class="tb-link" href="index.html">
+          <i class="fa-solid fa-list"></i> Index
+        </a>
+
+        <a class="tb-link" href="quiz.html">
+          <i class="fa-solid fa-circle-question"></i> Quiz
+        </a>
+      </nav>
+
+      <!-- Mittlerer Bereich mit aktuellem Seitennamen -->
+      <div class="slide-nav" aria-label="Seite">
+        <span class="nav-meta">
+          <i class="fa-solid fa-book"></i> Glossar
+        </span>
+      </div>
+
+      <!-- Rechte Seite der Topbar mit Theme-Umschalter -->
+      <div class="topbar-right">
+        <button class="tb-btn" id="theme-toggle" aria-label="Theme wechseln">
+          <i class="fa-solid fa-moon"></i>
+        </button>
+      </div>
+    </header>
+
+    <!-- Hauptinhalt der Glossarseite -->
+    <div class="wrap glossary">
+      <h1><i class="fa-solid fa-book"></i> Glossar</h1>
+
+      <!-- Kurze Beschreibung der Seite -->
+      <p class="muted">
+        Begriffe aus der Präsentation – mit Definition, Beispielen und
+        Verlinkung zu den Slides.
+      </p>
+
+      <!-- Suchfeld zum Filtern der Glossarbegriffe -->
+      <div class="searchbar">
+        <input
+          id="glossary-search"
+          type="search"
+          placeholder="Begriff / Definition / Beispiel suchen…"
+          autocomplete="off"
+        />
+      </div>
+
+      <!-- Container für alle Glossareinträge -->
+      <div class="terms" id="terms">
+        {% for term in terms %}
+        <!-- Eine einzelne Begriffskarte -->
+        <div
+          class="term-card"
+          data-name="{{ (term.name or '') | lower }}"
+          data-def="{{ (term.definition or '') | lower }}"
+          data-ex="{{ (term.examples | join(' ') if term.examples else '') | lower }}"
+        >
+          <!-- Kopfbereich der Karte mit Begriff -->
+          <div
+            style="
+              display: flex;
+              align-items: baseline;
+              justify-content: space-between;
+              gap: 12px;
+            "
+          >
+            <h3 style="margin: 0">
+              <i class="fa-solid fa-tag"></i> {{ term.name }}
+            </h3>
+          </div>
+
+          <!-- Definition nur anzeigen, wenn vorhanden -->
+          {% if term.definition %}
+          <div class="term-meta" style="margin-top: 8px">
+            <strong><i class="fa-solid fa-circle-info"></i> Definition:</strong>
+            {{ term.definition }}
+          </div>
+          {% endif %}
+
+          <!-- Beispiele nur anzeigen, wenn vorhanden -->
+          {% if term.examples %}
+          <div class="term-meta" style="margin-top: 8px">
+            <strong><i class="fa-solid fa-lightbulb"></i> Beispiele:</strong>
+          </div>
+
+          <ul class="term-examples">
+            {% for ex in term.examples %}
+            <li>{{ ex }}</li>
+            {% endfor %}
+          </ul>
+          {% endif %}
+
+          <!-- Verlinkte Slides anzeigen, falls vorhanden -->
+          {% if term.slides %}
+          <div class="term-meta" style="margin-top: 10px">
+            <strong>
+              <i class="fa-solid fa-file-powerpoint"></i>
+              Vorkommen:
+            </strong>
+            {{ term.slides | length }} Folie(n)
+          </div>
+
+          <div class="term-links">
+            {% for slide_href in term.slides %}
+            {% set label = slide_href.split('/')[-1] %}
+            <a href="{{ slide_href }}">
+              <i class="fa-solid fa-arrow-up-right-from-square"></i>
+              {{ label }}
+            </a>
+            {% endfor %}
+          </div>
+          {% else %}
+          <!-- Hinweis, wenn keine Folien verlinkt sind -->
+          <div class="term-meta" style="margin-top: 10px">
+            Keine Slides verlinkt.
+          </div>
+          {% endif %}
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+
+    <script>
+      (function () {
+        // Zugriff auf das HTML-Root-Element und wichtige DOM-Elemente
+        const root = document.documentElement;
+        const toggle = document.getElementById("theme-toggle");
+        const input = document.getElementById("glossary-search");
+        const cards = Array.from(document.querySelectorAll(".term-card"));
+
+        // Theme-Umschalter für Hell-/Dunkelmodus
+        if (toggle) {
+          const saved = localStorage.getItem("theme");
+
+          // Gespeichertes Theme aus localStorage übernehmen
+          if (saved) {
+            root.setAttribute("data-theme", saved);
+          } else if (
+            window.matchMedia &&
+            window.matchMedia("(prefers-color-scheme: dark)").matches
+          ) {
+            // Falls nichts gespeichert ist, Systempräferenz nutzen
+            root.setAttribute("data-theme", "dark");
+          }
+
+          // Icon je nach aktuellem Theme anpassen
+          function updateIcon() {
+            const current = root.getAttribute("data-theme");
+
+            toggle.innerHTML =
+              current === "dark"
+                ? '<i class="fa-solid fa-sun"></i>'
+                : '<i class="fa-solid fa-moon"></i>';
+          }
+
+          updateIcon();
+
+          // Beim Klick Theme wechseln und speichern
+          toggle.addEventListener("click", () => {
+            const current = root.getAttribute("data-theme");
+            const next = current === "dark" ? "light" : "dark";
+
+            root.setAttribute("data-theme", next);
+            localStorage.setItem("theme", next);
+
+            updateIcon();
+          });
+        }
+
+        // Filtert die Glossarkarten anhand der Sucheingabe
+        function applyFilter() {
+          const q = (input?.value || "").trim().toLowerCase();
+
+          cards.forEach((c) => {
+            const name = c.getAttribute("data-name") || "";
+            const def = c.getAttribute("data-def") || "";
+            const ex = c.getAttribute("data-ex") || "";
+
+            const hay = name + " " + def + " " + ex;
+
+            c.style.display = !q || hay.includes(q) ? "" : "none";
+          });
+        }
+
+        // Suchfunktion bei jeder Eingabe neu anwenden
+        input?.addEventListener("input", applyFilter);
+        applyFilter();
+      })();
+    </script>
+  </body>
+</html>

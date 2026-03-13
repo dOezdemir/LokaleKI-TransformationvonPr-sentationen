@@ -1,0 +1,639 @@
+{
+  "run_id": "2026_03_12_195844",
+  "created_at_epoch": 1773341935,
+  "params": {
+    "phase": 3,
+    "templates_dir": "C:\\Users\\oezdemir\\Desktop\\Projekt\\templates",
+    "template_slide": "slide.html.j2",
+    "template_index": "index.html.j2",
+    "template_glossary": "glossary.html.j2",
+    "template_quiz": "quiz.html.j2",
+    "processed_dir": "C:\\Users\\oezdemir\\Desktop\\Projekt\\data\\processed",
+    "export_dir": "C:\\Users\\oezdemir\\Desktop\\Projekt\\export",
+    "audit_dir": "C:\\Users\\oezdemir\\Desktop\\Projekt\\audit",
+    "source_assets_dir": "C:\\Users\\oezdemir\\Desktop\\Projekt\\assets",
+    "styles_dir": "C:\\Users\\oezdemir\\Desktop\\Projekt\\export\\style"
+  },
+  "artifacts": [
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/assets/pdf_page11_img1.jpeg",
+      "sha256": "5ae526cfbb7928bcc1681c8ffda5a1c7407e0f018a7200dc9e1fbb0894619c33"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/assets/pdf_page14_img1.jpeg",
+      "sha256": "0024c3e2864e0ec5aa1ad17e615b5fc5f35433a3569538e90af9c23002764b60"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/assets/pdf_page17_img1.jpeg",
+      "sha256": "6b3e64a2311f1bfee1490fe021514729bed159b9a1f3c32e9be9a19f50106955"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/assets/pdf_page18_img1.jpeg",
+      "sha256": "b2a3f117ce7a22c2a0bc4b22cdc42a3aa96ec1105ddea88dc67ab27a1bf664a6"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/assets/pdf_page19_img1.jpeg",
+      "sha256": "a36c0a274e59cd6b7045bc1497dd8c9c1aed7fe15eb89ddfc6c88e65b52711ed"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/assets/pdf_page1_img1.jpeg",
+      "sha256": "2f9ad0d2239283ef7f37c73a9dacb1fb8892006bcea3538a98be7a77748e52be"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/assets/pdf_page20_chart1.png",
+      "sha256": "d6d67be39bec6570b166f344f9b042d24529a7aa05b01384de8197141d3a98c6"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/assets/pdf_page22_chart1.png",
+      "sha256": "b92cbe155cc3844b9eb0f7216552657475b1eb647222419b5bb7d112b1e6fb9d"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/assets/pdf_page23_img1.jpeg",
+      "sha256": "ad9813ceaa4556ddd6e23c9a383144a9ba75f8c5af8692b679b2dc39061c7da5"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/assets/pdf_page25_img1.jpeg",
+      "sha256": "d9850fe3eeaf34513d6030ff35114763b0606cf9af57d6e0346864cdb5b671ba"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/assets/pdf_page26_img1.jpeg",
+      "sha256": "3620c6186ab92007a8c25b8abba3950cd2e1c6c35bffbaebc5be6c0e1d62bca7"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/assets/pdf_page28_img1.jpeg",
+      "sha256": "525f492d39f593c862aedf9f9ec10dc6979c09bdfe785cf610a106138be23a7f"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/assets/pdf_page30_img1.jpeg",
+      "sha256": "ea2624af993c89f97b25d431dc9da7d069ba67b944fc883086aa75faf068bc23"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/assets/pdf_page38_img1.jpeg",
+      "sha256": "d297bb07174b54819373087ebde7590096310b407deee09885f7db0217f22d67"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/assets/pdf_page39_img1.jpeg",
+      "sha256": "ed428f18d1db123bf7ffd48d91557b27caf76d8227b3ab4082f70135ad7f608e"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/assets/pdf_page3_img1.jpeg",
+      "sha256": "1125a989968806b27d3b19eb4cd754d4a1c6bb2cd388e7b5c86ae4bc61281eba"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/assets/pdf_page41_img1.jpeg",
+      "sha256": "29ff93564307180e4691e29f684402414e557dc9475d88c92bf5a854a0d8c83a"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/assets/pdf_page46_img1.jpeg",
+      "sha256": "33b183ff02cda16333d5e2c91980753c243f60b9aa4d188ed3a86605ffa82d31"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/assets/pdf_page49_chart1.png",
+      "sha256": "0f8d4ff3e324fcadc9799b1c0c60654a3d9d423a281d21a34eb40ba9ec036fcf"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/assets/pdf_page6_img1.jpeg",
+      "sha256": "b19d090ac630bd494af46e2d0abe9bd5c186a4e439d92cb142051829ae1a2b52"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/assets/pdf_page6_img2.jpeg",
+      "sha256": "da512e0e8cf90b58ca5bd1e522718f813b9af67f1709d1394344e5333d5886e6"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/assets/pdf_page6_img3.jpeg",
+      "sha256": "975a3ffd4251519e86a5507cf2a257c15cc3e8d109f6defd7a16df06759d51c2"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/assets/pdf_page7_img1.jpeg",
+      "sha256": "c171bde5bf9f9ecf12b286ce6d44b9893f7ba551d7127f09247db5c7502d8142"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/assets/pdf_page8_chart1.png",
+      "sha256": "7449667ecbdd3c6177bd9be6299b7355c737e7ad864c50b6ff60301c55c2d96e"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/assets/pdf_page9_img1.jpeg",
+      "sha256": "d760282e81164c080080c042c44bd4f96e116fa8bd380bf60d970d575888887a"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/assets/pptx_slide10_img6.png",
+      "sha256": "d97ff84bd735a9e1a3ec4838dbdbe659fc88923755e7bc745c9689d29df60b8c"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/assets/pptx_slide12_img7.png",
+      "sha256": "f4d78fe71373cf19208c6fe30e788db97ef67c85e652e8c2ef763c3826e11a63"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/assets/pptx_slide14_img8.jpg",
+      "sha256": "a93ca58fad12b81b6cccc35281d013aea111e1421fceb171176c0fb28f0c1c39"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/assets/pptx_slide15_img9.png",
+      "sha256": "a7b857a56bfb9844593e567332e4a1fae389dd0427f9e77c02429a1981d64b9e"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/assets/pptx_slide16_img10.png",
+      "sha256": "e4b9933f29a387e02dec84ee11ea9382b8299974b9ba26842911909a1a0df021"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/assets/pptx_slide18_img11.png",
+      "sha256": "76d9670c4dc150d74bdb3cf32623bce5d5fdd92b608844fd0bd948c74974304f"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/assets/pptx_slide18_img12.png",
+      "sha256": "2dcb43d4b6515cad41d88d29358ceb983a26ed2911fc7be5030523561b918d36"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/assets/pptx_slide18_img13.png",
+      "sha256": "17816d91202eb28cae8d2cfb6bb98acbdf0f377d589dcc4fb32d5f1afe796bfc"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/assets/pptx_slide19_img14.png",
+      "sha256": "c27a5b70ab261b9c2cb32c8d128a559b962ea810f5b81516f280667726e2dba8"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/assets/pptx_slide1_img1.jpg",
+      "sha256": "9660aed42ad29861a0f5201dbb211077772a1c0abd6a41597b16f5592932f632"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/assets/pptx_slide20_img15.png",
+      "sha256": "900268619b5fd3a0083a3db69349f527e4c890bcc9ecbe5c15fe494ceb83602e"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/assets/pptx_slide21_img16.png",
+      "sha256": "7b34c6eb13eb2f44e9f0f26e9cd66bdbfb5ba728a1c07af549bab4ce11b8f247"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/assets/pptx_slide22_img17.png",
+      "sha256": "ec8ea92afd4dc894f5ac78d8a2b056f5a9cb3e3e70b6a7185924d5ae01b89afd"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/assets/pptx_slide23_img18.png",
+      "sha256": "5e2a8d0417fc5ec2cc125a07a92549532ff75e3f4e2a5164a28f130fd84adcbd"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/assets/pptx_slide24_img19.png",
+      "sha256": "25407bb9675d5412ccfa467faa5d178cbe7cbabd87465fa413c22620c8091491"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/assets/pptx_slide33_img20.png",
+      "sha256": "9e3711178dfa8d4a08f2c251c71edd9b6dedcc7f4628c51db138ade6ebbb081e"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/assets/pptx_slide38_img21.png",
+      "sha256": "8163b1db08cb25ed60adccd855731ea006f57926844b1ea0a28c15181088e810"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/assets/pptx_slide3_img2.jpg",
+      "sha256": "9af3c1dbc2135b23ff70dead8fa26f612876fb08a9e53117f26956e458df2709"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/assets/pptx_slide40_img22.png",
+      "sha256": "932f82b1714d1a7fef5318c56d595ecf35f708eef809d45efdd32742d18cfa35"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/assets/pptx_slide45_img23.png",
+      "sha256": "9e3711178dfa8d4a08f2c251c71edd9b6dedcc7f4628c51db138ade6ebbb081e"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/assets/pptx_slide47_img24.png",
+      "sha256": "c0d491321e3c5f9ccdcfda8405c4f10ed2aa2d68a5de84bfa244df3c79efdf8d"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/assets/pptx_slide48_img25.png",
+      "sha256": "11d6da440055f97cb3a9a985466d4f756d235206695b32c73d31a9ece64a8945"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/assets/pptx_slide4_img3.png",
+      "sha256": "ec527415e7abd2b27d751575965f198696ae8ed35e4a1b16185169ff8a1ab2d6"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/assets/pptx_slide50_img26.jpg",
+      "sha256": "e8a0eaf8fa34f1aaca45e667115256cf6323fee3b5f5da3fad6da4ee5be37218"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/assets/pptx_slide5_img4.png",
+      "sha256": "3e0c1f28a95d2eb7811be8c72e093542f5c6748e7a2ef8d843350a017d98627c"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/assets/pptx_slide6_img5.png",
+      "sha256": "ece64dd6301436276c2520fddc688d110271ba1bc2f43c486b1554389e5df3b9"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/glossar.html",
+      "sha256": "7523ac80d07806c855940bdea32acaf87505d0e4dc19bb981907e56dfca9622a"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/index.html",
+      "sha256": "c11251f924ec51558ea84e87b4c70ec6ebf2c63080dc463bb4eca3270f0f890a"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/quiz.html",
+      "sha256": "319bd7fc783640bec3c2ce057774f77de88d15b5201f19b0c3e4b822d419ba55"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/slides/pdf_slide_001.html",
+      "sha256": "ccc23449ead19c8cec4d3b4c5a312e5bf39ffbdc167cfa7294568e2696a08c5f"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/slides/pdf_slide_002.html",
+      "sha256": "c3540a53890fb4dd6491f9cb92c9be9e730a07e479d69c072e335140127f19c2"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/slides/pdf_slide_003.html",
+      "sha256": "e36b42b3a28c66a3ee2e848886f648e3e505581af9e60fc2fd513d459bce9ad7"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/slides/pdf_slide_004.html",
+      "sha256": "afab9f59fe861d5f8bdf933edddcc0c1cc11e6e57f0a74785b42b43888514286"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/slides/pdf_slide_005.html",
+      "sha256": "7a846ecaa4993859577a7519c95c7a168c1663650457696933b59ad212304832"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/slides/pdf_slide_006.html",
+      "sha256": "a4b3295098b27083055630f302609e21265828476ad9312ad79cce19fdb33089"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/slides/pdf_slide_007.html",
+      "sha256": "542d91922a0db0a420032ab18bee7d98fe63ed108da7fff8c337aa826509d2e6"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/slides/pdf_slide_008.html",
+      "sha256": "0de3f1ce4e3aa997fddc07a7d36235feaf50a1b3542bd15b638f0c3e634dad64"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/slides/pdf_slide_009.html",
+      "sha256": "bb7b4283b1d19a68314321fd0b8cb0e3f1d6bfd3476d479b502d8c41e87422ec"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/slides/pdf_slide_010.html",
+      "sha256": "865c55c61af7952cace7b8bbdd4560a0d727c6950ee7855f20596f70e9e1272d"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/slides/pdf_slide_011.html",
+      "sha256": "9eea3784a7dec2654dea5b02cd3fb059f04dc2f5e38130c2cbc7d9f8db6c1cf7"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/slides/pdf_slide_012.html",
+      "sha256": "4c95f7b56171bdbf46063b9fa94ad88a1ee413e61aaf63c460b59f1cb8d10bf1"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/slides/pdf_slide_013.html",
+      "sha256": "2e0d9b9e6ea60af2df0f4447f428b8e588fc93b09c4acf5489acfc3c342b9507"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/slides/pdf_slide_014.html",
+      "sha256": "f0ff536bf7d0f41b97b4882cbafd0f8b24d250449ead1b2e7b1cc77c45e3a056"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/slides/pdf_slide_015.html",
+      "sha256": "a3bb8e336a91b60ce75fef7519ff93b168db9bd60bc0b9a09696d7fc69158993"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/slides/pdf_slide_016.html",
+      "sha256": "fda22c296464843a832c0f8c21af2018c2472d90f8fedd6a11058ffe77643c16"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/slides/pdf_slide_017.html",
+      "sha256": "d8d06609cb41866c5c9b7c92d9147003a0efd2a445903a812cb47bb009a0bb1c"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/slides/pdf_slide_018.html",
+      "sha256": "9fe7a7f05dc8c4c377789539e80d2fc546f8601d8fb52995cc8106c6690e6659"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/slides/pdf_slide_019.html",
+      "sha256": "df4f5207451f79255d0a80cdd6755c670d02036abc31b8e221ae0da8058e9df6"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/slides/pdf_slide_020.html",
+      "sha256": "6036d76ed9bac877e12fd994f77e44240fc97f1ab596fec8e7b37778038c1be9"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/slides/pdf_slide_021.html",
+      "sha256": "66b3211c43c3517202bb5ca02cb0b50713d8eea51429b5ff5ba73074387e9502"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/slides/pdf_slide_022.html",
+      "sha256": "0df456e62a6421750d630847e831fb27de123ca4cb6e48831dd6dc0bd78165b5"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/slides/pdf_slide_023.html",
+      "sha256": "8c31b0cc88b41669c6882e62d5493424466d29df7466277cc317a827254f23c0"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/slides/pdf_slide_024.html",
+      "sha256": "d5154922b495b50517c38620798137811f5308b1f480ebf3a983ad0785a47961"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/slides/pdf_slide_025.html",
+      "sha256": "159c55cec86d1488b5814f3c76e98aa9b9ad20eec4e82bc1b74377d94b0335f6"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/slides/pdf_slide_026.html",
+      "sha256": "deff653de9413f2c60f69e29ac163837784f48b194ebb50770308a8e39acf03b"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/slides/pdf_slide_027.html",
+      "sha256": "ef583ca4bdbc45d1dcb9054e044a08c0f64dd84615db84fa93b8b2454c6662bd"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/slides/pdf_slide_028.html",
+      "sha256": "8245a857409ac6d86abe4257b080486835cbf79d2ae3b4bd85bd60d2eec58a64"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/slides/pdf_slide_029.html",
+      "sha256": "adb290d845703daecbf44523a3169f4a4810192d90318735f3a3746c5e5ed47a"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/slides/pdf_slide_030.html",
+      "sha256": "2cf83c0b0df0cb11bfcc120fcc5ef6cd277e86a1c10ff5c20c6a1b17bc324d99"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/slides/pdf_slide_031.html",
+      "sha256": "3a97cbb309a768e7424c2d8acfe69523806ede47e680f9ea4a4ce0449ba3b3fe"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/slides/pdf_slide_032.html",
+      "sha256": "e3a5e505d13fc8ea736d49af66d8e947979eed66fc294d2e30009381474f59cb"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/slides/pdf_slide_033.html",
+      "sha256": "94665546b46e15e348b016f37cd5544fae61f06866e55811bd1d90805fc0c0e0"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/slides/pdf_slide_034.html",
+      "sha256": "c1b0e4401a08ea31971c9117d87b938c05977e1de09dde2a523a202b4bdb5d0f"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/slides/pdf_slide_035.html",
+      "sha256": "9e4f2b7fd683b83c96702a2c4434fa5883c90618ce5da5306b53a65353c5dc17"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/slides/pdf_slide_036.html",
+      "sha256": "d38b75a380a95d7b425a5b0c78ad6fdecc2244a8f0601747eb6db0f813166008"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/slides/pdf_slide_037.html",
+      "sha256": "04de65f8879e6968ffbc5c7ce43accf794098f25fff258314df5798b85402c44"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/slides/pdf_slide_038.html",
+      "sha256": "258bf1710814c8634eef9340c6c46dd75ae6e25e78e03801477a42019a7908e8"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/slides/pdf_slide_039.html",
+      "sha256": "23b9390e5f91084931968d251d8dd879392970a92a274b615eac1777103a6c97"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/slides/pdf_slide_040.html",
+      "sha256": "239ac971cbdf8cb3406ed43a9eef833b3ad1ec29b4d0c95629db4246c9aa3f43"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/slides/pdf_slide_041.html",
+      "sha256": "7965dea8aac919e5674ef83aee70074fb7e87b0554e9d8d2e99049b4eb8255d6"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/slides/pdf_slide_042.html",
+      "sha256": "c7e2c6b73733604048b0869b94c40b61edb703c176c3b43ff09e75fdc981aa46"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/slides/pdf_slide_043.html",
+      "sha256": "c07525dc79f26875980a2bb4ae2c9dcdd5ceb5bb9f17f5bd96d4ab464d6efabd"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/slides/pdf_slide_044.html",
+      "sha256": "0e82f22aa06fffc852c85d2a02264a57247cc50225c2d9d06cc160b2ac199087"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/slides/pdf_slide_045.html",
+      "sha256": "f5f051941e25ca1db185edd2cda02c43f5c063b87cba5bae28d62201a990fce2"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/slides/pdf_slide_046.html",
+      "sha256": "178e9c27bca064bd58bfe34ae3cc1b19146c844f39f4f75f8ab3659818ae4e5f"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/slides/pdf_slide_047.html",
+      "sha256": "6dd218bf0fcf86f2ed2e4309a12a58e9c1efc4ceb6d03dc7fb308bfcd3fec6ef"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/slides/pdf_slide_048.html",
+      "sha256": "88b2ca742c0d42e54d1512608dbc01546dc2482ef4f237fd38578fe71e8d7030"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/slides/pdf_slide_049.html",
+      "sha256": "963b0614ea2b29955f188395e628f286fa51085ace7848a6003ccac8da8e5195"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/slides/pdf_slide_050.html",
+      "sha256": "8ca0a5f43ff7ce8d578ffa0e9776ab4a0855b737698a5b8cfd8ab611559304ad"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/slides/pptx_slide_001.html",
+      "sha256": "cf82fef5765df2543811836ff4565b08acf2741b75b6104e252ff7a1623fa3c6"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/slides/pptx_slide_002.html",
+      "sha256": "96829037640afa6bc84471c308ef2310c3988f217556bdfd57759d17413b5c92"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/slides/pptx_slide_003.html",
+      "sha256": "02f3d4da31c5c1ee97c9a108b07d342d23a340d5294daca2a8739f67cd0f19c8"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/slides/pptx_slide_004.html",
+      "sha256": "ae0815ccb54da37e343ddbee3a4a76ce888f649d2dd213c8cadeb9fa0f2639d3"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/slides/pptx_slide_005.html",
+      "sha256": "9be8b0b6db62d72f562744672b42c760b8368c2c7ab804ea913d70da231ca24d"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/slides/pptx_slide_006.html",
+      "sha256": "8986f503963d01767fd8ef24676c0e31d168bc014edbc91c10599aaccc56b1c8"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/slides/pptx_slide_007.html",
+      "sha256": "f48ba82d04d406853e91a7b77da105b6f44e09c433dccb4be92d3173a8f1b7b7"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/slides/pptx_slide_008.html",
+      "sha256": "6d8560eb7b2c0da38f4975a619dc01a2fa6cf9e03759963be815fa2c0d9e8869"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/slides/pptx_slide_009.html",
+      "sha256": "6526448036627a35f53537545d649850935c0ac4e0b87d101d38c49734c60555"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/slides/pptx_slide_010.html",
+      "sha256": "e88c1806093a2eb210cc241990d8b913bae331d028df373355540841c0c1aac4"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/slides/pptx_slide_011.html",
+      "sha256": "c9bbf63871422581e7392339a0ea721647e6dafe596683e2b9b8c0df859de047"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/slides/pptx_slide_012.html",
+      "sha256": "359e454910c4d006112ee557c943ffd74dcbe448aff69d65371a26527a62243f"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/slides/pptx_slide_013.html",
+      "sha256": "efb9195b08766073f477c7cff07976eee97b21b7d2f15612ca9756d79e88049f"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/slides/pptx_slide_014.html",
+      "sha256": "6c71f19822b7a64c696e85c1a89dd3c8dbb05fe45e58dd7c64abaea80716a51b"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/slides/pptx_slide_015.html",
+      "sha256": "5731e9351507816e032c1844a0ad994460a3c0c1bc59a5ffcfe9dd401d2de879"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/slides/pptx_slide_016.html",
+      "sha256": "5c0cba95b03f725cb4075813a640abf9717715fd3f4b2ab9f3f7894442f0aca0"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/slides/pptx_slide_017.html",
+      "sha256": "e4c7d846a1f33c36dd000ef15ecf2db7f8925984b19b0e31f5f4fa665033fc76"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/slides/pptx_slide_018.html",
+      "sha256": "d95b9f7e97a9d991e3ad51181fe8290608c37cfd0f754adaab7b112b96922aa3"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/slides/pptx_slide_019.html",
+      "sha256": "b4cc7a70b7de0e7ee4266c9e89efc0e1e124ab1092d1b66f190c1fe7c79676ac"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/slides/pptx_slide_020.html",
+      "sha256": "b44efe2676c2ae05c59c05485befc76f411482f3e7cbfbd8dff807dcc3df8d28"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/slides/pptx_slide_021.html",
+      "sha256": "2fd62be48a0340f77bc784ad0f6fa0ff938d9e4b3dd700e33c1760b88f8072c1"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/slides/pptx_slide_022.html",
+      "sha256": "0f616330a76519e3fcdc868ae47d9224ec5d0f7443fbda48300e35cd1613d44f"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/slides/pptx_slide_023.html",
+      "sha256": "05b07ddb60f235c53a9b7cccaf3ce74391bd515a56eca7ebbc7bebe7ec5253cb"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/slides/pptx_slide_024.html",
+      "sha256": "cf3935cb287be1e8b8a272782efe5a5a26226ac02d969355acf225b22a42b62d"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/slides/pptx_slide_025.html",
+      "sha256": "33d8b96910f7258113a8d3cc967078e001870f13d7d9589474b1a1d2a0c81774"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/slides/pptx_slide_026.html",
+      "sha256": "efe2465803932d37e09a68b719960406e530a50ccf595d68e1a3963c83686174"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/slides/pptx_slide_027.html",
+      "sha256": "2b4a97fe985e136187bf0eb2a9d69b9edcf404a666a1e93aeaf9816528d5b186"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/slides/pptx_slide_028.html",
+      "sha256": "d68b9a131c62c7935d15ef9aa6c8418a247155e46affbd43cb4170198e945155"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/slides/pptx_slide_029.html",
+      "sha256": "f72165ae9502d0b17fead981f0603a49236929c5077c912cbe395221111d0a6b"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/slides/pptx_slide_030.html",
+      "sha256": "d44e4c528c387c98622686b241854c21ae1f87d7693cd4f6bd4ffb8b0790e5e7"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/slides/pptx_slide_031.html",
+      "sha256": "dc00196649b454f26a0c4ec6069ce273d880975e1e82cdcf533d13bd67acf2d7"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/slides/pptx_slide_032.html",
+      "sha256": "826fa6ad09ede55632cec6ca37f71fc3a489e9f7cf300214507bca0635a425b1"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/slides/pptx_slide_033.html",
+      "sha256": "9b1c95f2eb61652c1981db4543030b6ba1bbb056c484798d43a5cc30d51cf17d"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/slides/pptx_slide_034.html",
+      "sha256": "0bf2e67d9027780060fcfbcfd1035cc1678e62117c5d810f706d7816053e74c3"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/slides/pptx_slide_035.html",
+      "sha256": "e2866cc4daaafb8d40e890b96d8edea5843e74144a1c3f4e74d3bab8b57cc4d2"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/slides/pptx_slide_036.html",
+      "sha256": "7248341bfe40011972e258d07098418c79c4010103dc7f131f105fb60da951bc"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/slides/pptx_slide_037.html",
+      "sha256": "3a05ec684c3ab6baf33294e09ffb2a19f64619f99c77f742ff2aa1f26f41aa04"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/slides/pptx_slide_038.html",
+      "sha256": "4181a43aeb1780a9112c599042bf3aa92fd2db08981eff019bc7ea606f09b360"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/slides/pptx_slide_039.html",
+      "sha256": "4b0dd1eeff28cd0d9970d2335c429a505455234b0fba2ddbec3b3a62930c1239"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/slides/pptx_slide_040.html",
+      "sha256": "d8605764ac71dbbf47e436983fdc7caaba9730e693f4481a2f54ef25116e9f6f"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/slides/pptx_slide_041.html",
+      "sha256": "89e88fbb7cec39b7587f441c222f62a7507a47268248b5a9314a6c1b884b7540"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/slides/pptx_slide_042.html",
+      "sha256": "76ea6da3197d0bd3914586b5698ad73daf66ed082686ff9ddff3ca0a48a5faa6"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/slides/pptx_slide_043.html",
+      "sha256": "441f2b765dbf01172db57affcd26d6d64ab58f3c8de6a09344b083b2c3f67fa1"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/slides/pptx_slide_044.html",
+      "sha256": "247fec976d33ac4b414ecaf6cb46baa5188d2b1a975cea9356a7937aa5c41f48"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/slides/pptx_slide_045.html",
+      "sha256": "25bb5f3bb885273eedf4d5742ffb7a7f78c62773986821eacd4ce4fe95daee87"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/slides/pptx_slide_046.html",
+      "sha256": "b4616228c10ae2fe7fdede8c48c8d670e21d00639fef454a184f14a1c13ee2c6"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/slides/pptx_slide_047.html",
+      "sha256": "99c45e4fff92ca61e2b39df1d9d873ed5e22bdcd10f9d7d4a5660daaca475324"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/slides/pptx_slide_048.html",
+      "sha256": "4945c6c988b1fc214770b93ac6b4eba8a6fe443ad0a3892365903b937cc56790"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/slides/pptx_slide_049.html",
+      "sha256": "91d8020cbd0365e680c77aa8d6231776c5781e03498a81eba620bdb46ca6d961"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/slides/pptx_slide_050.html",
+      "sha256": "bad2da07ea48dc9546407a1765c834ab6a9d22168f8c974e1b34c9c99e73198e"
+    },
+    {
+      "path": "C:/Users/oezdemir/Desktop/Projekt/export/style/style.css",
+      "sha256": "b8aed5653ddcd08d0545a26a0b1b9e597a82a4e68704a773ee017a84e0ac7a79"
+    }
+  ]
+}

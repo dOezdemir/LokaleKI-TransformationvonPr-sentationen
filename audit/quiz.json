@@ -1,0 +1,502 @@
+[
+  {
+    "slide": "slides/pdf_slide_001.html",
+    "question": "____ Überblick zu Big",
+    "answer": "Umfassender"
+  },
+  {
+    "slide": "slides/pdf_slide_002.html",
+    "question": "Big Data ermöglicht Erkenntnisse, die mit klassischen ____ nicht effizient gewonnen werden",
+    "answer": "Datenbanksystemen"
+  },
+  {
+    "slide": "slides/pdf_slide_003.html",
+    "question": "01 ____",
+    "answer": "Grundlagen"
+  },
+  {
+    "slide": "slides/pdf_slide_004.html",
+    "question": "____ umfasst riesige Datenmengen, die durch hohe Geschwindigkeit, Vielfalt und Volumen charakterisiert",
+    "answer": "big data"
+  },
+  {
+    "slide": "slides/pdf_slide_005.html",
+    "question": "Die fünf  Vs beschreiben zentrale Eigenschaften, die ____ von herkömmlicher Datenverarbeitung unterscheiden.",
+    "answer": "big data"
+  },
+  {
+    "slide": "slides/pdf_slide_006.html",
+    "question": "Volume, ____, Variety, Veracity, Value",
+    "answer": "Velocity"
+  },
+  {
+    "slide": "slides/pdf_slide_007.html",
+    "question": "Im Gegensatz zur ____ adressiert Big",
+    "answer": "traditionellen datenverarbeitung"
+  },
+  {
+    "slide": "slides/pdf_slide_008.html",
+    "question": "02 ____",
+    "answer": "Technologische"
+  },
+  {
+    "slide": "slides/pdf_slide_009.html",
+    "question": "Automatisierte ____ bereiten Daten für Speicherung",
+    "answer": "Ingestion-Prozesse"
+  },
+  {
+    "slide": "slides/pdf_slide_010.html",
+    "question": "Die Speicherung großer Datenmengen hat sich von strukturierten ____ Warehouses zu flexiblen Data Lakes",
+    "answer": "data"
+  },
+  {
+    "slide": "slides/pdf_slide_011.html",
+    "question": "Hadoop ____ File System speichert Daten verteilt über viele Knoten.",
+    "answer": "Distributed"
+  },
+  {
+    "slide": "slides/pdf_slide_012.html",
+    "question": "Apache Spark erweitert Hadoop durch schnellere ____.",
+    "answer": "In-Memory-Verarbeitung"
+  },
+  {
+    "slide": "slides/pdf_slide_013.html",
+    "question": "____ entstanden, um die Vielfalt moderner Datenquellen zu bewältigen.",
+    "answer": "NoSQL-Datenbanken"
+  },
+  {
+    "slide": "slides/pdf_slide_014.html",
+    "question": "Datenströme müssen effizient ____ und verarbeitet werden,",
+    "answer": "transportiert"
+  },
+  {
+    "slide": "slides/pdf_slide_015.html",
+    "question": "Datenmengen spielen Datenqualität, ____ und Governance eine entscheidende Rolle für",
+    "answer": "Zugriffskontrolle"
+  },
+  {
+    "slide": "slides/pdf_slide_016.html",
+    "question": "Die Integration mehrerer Technologien schafft eine skalierbare ____.",
+    "answer": "Analyseinfrastruktur"
+  },
+  {
+    "slide": "slides/pdf_slide_017.html",
+    "question": "bereiche von ____",
+    "answer": "big data"
+  },
+  {
+    "slide": "slides/pdf_slide_018.html",
+    "question": "____ entstehen durch schnellere und fundiertere",
+    "answer": "Wettbewerbsvorteile"
+  },
+  {
+    "slide": "slides/pdf_slide_019.html",
+    "question": "Analyse medizinischer Daten unterstützt ____ Therapien.",
+    "answer": "personalisierte"
+  },
+  {
+    "slide": "slides/pdf_slide_020.html",
+    "question": "Anwendungen im ____",
+    "answer": "Gesundheitswesen"
+  },
+  {
+    "slide": "slides/pdf_slide_021.html",
+    "question": "Im ____ wird Big Data eingesetzt, um Risiken zu minimieren und Betrug frühzeitig zu erkennen.",
+    "answer": "Finanzsektor"
+  },
+  {
+    "slide": "slides/pdf_slide_022.html",
+    "question": "____ & Marketing",
+    "answer": "kundensegmentierung"
+  },
+  {
+    "slide": "slides/pdf_slide_023.html",
+    "question": "Sensoren unterstützen intelligente Abfall- und ____.",
+    "answer": "Wassersysteme"
+  },
+  {
+    "slide": "slides/pdf_slide_024.html",
+    "question": "Dynamic Pricing reagiert auf ____ und passt Preise automatisch an Nachfrage, Wettbewerb",
+    "answer": "Marktveränderungen"
+  },
+  {
+    "slide": "slides/pdf_slide_025.html",
+    "question": "____ werden durch datenbasierte Analysen",
+    "answer": "Marketingstrategien"
+  },
+  {
+    "slide": "slides/pdf_slide_026.html",
+    "question": "04 ____",
+    "answer": "Herausforderungen"
+  },
+  {
+    "slide": "slides/pdf_slide_027.html",
+    "question": "Ein konsequenter Datenschutz stärkt langfristig das Vertrauen von Kunden, Partnern und der ____ in",
+    "answer": "Öffentlichkeit"
+  },
+  {
+    "slide": "slides/pdf_slide_028.html",
+    "question": "Quantum ____ besitzt das Potenzial, bisher unlösbare",
+    "answer": "Computing"
+  },
+  {
+    "slide": "slides/pdf_slide_029.html",
+    "question": "Edge Computing verarbeitet Daten direkt an der Quelle, statt sie ____ in zentrale Clouds zu senden.",
+    "answer": "ausschließlich"
+  },
+  {
+    "slide": "slides/pdf_slide_030.html",
+    "question": "Big Data erfordert ____ und qualifiziertes",
+    "answer": "leistungsfähige infrastruktur"
+  },
+  {
+    "slide": "slides/pdf_slide_031.html",
+    "question": "Flexibilität durch ____ und agile Strukturen unterstützt Unternehmen dabei, Daten schnell zu",
+    "answer": "Cloud-Lösungen"
+  },
+  {
+    "slide": "slides/pdf_slide_032.html",
+    "question": "Technologische Fortschritte erweitern kontinuierlich die Möglichkeiten ____ Analysen.",
+    "answer": "datengetriebener"
+  },
+  {
+    "slide": "slides/pdf_slide_033.html",
+    "question": "____ wird weiterhin zentrale Rolle in Wirtschaft und Gesellschaft spielen.",
+    "answer": "big data"
+  },
+  {
+    "slide": "slides/pdf_slide_034.html",
+    "question": "____ Weiterbildung stellt sicher, dass Mitarbeitende neue Technologien verstehen und Unternehmen",
+    "answer": "Kontinuierliche"
+  },
+  {
+    "slide": "slides/pdf_slide_035.html",
+    "question": "Investitionen in moderne ____ ermöglichen eine schnelle Verarbeitung großer Datenmengen und",
+    "answer": "Analyseplattformen"
+  },
+  {
+    "slide": "slides/pdf_slide_036.html",
+    "question": "____ Optimierung der Prozesse stellt sicher, dass Datenanalyse langfristig effizient bleibt und sich an",
+    "answer": "Kontinuierliche"
+  },
+  {
+    "slide": "slides/pdf_slide_037.html",
+    "question": "APIs verbinden neue Plattformen mit bestehenden Systemen und erleichtern den ____ Austausch von",
+    "answer": "automatisierten"
+  },
+  {
+    "slide": "slides/pdf_slide_038.html",
+    "question": "05 ____ &",
+    "answer": "data science"
+  },
+  {
+    "slide": "slides/pdf_slide_039.html",
+    "question": "Modelltraining und ____ Evaluation helfen dabei, die",
+    "answer": "kontinuierliche"
+  },
+  {
+    "slide": "slides/pdf_slide_040.html",
+    "question": "Modelle verbessern sich ____ durch neue Daten und regelmäßiges Training, wodurch ihre Genauigkeit und",
+    "answer": "kontinuierlich"
+  },
+  {
+    "slide": "slides/pdf_slide_041.html",
+    "question": "Deep Learning verarbeitet ____ Daten wie Bilder oder",
+    "answer": "hochkomplexe"
+  },
+  {
+    "slide": "slides/pdf_slide_042.html",
+    "question": "Storytelling mit Daten verbessert die ____ von Analysen und hilft, Ergebnisse klar und überzeugend zu",
+    "answer": "Verständlichkeit"
+  },
+  {
+    "slide": "slides/pdf_slide_043.html",
+    "question": "06 Ethik, Recht & ____",
+    "answer": "Organisation"
+  },
+  {
+    "slide": "slides/pdf_slide_044.html",
+    "question": "Transparente ____ ist gesetzlich vorgeschrieben und verpflichtet Unternehmen dazu, offen",
+    "answer": "Datenverwendung"
+  },
+  {
+    "slide": "slides/pdf_slide_045.html",
+    "question": "Ethikrichtlinien und klare Standards schaffen Orientierung für den ____ Umgang mit datenbasierten",
+    "answer": "verantwortungsvollen"
+  },
+  {
+    "slide": "slides/pdf_slide_046.html",
+    "question": "Die Standardisierung von ____ ermöglicht eine",
+    "answer": "Qualitätskriterien"
+  },
+  {
+    "slide": "slides/pdf_slide_047.html",
+    "question": "____ Weiterbildung ist notwendig, um mit der schnellen Entwicklung neuer Technologien und Methoden",
+    "answer": "Kontinuierliche"
+  },
+  {
+    "slide": "slides/pdf_slide_048.html",
+    "question": "Die Messung des ____ Nutzens ist entscheidend, um den Erfolg von Datenprojekten anhand klarer",
+    "answer": "wirtschaftlichen"
+  },
+  {
+    "slide": "slides/pdf_slide_049.html",
+    "question": "____ bietet enorme Chancen für Unternehmen durch verbesserte",
+    "answer": "big data"
+  },
+  {
+    "slide": "slides/pdf_slide_050.html",
+    "question": "____!",
+    "answer": "Thanks"
+  },
+  {
+    "slide": "slides/pptx_slide_001.html",
+    "question": "KI- Avatare im ____ verstehen",
+    "answer": "marketing"
+  },
+  {
+    "slide": "slides/pptx_slide_002.html",
+    "question": "KI-Avatare verändern die Art, wie Marken kommunizieren, weil sie Inhalte ____ und skalierbar vermitteln können.",
+    "answer": "personalisiert"
+  },
+  {
+    "slide": "slides/pptx_slide_003.html",
+    "question": "01 Entwicklung von KI-____n",
+    "answer": "avatare"
+  },
+  {
+    "slide": "slides/pptx_slide_004.html",
+    "question": "Die heutigen KI-Avatare sind das Ergebnis einer langen Entwicklung ____, die mit einfachen Regeln begann.",
+    "answer": "künstlicher intelligenz"
+  },
+  {
+    "slide": "slides/pptx_slide_005.html",
+    "question": "Bevor KI-Avatare im ____ angekommen sind, wurden sie in digitalen Umgebungen getestet, in denen Interaktion wichtig ist.",
+    "answer": "marketing"
+  },
+  {
+    "slide": "slides/pptx_slide_006.html",
+    "question": "Dadurch entsteht ein konsistentes Verhalten, das in Videos und ____ genutzt werden kann.",
+    "answer": "Echtzeit-Anwendungen"
+  },
+  {
+    "slide": "slides/pptx_slide_007.html",
+    "question": "____ dahinter –LLMs & Generative Visuals",
+    "answer": "technologie"
+  },
+  {
+    "slide": "slides/pptx_slide_008.html",
+    "question": "____ dahinter – TTS & “Animation”",
+    "answer": "technologie"
+  },
+  {
+    "slide": "slides/pptx_slide_009.html",
+    "question": "KI-Avatare können Kommunikation zugänglicher machen, weil sie Inhalte automatisch an ____ Bedürfnisse anpassen.",
+    "answer": "unterschiedliche"
+  },
+  {
+    "slide": "slides/pptx_slide_010.html",
+    "question": "02 Einsatz von KI-Avataren im ____",
+    "answer": "marketing"
+  },
+  {
+    "slide": "slides/pptx_slide_011.html",
+    "question": "____ Inhalte ersetzen zunehmend statische Werbung, wodurch Produktion und Aktualisierung häufiger nötig werden.",
+    "answer": "Video-basierte"
+  },
+  {
+    "slide": "slides/pptx_slide_012.html",
+    "question": "KI-generierte Werbe-Avatare ____ Figuren, die in Videos oder Dialogsystemen als Markenrepräsentanten auftreten.",
+    "answer": "sind digitale"
+  },
+  {
+    "slide": "slides/pptx_slide_013.html",
+    "question": "Der Markt für ____ ist stark gewachsen und bietet spezialisierte Tools für Video, E-Learning und Kundenservice.",
+    "answer": "KI-Avatar-Plattformen"
+  },
+  {
+    "slide": "slides/pptx_slide_014.html",
+    "question": "KI-____ können Inhalte an individuelle Bedürfnisse anpassen und damit relevanter machen als klassische Massenkommunikation.",
+    "answer": "avatare"
+  },
+  {
+    "slide": "slides/pptx_slide_015.html",
+    "question": "Neben ____kampagnen werden KI-Avatare häufig für Support und Service eingesetzt, weil sie dauerhaft verfügbar sind.",
+    "answer": "marketing"
+  },
+  {
+    "slide": "slides/pptx_slide_016.html",
+    "question": "KI-____ können als konstante Markenfigur auftreten und dadurch Identität und Vertrauen stärken.",
+    "answer": "avatare"
+  },
+  {
+    "slide": "slides/pptx_slide_017.html",
+    "question": "Botschaften müssen für die Algorithmen der ____ Assistenten optimiert werden.",
+    "answer": "persönlichen"
+  },
+  {
+    "slide": "slides/pptx_slide_018.html",
+    "question": "Die Top ____ Beispiele",
+    "answer": "KI-Influencer"
+  },
+  {
+    "slide": "slides/pptx_slide_019.html",
+    "question": "Sie hat eine eigene Backstory als 19-jähriges Mädchen in L.A., veröffentlicht Pop-Songs und erzielt ein geschätztes ____ in Millionenhöhe.",
+    "answer": "Jahreseinkommen"
+  },
+  {
+    "slide": "slides/pptx_slide_020.html",
+    "question": "Sie ist die erste digitale Figur, die einen ____ bei Warner Music unterschrieben hat.",
+    "answer": "Plattenvertrag"
+  },
+  {
+    "slide": "slides/pptx_slide_021.html",
+    "question": "Sie wirkt so echt, dass sie regelmäßig ____ von Prominenten erhält, die sie für real halten.",
+    "answer": "Nachrichten"
+  },
+  {
+    "slide": "slides/pptx_slide_022.html",
+    "question": "03 Vorteile und ____",
+    "answer": "Herausforderungen"
+  },
+  {
+    "slide": "slides/pptx_slide_023.html",
+    "question": "KI-____ automatisieren wiederkehrende Aufgaben und machen Content-Produktion schneller und günstiger.",
+    "answer": "avatare"
+  },
+  {
+    "slide": "slides/pptx_slide_024.html",
+    "question": "Der Einsatz von ____ ist nur dann nachhaltig, wenn Nutzer verstehen, was mit ihren Daten passiert.",
+    "answer": "KI-Avataren"
+  },
+  {
+    "slide": "slides/pptx_slide_025.html",
+    "question": "Vermeidung von ____ durch manipulierte Aussagen oder Deepfakes.",
+    "answer": "Reputationsschäden"
+  },
+  {
+    "slide": "slides/pptx_slide_026.html",
+    "question": "Die Einführung von KI-Avataren ist mehr als ein Tool-Kauf, weil Prozesse, Systeme und ____ angepasst werden müssen.",
+    "answer": "Qualitätskontrollen"
+  },
+  {
+    "slide": "slides/pptx_slide_027.html",
+    "question": "Trotz großer ____ wirken KI-Avatare nicht in jeder Situation natürlich, besonders bei spontanen, kreativen oder emotional komplexen Gesprächen.",
+    "answer": "Fortschritte"
+  },
+  {
+    "slide": "slides/pptx_slide_028.html",
+    "question": "KI-Avatare verändern Produktionsketten in Werbung und Medien, weil Routinearbeiten ____ werden.",
+    "answer": "automatisiert"
+  },
+  {
+    "slide": "slides/pptx_slide_029.html",
+    "question": "Ein Haupttreiber für den Einsatz von KI-Avataren ist die massive ____ gegenüber menschlichen Produktionen.",
+    "answer": "Kostenersparnis"
+  },
+  {
+    "slide": "slides/pptx_slide_030.html",
+    "question": "Ohne klare Regeln kann dies zu unfairer Nutzung, fehlender Vergütung und ____ Konflikten führen.",
+    "answer": "rechtlichen"
+  },
+  {
+    "slide": "slides/pptx_slide_031.html",
+    "question": "Das Fallbeispiel zeigt, dass Kreative und Gewerkschaften aktiv gegen ____ digitale Duplizierung vorgehen.",
+    "answer": "unkontrollierte"
+  },
+  {
+    "slide": "slides/pptx_slide_032.html",
+    "question": "Statt einer ____ Ersetzung entsteht häufig ein hybrider Ansatz, bei dem KI skaliert und Menschen die kreative Kontrolle behalten.",
+    "answer": "kompletten"
+  },
+  {
+    "slide": "slides/pptx_slide_033.html",
+    "question": "04 ____",
+    "answer": "zukunftsperspektiven"
+  },
+  {
+    "slide": "slides/pptx_slide_034.html",
+    "question": "____ verbinden Web, E-Commerce, Social Media und Point of Sale in einer durchgängigen Customer Journey.",
+    "answer": "avatare"
+  },
+  {
+    "slide": "slides/pptx_slide_035.html",
+    "question": "Dadurch können Shops schneller reagieren und ____ Empfehlungen geben, ohne dass Personal verfügbar sein muss.",
+    "answer": "personalisierte"
+  },
+  {
+    "slide": "slides/pptx_slide_036.html",
+    "question": "Auf Social-Media-Plattformen werden ____ als „Always-on“-Markenbotschafter genutzt, die schnell Content produzieren.",
+    "answer": "avatare"
+  },
+  {
+    "slide": "slides/pptx_slide_037.html",
+    "question": "____ Kioske oder Displays ermöglichen Beratung, Support und Verfügbarkeitsprüfung direkt am Regal oder Empfang.",
+    "answer": "interaktive"
+  },
+  {
+    "slide": "slides/pptx_slide_038.html",
+    "question": "Die nächste Evolutionsstufe ist, dass ____ emotionale Signale erkennen und ihre Kommunikation anpassen.",
+    "answer": "avatare"
+  },
+  {
+    "slide": "slides/pptx_slide_039.html",
+    "question": "Gleichzeitig braucht es ____, damit emotionale Bindung nicht manipulativ ausgenutzt wird, besonders bei jungen Zielgruppen.",
+    "answer": "Verantwortung"
+  },
+  {
+    "slide": "slides/pptx_slide_040.html",
+    "question": "Kurz vor perfektem Realismus kippt die Reaktion jedoch oft ins Negative, was im Marketing ____ sein kann.",
+    "answer": "problematisch"
+  },
+  {
+    "slide": "slides/pptx_slide_041.html",
+    "question": "Erreicht die Ähnlichkeit ein fast perfektes, aber eben nicht ganz ____ Niveau, kippt die Sympathie schlagartig in Abscheu oder Unbehagen.",
+    "answer": "fehlerfreies"
+  },
+  {
+    "slide": "slides/pptx_slide_042.html",
+    "question": "Nutzer achten dann stärker auf ____ als auf die eigentliche Botschaft, wodurch Vertrauen und Aufmerksamkeit sinken.",
+    "answer": "Unstimmigkeiten"
+  },
+  {
+    "slide": "slides/pptx_slide_043.html",
+    "question": "Moderne Systeme nutzen gezielte Tricks, um Avatare ____ wirken zu lassen oder das Uncanny Valley zu umgehen.",
+    "answer": "natürlicher"
+  },
+  {
+    "slide": "slides/pptx_slide_044.html",
+    "question": "Im Marketing können sie zu massiven ____ führen, wenn Markenidentität oder Testimonials missbraucht werden..",
+    "answer": "Reputationsschäden"
+  },
+  {
+    "slide": "slides/pptx_slide_045.html",
+    "question": "05 Kulturelle ____",
+    "answer": "Unterschiede"
+  },
+  {
+    "slide": "slides/pptx_slide_046.html",
+    "question": "Die Akzeptanz von KI-____n hängt stark von Kultur, Religion, Werten und technologischem Vertrauen ab.",
+    "answer": "avatare"
+  },
+  {
+    "slide": "slides/pptx_slide_047.html",
+    "question": "Virtuelle Idole und V-Tuber sind dort etabliert, wodurch Avatare im Marketing oft leichter ____ werden.",
+    "answer": "akzeptiert"
+  },
+  {
+    "slide": "slides/pptx_slide_048.html",
+    "question": "In westlichen Kulturen ist die Beziehung zu KI-Avataren oft von Skepsis geprägt, weil ____ und Täuschung gefürchtet werden.",
+    "answer": "Manipulation"
+  },
+  {
+    "slide": "slides/pptx_slide_049.html",
+    "question": "Ein Avatar für den arabischen Markt benötigt ein anderes Styling, eine andere Gestik und Kleidung als ein Avatar für ____.",
+    "answer": "Skandinavien"
+  },
+  {
+    "slide": "slides/pptx_slide_050.html",
+    "question": "Mit ihren Vorteilen und Herausforderungen formen sie die Zukunft des ____s, indem sie persönliche Erlebnisse schaffen und die Kommunikation revolutionieren.",
+    "answer": "marketing"
+  }
+]

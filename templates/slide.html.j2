@@ -1,0 +1,303 @@
+<!doctype html>
+<html lang="de">
+  <head>
+    <!-- Zeichencodierung und responsives Verhalten -->
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <!-- Titel der aktuellen Folie -->
+    <title>{{ title }}</title>
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="../style/style.css" />
+
+    <!-- Font Awesome für Icons -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"
+    />
+  </head>
+
+  <!-- Falls die Folie aus einer PDF stammt, wird zusätzlich die Klasse is-pdf gesetzt -->
+  <body class="{% if is_pdf %}is-pdf{% endif %}">
+    <script>
+      // Aktiviert einen Debug-Modus, wenn in der URL ?debug=1 steht
+      if (new URLSearchParams(location.search).get("debug") === "1") {
+        document.body.classList.add("debug");
+      }
+    </script>
+
+    <!-- Kopfbereich mit Navigation -->
+    <header class="topbar">
+      <nav class="topbar-left" aria-label="Hauptnavigation">
+        <!-- Links zurück zu den Hauptseiten -->
+        <a class="tb-link" href="../index.html">← Index</a>
+        <a class="tb-link" href="../glossar.html">Glossar</a>
+        <a class="tb-link" href="../quiz.html">Quiz</a>
+      </nav>
+
+      <!-- Navigation zwischen den Folien -->
+      <div class="slide-nav" aria-label="Foliennavigation">
+        <a
+          class="nav-btn {% if not prev_href %}disabled{% endif %}"
+          href="{{ prev_href if prev_href else '#' }}"
+          aria-label="Vorherige Folie"
+          aria-disabled="{{ 'true' if not prev_href else 'false' }}"
+          >← Vor</a
+        >
+
+        <!-- Anzeige der aktuellen Folienposition -->
+        <span class="nav-meta">Folie {{ slide_pos }} / {{ slide_total }}</span>
+
+        <a
+          class="nav-btn {% if not next_href %}disabled{% endif %}"
+          href="{{ next_href if next_href else '#' }}"
+          aria-label="Nächste Folie"
+          aria-disabled="{{ 'true' if not next_href else 'false' }}"
+          >Weiter →</a
+        >
+      </div>
+
+      <!-- Rechter Bereich mit Suchfunktion und Theme-Schalter -->
+      <div class="topbar-right">
+        <div class="slide-search">
+          <input
+            type="search"
+            placeholder="Springe zu Folie (z.B. 037, pdf 12, pptx 5)…"
+            aria-label="Zu Folie springen"
+            data-slide-jump
+          />
+        </div>
+
+        <button id="theme-toggle" class="tb-btn" aria-label="Theme wechseln">
+          <i class="fa-solid fa-moon"></i>
+        </button>
+      </div>
+
+      <!-- Titel der Folie zusätzlich in der Topbar -->
+      <div class="topbar-title" title="{{ title }}">{{ title }}</div>
+    </header>
+
+    <!-- Hauptbereich, in dem die Folie dargestellt wird -->
+    <main class="stage">
+      <div
+        class="slide"
+        style="aspect-ratio: {{ aspect }};"
+        data-cw="{{ canvas_w }}"
+        data-ch="{{ canvas_h }}"
+      >
+        {% for el in elements %}
+          {% if el.typ == "text" %}
+            <!-- Textelement -->
+            <div class="el text" style="{{ el.style }}">
+              {{ el.inhalt | safe }}
+            </div>
+
+          {% elif el.typ == "bild" %}
+            <!-- Bildelement -->
+            <img class="el img" style="{{ el.style }}" src="{{ el.src }}" loading="lazy" />
+
+          {% elif el.typ == "tabelle" %}
+            <!-- Tabellenelement -->
+            <table class="el table" style="{{ el.style }}">
+              {% for row in el.rows %}
+                <tr>
+                  {% for cell in row %}
+                    <td>{{ cell | safe }}</td>
+                  {% endfor %}
+                </tr>
+              {% endfor %}
+            </table>
+
+          {% elif el.typ == "diagramm_region" %}
+            <!-- Platzhalter für erkannte Diagrammregionen -->
+            <div class="el chart-region" style="{{ el.style }}" title="{{ el.title }}"></div>
+
+          {% elif el.typ == "chart_img" %}
+            <!-- Bild eines extrahierten Diagramms -->
+            <img
+              class="el img chart-img"
+              style="{{ el.style }}"
+              src="{{ el.src }}"
+              title="{{ el.title }}"
+              loading="lazy"
+            />
+          {% endif %}
+        {% endfor %}
+      </div>
+    </main>
+
+    <script>
+      (function () {
+        // Theme-Umschaltung zwischen Hell- und Dunkelmodus
+        const rootEl = document.documentElement;
+        const toggle = document.getElementById("theme-toggle");
+        if (!toggle) return;
+
+        const saved = localStorage.getItem("theme");
+        if (saved) {
+          rootEl.setAttribute("data-theme", saved);
+        } else if (window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches) {
+          rootEl.setAttribute("data-theme", "dark");
+        }
+
+        function updateIcon() {
+          // Passt das Icon an das aktive Theme an
+          const current = rootEl.getAttribute("data-theme");
+          toggle.innerHTML =
+            current === "dark"
+              ? '<i class="fa-solid fa-sun"></i>'
+              : '<i class="fa-solid fa-moon"></i>';
+        }
+
+        updateIcon();
+
+        toggle.addEventListener("click", () => {
+          // Wechselt das Theme und speichert es lokal
+          const current = rootEl.getAttribute("data-theme");
+          const next = current === "dark" ? "light" : "dark";
+          rootEl.setAttribute("data-theme", next);
+          localStorage.setItem("theme", next);
+          updateIcon();
+        });
+      })();
+
+      (function () {
+        // Navigation mit der Tastatur:
+        // Pfeil links = vorherige Folie, Pfeil rechts = nächste Folie
+        const prev = "{{ prev_href if prev_href else '' }}";
+        const next = "{{ next_href if next_href else '' }}";
+
+        document.addEventListener("keydown", (e) => {
+          const t = e.target;
+          if (t && (t.tagName === "INPUT" || t.tagName === "TEXTAREA")) return;
+          if (e.key === "ArrowLeft" && prev) location.href = prev;
+          if (e.key === "ArrowRight" && next) location.href = next;
+        });
+      })();
+
+      (function () {
+        // Suchfeld, um direkt zu einer Folie zu springen
+        const input = document.querySelector("[data-slide-jump]");
+        if (!input) return;
+
+        const ALL = (function () {
+          // Liste aller verfügbaren HTML-Folien aus Jinja übernehmen
+          try {
+            return JSON.parse('{{ all_slides_json | safe }}');
+          } catch {
+            return [];
+          }
+        })();
+
+        const SET = new Set(Array.isArray(ALL) ? ALL : []);
+
+        function pad3(n) {
+          // Formatiert Zahlen dreistellig, z. B. 5 -> 005
+          const s = String(n);
+          if (s.length >= 3) return s; 
+          return ("000" + s).slice(-3);
+        }
+
+        function normalize(q) {
+          // Vereinheitlicht die Eingabe
+          return (q || "").trim().toLowerCase();
+        }
+
+        function buildCandidates(q) {
+          // Baut aus der Suchanfrage mögliche Dateinamen
+          const out = [];
+          const qq = normalize(q);
+          if (!qq) return out;
+
+          let m = qq.match(/^(pdf|pptx)_slide_(\d{1,6})$/);
+          if (m) {
+            out.push(`${m[1]}_slide_${pad3(m[2])}.html`);
+            return out;
+          }
+
+          m = qq.match(/^(pdf|pptx)_slide_(\d{1,6})\.html$/);
+          if (m) {
+            out.push(`${m[1]}_slide_${pad3(m[2])}.html`);
+            return out;
+          }
+
+          m = qq.match(/^(pdf|pptx)\s+(\d{1,6})$/);
+          if (m) {
+            out.push(`${m[1]}_slide_${pad3(m[2])}.html`);
+            return out;
+          }
+
+          m = qq.match(/^(\d{1,6})$/);
+          if (m) {
+            const n = pad3(m[1]);
+            out.push(`pdf_slide_${n}.html`);
+            out.push(`pptx_slide_${n}.html`);
+            return out;
+          }
+
+          return out;
+        }
+
+        function jump() {
+          // Springt zur passenden Folie, falls ein Treffer gefunden wird
+          const candidates = buildCandidates(input.value);
+          if (candidates.length === 0) return;
+
+          for (const f of candidates) {
+            if (SET.has(f)) {
+              location.href = f; 
+              return;
+            }
+          }
+
+          // Markiert das Feld kurz als ungültig, wenn nichts gefunden wird
+          input.classList.add("invalid");
+          setTimeout(() => input.classList.remove("invalid"), 700);
+        }
+
+        input.addEventListener("keydown", (e) => {
+          if (e.key === "Enter") {
+            e.preventDefault();
+            jump();
+          }
+        });
+      })();
+
+      (function () {
+        // Steuerung für Tooltip-Elemente mit der Klasse .tt
+        function closeAll(exceptEl) {
+          document.querySelectorAll(".tt.tt-open").forEach((el) => {
+            if (exceptEl && el === exceptEl) return;
+            el.classList.remove("tt-open");
+          });
+        }
+
+        document.addEventListener("click", (e) => {
+          const t = e.target.closest && e.target.closest(".tt");
+          if (!t) {
+            closeAll(null);
+            return;
+          }
+          if (t.classList.contains("tt-open")) {
+            t.classList.remove("tt-open");
+          } else {
+            closeAll(t);
+            t.classList.add("tt-open");
+          }
+        });
+
+        document.addEventListener("keydown", (e) => {
+          // Mit Escape alle offenen Tooltips schließen
+          if (e.key === "Escape") closeAll(null);
+        });
+
+        document.addEventListener("focusin", (e) => {
+          // Beim Fokuswechsel andere Tooltips schließen
+          const t = e.target.closest && e.target.closest(".tt");
+          closeAll(t || null);
+        });
+      })();
+    </script>
+  </body>
+</html>
