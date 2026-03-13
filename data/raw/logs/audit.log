@@ -1,0 +1,334 @@
+2026-03-12 19:47:54,596 | PPTX Input: C:\Users\oezdemir\Desktop\Projekt\data\raw\slides_input\Test1_neu.pptx | Hash: 657abb1b49ca2b6fc3b06eafe3c240800e66d474b90e62ed88bde1d72168d56b
+2026-03-12 19:47:54,947 | pptx_slide_001.json | Hash: 74a9d0ff6ecbb4cd277cd81831edb703d9aa62153d67666e36e31ad37f6540dd
+2026-03-12 19:47:54,978 | pptx_slide_002.json | Hash: efba4d8e0508d9ad60a67b76c71762c213a7ec9dce2587aa85c78e1587830a32
+2026-03-12 19:47:55,028 | pptx_slide_003.json | Hash: d225b9c0c8e3e0bc7ab35aed27bf95820793447ce10865b9fc4d431cb4670570
+2026-03-12 19:47:55,167 | pptx_slide_004.json | Hash: 361c9d12acd07febe9fab1ea90a0ccb605de2ec5eae56fbdebf6a47e9545e6dd
+2026-03-12 19:47:55,292 | pptx_slide_005.json | Hash: def91ee0da9b2dcc948d12188ba08097ba2645843012695d4e06e09b162781da
+2026-03-12 19:47:55,419 | pptx_slide_006.json | Hash: 818aa142d9eb9448eeaadc0eb909a11dfe1251a5f7bdaba54534ec09f8414022
+2026-03-12 19:47:55,449 | pptx_slide_007.json | Hash: f73577bc67ea29c79ad7bebad1179a4c9254b10925c0ab7a60a86329589dd549
+2026-03-12 19:47:55,477 | pptx_slide_008.json | Hash: d27008a4243b45da48a03fccb47adab77bb5f45c28635167c5306c6997e50cc9
+2026-03-12 19:47:55,510 | pptx_slide_009.json | Hash: dcae39b929e908c5b4d4a098847859afec1a073852e1eb74f15a054edb44ea05
+2026-03-12 19:47:55,558 | pptx_slide_010.json | Hash: a3016d1650df380ef34e2007907bf377f9dc078a8824e0364ea8618c685bfb4e
+2026-03-12 19:47:55,595 | pptx_slide_011.json | Hash: ac4b1d514a076e29a7d79b520f4a95582f5b25ff1010d666becf01da31af1c40
+2026-03-12 19:47:55,739 | pptx_slide_012.json | Hash: d461edfee004ff1df63ad0774fff81c2b642eb4db48dad8b3afbc9d6dbcf6399
+2026-03-12 19:47:55,784 | pptx_slide_013.json | Hash: e6320b257310c4dd19e6e6d7adbc677d1ce4830de67518b72764264001c8b677
+2026-03-12 19:47:55,871 | pptx_slide_014.json | Hash: 15d6c9537641ec7d6bc629db8b5bc6e5503fdba44d7481e52a39147e26db727a
+2026-03-12 19:47:56,141 | pptx_slide_015.json | Hash: 22509c179e9c936baaac774e6e171b411e937a30b18311fbb740be1ac048d973
+2026-03-12 19:47:56,299 | pptx_slide_016.json | Hash: bde5a93ceec65905a0fa80fe18f36be5fbee25b43ad5c5dd4a884aad6930f556
+2026-03-12 19:47:56,339 | pptx_slide_017.json | Hash: b7c8b95a49ac2666938214d458d4ac4da4d8a3d36527b35c159aed1a28df9ccb
+2026-03-12 19:47:56,823 | pptx_slide_018.json | Hash: c7768237944af2bbbf4b0b533447cc8cd6f95e4e200b389535f49b2cbbe05ea1
+2026-03-12 19:47:56,954 | pptx_slide_019.json | Hash: da0ddae916083859c4441f5249cc4a6971f0024e5073ec6f435ea6e124715c12
+2026-03-12 19:47:57,068 | pptx_slide_020.json | Hash: 06a57fee18c47d8b62814bb886f2370b1e3d774c32df50b1f39ac81428dc4bc9
+2026-03-12 19:47:57,182 | pptx_slide_021.json | Hash: c2e0a713fb41dabf2d86ea4a22ebe7dcb711949f9e4b107954b1ba5aba2e9c26
+2026-03-12 19:47:57,297 | pptx_slide_022.json | Hash: f0d5cd4c242482146b841ee596470ac20faafdb2c7b09d53369fcb3a6197ebaf
+2026-03-12 19:47:57,437 | pptx_slide_023.json | Hash: ccbff76385e65b8d3c1d6893e57cdd15983fb4bc64d5287347c6a80c7990af2d
+2026-03-12 19:47:57,564 | pptx_slide_024.json | Hash: bc99f23ade57b62d3d80a432930f83e54c2e26d6be62dece4c7b9dfa04719e2f
+2026-03-12 19:47:57,851 | pptx_slide_025.json | Hash: 87e35ac8c13991d65a0cf9ee0c4972c3e5b7674451986ca17c963aa390359164
+2026-03-12 19:47:57,891 | pptx_slide_026.json | Hash: 708d61aeb0312dd8e007527d319edf03c90ba8060ad7e0ae9139f187445909cc
+2026-03-12 19:47:57,928 | pptx_slide_027.json | Hash: f99ee5d91cc350ad717a8489bce743234a0016f2f9b3b46098e3bedea3d0a705
+2026-03-12 19:47:57,963 | pptx_slide_028.json | Hash: ccbeafee469d782b91af78e579661db16ec9fc48a12b2ed281c59a5859f977dc
+2026-03-12 19:47:57,999 | pptx_slide_029.json | Hash: 39dbc26d3174862fc9c4462fcb8a93a863096b2cc20074a5d903a3312dfcc77f
+2026-03-12 19:47:58,038 | pptx_slide_030.json | Hash: 5cc9fe7fa13bf092ee706aaac6c17e63825d82afa2deb0b88b3bc977c04ff444
+2026-03-12 19:47:58,071 | pptx_slide_031.json | Hash: 2fdd1750bafed9b8edb6dcb274a6e13ee686ded1b8bc1ac29377299443f74543
+2026-03-12 19:47:58,106 | pptx_slide_032.json | Hash: 5ec6aefe4b439b45294bcc27ed64dabd4dc961cda5e402a6e3bce80da8e50758
+2026-03-12 19:47:58,229 | pptx_slide_033.json | Hash: 242f039e43aa04d3e896d4fdf430ff514079cd1454e449ca98e6216ab13a8990
+2026-03-12 19:47:58,263 | pptx_slide_034.json | Hash: dfc01481f7d909886bcf82693b2b9a510220658cf2c4205f4a19b0315c26f606
+2026-03-12 19:47:58,305 | pptx_slide_035.json | Hash: 1c477581e45db050b048de1729e77b7279921ba2b6198ddf38fb03000411e92e
+2026-03-12 19:47:58,343 | pptx_slide_036.json | Hash: 7192336d1db3d6555ba0ac575b16b6928a50e9211b44cdd22d3c6494e43202f6
+2026-03-12 19:47:58,383 | pptx_slide_037.json | Hash: baba50123acaf8826cb90b7c5bf87d47a0edbfccd478c00ea06fdedeede3cb64
+2026-03-12 19:47:58,512 | pptx_slide_038.json | Hash: 43709cbabe019c01e4ee21bad38806e5e733810cfaced1f25a5d243501055fd2
+2026-03-12 19:47:58,551 | pptx_slide_039.json | Hash: 471b1a4282898c1fed7dbfbd1e6835b999e886b468d55cac027728a4472a8eb4
+2026-03-12 19:47:58,772 | pptx_slide_040.json | Hash: 0a31a7c5f5b1c924e92f997f17645b18866262d73632e982d4f4baf14347d2b9
+2026-03-12 19:47:58,813 | pptx_slide_041.json | Hash: 3635b168fb25a843da0209eb0a9d8e608d535c08352329477b6df3da3ad74ae9
+2026-03-12 19:47:58,892 | pptx_slide_042.json | Hash: dd0f9ec0de927c1510c8c61b04398931286065a40f4e2fa020bd8aa5081cad73
+2026-03-12 19:47:58,959 | pptx_slide_043.json | Hash: 989ab568164cd248fee3dfa82ff44cde2549c48f1b6aa097209d4cc2f7016d05
+2026-03-12 19:47:59,007 | pptx_slide_044.json | Hash: 32c70ecd0f9c381e3f322f388d6cfe6b8c0759a74bee53b9838faa6be3f02401
+2026-03-12 19:47:59,160 | pptx_slide_045.json | Hash: 12138ae1cd0f19efce2c7e5b20e71f59988b75bb33cc30789ae207e4be4ef105
+2026-03-12 19:47:59,203 | pptx_slide_046.json | Hash: 29183844f8c5578d39c3e690e466d8d43c8779711afcd08f7b0b9b62209d002f
+2026-03-12 19:47:59,307 | pptx_slide_047.json | Hash: e559dd7eb2fcf54809f702d3eb44f904b9c76abdbab7a713c1d646fcb7678c46
+2026-03-12 19:47:59,408 | pptx_slide_048.json | Hash: b1cb8c1ae01731b8485b6f1ddb0c724e34de60288984429c9f027e6194e0fc04
+2026-03-12 19:47:59,443 | pptx_slide_049.json | Hash: b1553807af3ff2d5d51d153aab758353fb363bfe6fb8eedc6a55769aa1a7ce6f
+2026-03-12 19:47:59,525 | pptx_slide_050.json | Hash: 874222741669b5abff80272846b9fb5ba2d50f132c4321f339e2707741a7a4fb
+2026-03-12 19:47:59,863 | PPTX Parsing abgeschlossen
+2026-03-12 19:47:59,888 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pipeline_meta.json | Hash: d3ff1e0743d63c56b29eef41ee64eb7683ebc1fe3f344ee950edaf29bd96f0df
+2026-03-12 19:47:59,891 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pptx_slide_001.json | Hash: 74a9d0ff6ecbb4cd277cd81831edb703d9aa62153d67666e36e31ad37f6540dd
+2026-03-12 19:47:59,893 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pptx_slide_002.json | Hash: efba4d8e0508d9ad60a67b76c71762c213a7ec9dce2587aa85c78e1587830a32
+2026-03-12 19:47:59,896 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pptx_slide_003.json | Hash: d225b9c0c8e3e0bc7ab35aed27bf95820793447ce10865b9fc4d431cb4670570
+2026-03-12 19:47:59,898 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pptx_slide_004.json | Hash: 361c9d12acd07febe9fab1ea90a0ccb605de2ec5eae56fbdebf6a47e9545e6dd
+2026-03-12 19:47:59,902 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pptx_slide_005.json | Hash: def91ee0da9b2dcc948d12188ba08097ba2645843012695d4e06e09b162781da
+2026-03-12 19:47:59,904 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pptx_slide_006.json | Hash: 818aa142d9eb9448eeaadc0eb909a11dfe1251a5f7bdaba54534ec09f8414022
+2026-03-12 19:47:59,907 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pptx_slide_007.json | Hash: f73577bc67ea29c79ad7bebad1179a4c9254b10925c0ab7a60a86329589dd549
+2026-03-12 19:47:59,910 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pptx_slide_008.json | Hash: d27008a4243b45da48a03fccb47adab77bb5f45c28635167c5306c6997e50cc9
+2026-03-12 19:47:59,912 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pptx_slide_009.json | Hash: dcae39b929e908c5b4d4a098847859afec1a073852e1eb74f15a054edb44ea05
+2026-03-12 19:47:59,915 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pptx_slide_010.json | Hash: a3016d1650df380ef34e2007907bf377f9dc078a8824e0364ea8618c685bfb4e
+2026-03-12 19:47:59,918 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pptx_slide_011.json | Hash: ac4b1d514a076e29a7d79b520f4a95582f5b25ff1010d666becf01da31af1c40
+2026-03-12 19:47:59,921 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pptx_slide_012.json | Hash: d461edfee004ff1df63ad0774fff81c2b642eb4db48dad8b3afbc9d6dbcf6399
+2026-03-12 19:47:59,924 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pptx_slide_013.json | Hash: e6320b257310c4dd19e6e6d7adbc677d1ce4830de67518b72764264001c8b677
+2026-03-12 19:47:59,926 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pptx_slide_014.json | Hash: 15d6c9537641ec7d6bc629db8b5bc6e5503fdba44d7481e52a39147e26db727a
+2026-03-12 19:47:59,929 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pptx_slide_015.json | Hash: 22509c179e9c936baaac774e6e171b411e937a30b18311fbb740be1ac048d973
+2026-03-12 19:47:59,931 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pptx_slide_016.json | Hash: bde5a93ceec65905a0fa80fe18f36be5fbee25b43ad5c5dd4a884aad6930f556
+2026-03-12 19:47:59,934 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pptx_slide_017.json | Hash: b7c8b95a49ac2666938214d458d4ac4da4d8a3d36527b35c159aed1a28df9ccb
+2026-03-12 19:47:59,938 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pptx_slide_018.json | Hash: c7768237944af2bbbf4b0b533447cc8cd6f95e4e200b389535f49b2cbbe05ea1
+2026-03-12 19:47:59,940 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pptx_slide_019.json | Hash: da0ddae916083859c4441f5249cc4a6971f0024e5073ec6f435ea6e124715c12
+2026-03-12 19:47:59,943 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pptx_slide_020.json | Hash: 06a57fee18c47d8b62814bb886f2370b1e3d774c32df50b1f39ac81428dc4bc9
+2026-03-12 19:47:59,945 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pptx_slide_021.json | Hash: c2e0a713fb41dabf2d86ea4a22ebe7dcb711949f9e4b107954b1ba5aba2e9c26
+2026-03-12 19:47:59,948 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pptx_slide_022.json | Hash: f0d5cd4c242482146b841ee596470ac20faafdb2c7b09d53369fcb3a6197ebaf
+2026-03-12 19:47:59,950 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pptx_slide_023.json | Hash: ccbff76385e65b8d3c1d6893e57cdd15983fb4bc64d5287347c6a80c7990af2d
+2026-03-12 19:47:59,956 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pptx_slide_024.json | Hash: bc99f23ade57b62d3d80a432930f83e54c2e26d6be62dece4c7b9dfa04719e2f
+2026-03-12 19:47:59,958 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pptx_slide_025.json | Hash: 87e35ac8c13991d65a0cf9ee0c4972c3e5b7674451986ca17c963aa390359164
+2026-03-12 19:47:59,962 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pptx_slide_026.json | Hash: 708d61aeb0312dd8e007527d319edf03c90ba8060ad7e0ae9139f187445909cc
+2026-03-12 19:47:59,964 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pptx_slide_027.json | Hash: f99ee5d91cc350ad717a8489bce743234a0016f2f9b3b46098e3bedea3d0a705
+2026-03-12 19:47:59,967 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pptx_slide_028.json | Hash: ccbeafee469d782b91af78e579661db16ec9fc48a12b2ed281c59a5859f977dc
+2026-03-12 19:47:59,970 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pptx_slide_029.json | Hash: 39dbc26d3174862fc9c4462fcb8a93a863096b2cc20074a5d903a3312dfcc77f
+2026-03-12 19:47:59,973 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pptx_slide_030.json | Hash: 5cc9fe7fa13bf092ee706aaac6c17e63825d82afa2deb0b88b3bc977c04ff444
+2026-03-12 19:47:59,975 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pptx_slide_031.json | Hash: 2fdd1750bafed9b8edb6dcb274a6e13ee686ded1b8bc1ac29377299443f74543
+2026-03-12 19:47:59,978 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pptx_slide_032.json | Hash: 5ec6aefe4b439b45294bcc27ed64dabd4dc961cda5e402a6e3bce80da8e50758
+2026-03-12 19:47:59,980 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pptx_slide_033.json | Hash: 242f039e43aa04d3e896d4fdf430ff514079cd1454e449ca98e6216ab13a8990
+2026-03-12 19:47:59,983 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pptx_slide_034.json | Hash: dfc01481f7d909886bcf82693b2b9a510220658cf2c4205f4a19b0315c26f606
+2026-03-12 19:47:59,986 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pptx_slide_035.json | Hash: 1c477581e45db050b048de1729e77b7279921ba2b6198ddf38fb03000411e92e
+2026-03-12 19:47:59,989 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pptx_slide_036.json | Hash: 7192336d1db3d6555ba0ac575b16b6928a50e9211b44cdd22d3c6494e43202f6
+2026-03-12 19:47:59,992 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pptx_slide_037.json | Hash: baba50123acaf8826cb90b7c5bf87d47a0edbfccd478c00ea06fdedeede3cb64
+2026-03-12 19:47:59,994 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pptx_slide_038.json | Hash: 43709cbabe019c01e4ee21bad38806e5e733810cfaced1f25a5d243501055fd2
+2026-03-12 19:47:59,997 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pptx_slide_039.json | Hash: 471b1a4282898c1fed7dbfbd1e6835b999e886b468d55cac027728a4472a8eb4
+2026-03-12 19:47:59,999 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pptx_slide_040.json | Hash: 0a31a7c5f5b1c924e92f997f17645b18866262d73632e982d4f4baf14347d2b9
+2026-03-12 19:48:00,004 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pptx_slide_041.json | Hash: 3635b168fb25a843da0209eb0a9d8e608d535c08352329477b6df3da3ad74ae9
+2026-03-12 19:48:00,007 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pptx_slide_042.json | Hash: dd0f9ec0de927c1510c8c61b04398931286065a40f4e2fa020bd8aa5081cad73
+2026-03-12 19:48:00,011 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pptx_slide_043.json | Hash: 989ab568164cd248fee3dfa82ff44cde2549c48f1b6aa097209d4cc2f7016d05
+2026-03-12 19:48:00,014 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pptx_slide_044.json | Hash: 32c70ecd0f9c381e3f322f388d6cfe6b8c0759a74bee53b9838faa6be3f02401
+2026-03-12 19:48:00,017 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pptx_slide_045.json | Hash: 12138ae1cd0f19efce2c7e5b20e71f59988b75bb33cc30789ae207e4be4ef105
+2026-03-12 19:48:00,027 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pptx_slide_046.json | Hash: 29183844f8c5578d39c3e690e466d8d43c8779711afcd08f7b0b9b62209d002f
+2026-03-12 19:48:00,030 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pptx_slide_047.json | Hash: e559dd7eb2fcf54809f702d3eb44f904b9c76abdbab7a713c1d646fcb7678c46
+2026-03-12 19:48:00,033 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pptx_slide_048.json | Hash: b1cb8c1ae01731b8485b6f1ddb0c724e34de60288984429c9f027e6194e0fc04
+2026-03-12 19:48:00,041 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pptx_slide_049.json | Hash: b1553807af3ff2d5d51d153aab758353fb363bfe6fb8eedc6a55769aa1a7ce6f
+2026-03-12 19:48:00,044 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pptx_slide_050.json | Hash: 874222741669b5abff80272846b9fb5ba2d50f132c4321f339e2707741a7a4fb
+2026-03-12 19:48:00,078 | PHASE1_OUTPUT_ASSETS | C:/Users/oezdemir/Desktop/Projekt/export/assets/pptx_slide10_img6.png | Hash: d97ff84bd735a9e1a3ec4838dbdbe659fc88923755e7bc745c9689d29df60b8c
+2026-03-12 19:48:00,098 | PHASE1_OUTPUT_ASSETS | C:/Users/oezdemir/Desktop/Projekt/export/assets/pptx_slide12_img7.png | Hash: f4d78fe71373cf19208c6fe30e788db97ef67c85e652e8c2ef763c3826e11a63
+2026-03-12 19:48:00,116 | PHASE1_OUTPUT_ASSETS | C:/Users/oezdemir/Desktop/Projekt/export/assets/pptx_slide14_img8.jpg | Hash: a93ca58fad12b81b6cccc35281d013aea111e1421fceb171176c0fb28f0c1c39
+2026-03-12 19:48:00,147 | PHASE1_OUTPUT_ASSETS | C:/Users/oezdemir/Desktop/Projekt/export/assets/pptx_slide15_img9.png | Hash: a7b857a56bfb9844593e567332e4a1fae389dd0427f9e77c02429a1981d64b9e
+2026-03-12 19:48:00,170 | PHASE1_OUTPUT_ASSETS | C:/Users/oezdemir/Desktop/Projekt/export/assets/pptx_slide16_img10.png | Hash: e4b9933f29a387e02dec84ee11ea9382b8299974b9ba26842911909a1a0df021
+2026-03-12 19:48:00,190 | PHASE1_OUTPUT_ASSETS | C:/Users/oezdemir/Desktop/Projekt/export/assets/pptx_slide18_img11.png | Hash: 76d9670c4dc150d74bdb3cf32623bce5d5fdd92b608844fd0bd948c74974304f
+2026-03-12 19:48:00,213 | PHASE1_OUTPUT_ASSETS | C:/Users/oezdemir/Desktop/Projekt/export/assets/pptx_slide18_img12.png | Hash: 2dcb43d4b6515cad41d88d29358ceb983a26ed2911fc7be5030523561b918d36
+2026-03-12 19:48:00,239 | PHASE1_OUTPUT_ASSETS | C:/Users/oezdemir/Desktop/Projekt/export/assets/pptx_slide18_img13.png | Hash: 17816d91202eb28cae8d2cfb6bb98acbdf0f377d589dcc4fb32d5f1afe796bfc
+2026-03-12 19:48:00,259 | PHASE1_OUTPUT_ASSETS | C:/Users/oezdemir/Desktop/Projekt/export/assets/pptx_slide19_img14.png | Hash: c27a5b70ab261b9c2cb32c8d128a559b962ea810f5b81516f280667726e2dba8
+2026-03-12 19:48:00,279 | PHASE1_OUTPUT_ASSETS | C:/Users/oezdemir/Desktop/Projekt/export/assets/pptx_slide1_img1.jpg | Hash: 9660aed42ad29861a0f5201dbb211077772a1c0abd6a41597b16f5592932f632
+2026-03-12 19:48:00,300 | PHASE1_OUTPUT_ASSETS | C:/Users/oezdemir/Desktop/Projekt/export/assets/pptx_slide20_img15.png | Hash: 900268619b5fd3a0083a3db69349f527e4c890bcc9ecbe5c15fe494ceb83602e
+2026-03-12 19:48:00,321 | PHASE1_OUTPUT_ASSETS | C:/Users/oezdemir/Desktop/Projekt/export/assets/pptx_slide21_img16.png | Hash: 7b34c6eb13eb2f44e9f0f26e9cd66bdbfb5ba728a1c07af549bab4ce11b8f247
+2026-03-12 19:48:00,341 | PHASE1_OUTPUT_ASSETS | C:/Users/oezdemir/Desktop/Projekt/export/assets/pptx_slide22_img17.png | Hash: ec8ea92afd4dc894f5ac78d8a2b056f5a9cb3e3e70b6a7185924d5ae01b89afd
+2026-03-12 19:48:00,362 | PHASE1_OUTPUT_ASSETS | C:/Users/oezdemir/Desktop/Projekt/export/assets/pptx_slide23_img18.png | Hash: 5e2a8d0417fc5ec2cc125a07a92549532ff75e3f4e2a5164a28f130fd84adcbd
+2026-03-12 19:48:00,385 | PHASE1_OUTPUT_ASSETS | C:/Users/oezdemir/Desktop/Projekt/export/assets/pptx_slide24_img19.png | Hash: 25407bb9675d5412ccfa467faa5d178cbe7cbabd87465fa413c22620c8091491
+2026-03-12 19:48:00,408 | PHASE1_OUTPUT_ASSETS | C:/Users/oezdemir/Desktop/Projekt/export/assets/pptx_slide33_img20.png | Hash: 9e3711178dfa8d4a08f2c251c71edd9b6dedcc7f4628c51db138ade6ebbb081e
+2026-03-12 19:48:00,428 | PHASE1_OUTPUT_ASSETS | C:/Users/oezdemir/Desktop/Projekt/export/assets/pptx_slide38_img21.png | Hash: 8163b1db08cb25ed60adccd855731ea006f57926844b1ea0a28c15181088e810
+2026-03-12 19:48:00,446 | PHASE1_OUTPUT_ASSETS | C:/Users/oezdemir/Desktop/Projekt/export/assets/pptx_slide3_img2.jpg | Hash: 9af3c1dbc2135b23ff70dead8fa26f612876fb08a9e53117f26956e458df2709
+2026-03-12 19:48:00,468 | PHASE1_OUTPUT_ASSETS | C:/Users/oezdemir/Desktop/Projekt/export/assets/pptx_slide40_img22.png | Hash: 932f82b1714d1a7fef5318c56d595ecf35f708eef809d45efdd32742d18cfa35
+2026-03-12 19:48:00,490 | PHASE1_OUTPUT_ASSETS | C:/Users/oezdemir/Desktop/Projekt/export/assets/pptx_slide45_img23.png | Hash: 9e3711178dfa8d4a08f2c251c71edd9b6dedcc7f4628c51db138ade6ebbb081e
+2026-03-12 19:48:00,511 | PHASE1_OUTPUT_ASSETS | C:/Users/oezdemir/Desktop/Projekt/export/assets/pptx_slide47_img24.png | Hash: c0d491321e3c5f9ccdcfda8405c4f10ed2aa2d68a5de84bfa244df3c79efdf8d
+2026-03-12 19:48:00,532 | PHASE1_OUTPUT_ASSETS | C:/Users/oezdemir/Desktop/Projekt/export/assets/pptx_slide48_img25.png | Hash: 11d6da440055f97cb3a9a985466d4f756d235206695b32c73d31a9ece64a8945
+2026-03-12 19:48:00,553 | PHASE1_OUTPUT_ASSETS | C:/Users/oezdemir/Desktop/Projekt/export/assets/pptx_slide4_img3.png | Hash: ec527415e7abd2b27d751575965f198696ae8ed35e4a1b16185169ff8a1ab2d6
+2026-03-12 19:48:00,573 | PHASE1_OUTPUT_ASSETS | C:/Users/oezdemir/Desktop/Projekt/export/assets/pptx_slide50_img26.jpg | Hash: e8a0eaf8fa34f1aaca45e667115256cf6323fee3b5f5da3fad6da4ee5be37218
+2026-03-12 19:48:00,593 | PHASE1_OUTPUT_ASSETS | C:/Users/oezdemir/Desktop/Projekt/export/assets/pptx_slide5_img4.png | Hash: 3e0c1f28a95d2eb7811be8c72e093542f5c6748e7a2ef8d843350a017d98627c
+2026-03-12 19:48:00,616 | PHASE1_OUTPUT_ASSETS | C:/Users/oezdemir/Desktop/Projekt/export/assets/pptx_slide6_img5.png | Hash: ece64dd6301436276c2520fddc688d110271ba1bc2f43c486b1554389e5df3b9
+2026-03-12 19:48:01,539 | PDF Input: C:\Users\oezdemir\Desktop\Projekt\data\raw\slides_input\TEST2_neu1.pdf | Hash: b4465ab3f7e65a9115a25833a31280b66f77652105d116b026d1661e2426228b
+2026-03-12 19:48:01,686 | pdf_slide_001.json | Hash: caf94cf62b323fe05e3b7bd6c1aa77656df308e373f9ba77cffaf8419567ea3f
+2026-03-12 19:48:01,723 | pdf_slide_002.json | Hash: 98efd53558a772cb5b45d1830681deb24320552ea765f90522060a6228c88a2e
+2026-03-12 19:48:01,775 | pdf_slide_003.json | Hash: 9442c1317c323035b6999362bcb12c81cf6c4210ca922324bcfdd34dac48b84c
+2026-03-12 19:48:01,802 | pdf_slide_004.json | Hash: eb24dbaa84f35ee78d6c7b53274cd1ecdfbf64325bc1a679ca74a935c91ce7cc
+2026-03-12 19:48:01,829 | pdf_slide_005.json | Hash: c26299dd8b5b1b909aa4c8d6518d02f4e65b3c485dfc393f8bda961a35f74d0c
+2026-03-12 19:48:01,911 | pdf_slide_006.json | Hash: 90bb8f469c467799c847c0d18b04df24811eb8fe4cfcd5b258945b2a80980b56
+2026-03-12 19:48:01,979 | pdf_slide_007.json | Hash: 3116555ea3fd7b0bb21a2d7f67015beac1913cef0b060857e9a38470abb6dd62
+2026-03-12 19:48:02,028 | pdf_slide_008.json | Hash: 184e5a4c3546851dc7ac396f83d5345ca2e78c2f5051f1b12ba376ffa04d9ce0
+2026-03-12 19:48:02,080 | pdf_slide_009.json | Hash: 7027c261f89cfd9b9be241c16022e2d06d8329da487c2b877c54b2e6d59d7804
+2026-03-12 19:48:02,091 | pdf_slide_010.json | Hash: 1deadb556d716dd108bc2108f64a954ee5a3484ffe69392c6cfd3ac7989a7197
+2026-03-12 19:48:02,133 | pdf_slide_011.json | Hash: e89c03c90c3cc934c0c0c6451a9bbdcce11ec20b96390638e6c028d21063ec62
+2026-03-12 19:48:02,146 | pdf_slide_012.json | Hash: 52fb175a2d556de54bc51702a3febf748ed3714d2adbec84a5ce8e3f936e40b9
+2026-03-12 19:48:02,175 | pdf_slide_013.json | Hash: fb29672e3f61a167756c4e3a73486e69d71030a0978e4ac56362e052d0ebab00
+2026-03-12 19:48:02,264 | pdf_slide_014.json | Hash: 12b75048ce9b03313099a6a9b587f01d81db00d890b3642850479813f0464f1e
+2026-03-12 19:48:02,300 | pdf_slide_015.json | Hash: 90fec5c89a7e0f5ddb5e55ea490d5be8c28533ad58a0cc7008f73ac86a35d980
+2026-03-12 19:48:02,330 | pdf_slide_016.json | Hash: 8c971bbbbf95a63f15e3a3764e42e9b7f1cfd93847b546c99ccfbe7409dba6fc
+2026-03-12 19:48:02,382 | pdf_slide_017.json | Hash: 6b851770e699d0e6d43432196534fe03007fbb587f62b8e634d1e6342c0d9c65
+2026-03-12 19:48:02,439 | pdf_slide_018.json | Hash: cac020b844ffffd72de5df4c13774c215936b51aab31dc3ad2f4c6b099865ee9
+2026-03-12 19:48:02,479 | pdf_slide_019.json | Hash: 567b68e4589a43057b2ca34354ae9113168050bda72cfb4106056ae22c74c47d
+2026-03-12 19:48:02,680 | pdf_slide_020.json | Hash: dc8e96a32d92494a65eaf761ea127e462bfb568851bc16340487fda03b6cac0e
+2026-03-12 19:48:02,697 | pdf_slide_021.json | Hash: b2492b4f1b932704923aa6dc6afe15d97cf793909f227472a3a809886373e18e
+2026-03-12 19:48:02,896 | pdf_slide_022.json | Hash: 252d496022d9cbc10d1cce8bcf3cb9144327d1b5727aec5e189fe777e3ab599e
+2026-03-12 19:48:02,945 | pdf_slide_023.json | Hash: 3cfcddc7fe4f4ce6d9b0a00751fa7a1a34b245e32a19004efc7d1d105d36b2ef
+2026-03-12 19:48:02,974 | pdf_slide_024.json | Hash: 9a7f3a2f061fc81ea467889ffdff37598aef27abb0350e2b3a2f6c65d61549fb
+2026-03-12 19:48:03,017 | pdf_slide_025.json | Hash: 38e45ddbf9c1fcb600b00f0d266520b0b5d0fb17b61fab4eccf7fd22a2ee418f
+2026-03-12 19:48:03,086 | pdf_slide_026.json | Hash: 7d71c0a8d114759d49680f95096bc48d8ec698e6247359ef7253251955d4e43d
+2026-03-12 19:48:03,114 | pdf_slide_027.json | Hash: 5059da2a1a2da43c61666466522e7a76da97fccfdba7092999706a185f8e3fdd
+2026-03-12 19:48:03,248 | pdf_slide_028.json | Hash: 0b5e4351e8fe11068e90a77c144534e15b943bdeeabcccc06edce17772f41ddc
+2026-03-12 19:48:03,277 | pdf_slide_029.json | Hash: 286e55c6d3f2315d0b022a4d3d3ea78884cd645a4009d75d323b7e0125897cad
+2026-03-12 19:48:03,319 | pdf_slide_030.json | Hash: 8e65e543630ccd0d89204fc48792955f6efe6b614095040c023630cce2e24c7b
+2026-03-12 19:48:03,345 | pdf_slide_031.json | Hash: de3accd54bc04be45416fcbc5456de962f9e3acf9a50f11fa824b05a5777adfe
+2026-03-12 19:48:03,356 | pdf_slide_032.json | Hash: 4c2a44662fcc94792ca807165a2e473bf37834b234a3be0888f38a5e0a0b3649
+2026-03-12 19:48:03,393 | pdf_slide_033.json | Hash: 523be0c3f757fb31fcfd22f28599d0ba886723de44dc100786e8f271b3038a29
+2026-03-12 19:48:03,425 | pdf_slide_034.json | Hash: e8a8ed087e709b96e563d985351609141c1f0788dd611111744661580a8f88e0
+2026-03-12 19:48:03,457 | pdf_slide_035.json | Hash: 9d12662dd1680c8e2497cde72d3ba13588a28f8fd1a036dc0d59d6b78bd11b13
+2026-03-12 19:48:03,490 | pdf_slide_036.json | Hash: 172bd1fa40c0fd0a116cec7760aa58bd58ad64798037ab29183101f6b46712ad
+2026-03-12 19:48:03,541 | pdf_slide_037.json | Hash: 193bca542cbd74fa53583e891bf9c1a48119b4f8b41d15172088bfac0122d170
+2026-03-12 19:48:03,609 | pdf_slide_038.json | Hash: ccfa3ecf8588d01cc5f2a74be13419735f4189b2ce4dc3c6ccf4db71265b8d84
+2026-03-12 19:48:03,657 | pdf_slide_039.json | Hash: a2830eae54e12d98fab90c4dfa456b7d2f60ea58c82e79163b84f3e1c23c7c87
+2026-03-12 19:48:03,689 | pdf_slide_040.json | Hash: d7feee3c6e99057f666e5914b2d47e3aae08fac50181ac0e15f7b1b221b03581
+2026-03-12 19:48:03,735 | pdf_slide_041.json | Hash: a875396c192e9882013560947789695bb46942259fef01898d46f541f0a97674
+2026-03-12 19:48:03,767 | pdf_slide_042.json | Hash: 3c33d41002b4cad62ba19d0b08da8dcfa85175d0f583df2c293cb3c0b9a027d8
+2026-03-12 19:48:03,793 | pdf_slide_043.json | Hash: cbb830681983d316952d3206259e7798afb6c987191ddaae153003fef4938db8
+2026-03-12 19:48:03,821 | pdf_slide_044.json | Hash: 12e70ffd2c13afaad1e03ddda7fbc666492185622646330967fb0d68d2f2e5ed
+2026-03-12 19:48:03,848 | pdf_slide_045.json | Hash: 3f2aa55d1370fc0af30ce6fd712a5b719f56019a2030a1b36dc3c5ab3ce586af
+2026-03-12 19:48:03,893 | pdf_slide_046.json | Hash: 25d32b3cbcdcb9fe7a406a8e05fe13f55b51f3c8467c40d167ed548030051d7b
+2026-03-12 19:48:03,922 | pdf_slide_047.json | Hash: 4d7c1e8ad92be72f130f801cae12300b6da60218eb17ae235c04f5cf7656f506
+2026-03-12 19:48:03,950 | pdf_slide_048.json | Hash: 88a93393e372d2b759b0ee78563e20b9aa8d3c215d1eeebff6d44768fb1cd993
+2026-03-12 19:48:04,007 | pdf_slide_049.json | Hash: 98ad90ea78856235c2f4b2799e7f6803f7ea06e272a567c59549a4caf919efab
+2026-03-12 19:48:04,035 | pdf_slide_050.json | Hash: 7ac90958f7d31951530641a78c02e6b5e1f9748e252e7e42bc6c5c9eb3e09e03
+2026-03-12 19:48:04,040 | PDF Parsing abgeschlossen
+2026-03-12 19:48:04,046 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pdf_slide_001.json | Hash: caf94cf62b323fe05e3b7bd6c1aa77656df308e373f9ba77cffaf8419567ea3f
+2026-03-12 19:48:04,049 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pdf_slide_002.json | Hash: 98efd53558a772cb5b45d1830681deb24320552ea765f90522060a6228c88a2e
+2026-03-12 19:48:04,052 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pdf_slide_003.json | Hash: 9442c1317c323035b6999362bcb12c81cf6c4210ca922324bcfdd34dac48b84c
+2026-03-12 19:48:04,055 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pdf_slide_004.json | Hash: eb24dbaa84f35ee78d6c7b53274cd1ecdfbf64325bc1a679ca74a935c91ce7cc
+2026-03-12 19:48:04,058 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pdf_slide_005.json | Hash: c26299dd8b5b1b909aa4c8d6518d02f4e65b3c485dfc393f8bda961a35f74d0c
+2026-03-12 19:48:04,060 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pdf_slide_006.json | Hash: 90bb8f469c467799c847c0d18b04df24811eb8fe4cfcd5b258945b2a80980b56
+2026-03-12 19:48:04,063 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pdf_slide_007.json | Hash: 3116555ea3fd7b0bb21a2d7f67015beac1913cef0b060857e9a38470abb6dd62
+2026-03-12 19:48:04,066 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pdf_slide_008.json | Hash: 184e5a4c3546851dc7ac396f83d5345ca2e78c2f5051f1b12ba376ffa04d9ce0
+2026-03-12 19:48:04,069 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pdf_slide_009.json | Hash: 7027c261f89cfd9b9be241c16022e2d06d8329da487c2b877c54b2e6d59d7804
+2026-03-12 19:48:04,071 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pdf_slide_010.json | Hash: 1deadb556d716dd108bc2108f64a954ee5a3484ffe69392c6cfd3ac7989a7197
+2026-03-12 19:48:04,074 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pdf_slide_011.json | Hash: e89c03c90c3cc934c0c0c6451a9bbdcce11ec20b96390638e6c028d21063ec62
+2026-03-12 19:48:04,076 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pdf_slide_012.json | Hash: 52fb175a2d556de54bc51702a3febf748ed3714d2adbec84a5ce8e3f936e40b9
+2026-03-12 19:48:04,078 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pdf_slide_013.json | Hash: fb29672e3f61a167756c4e3a73486e69d71030a0978e4ac56362e052d0ebab00
+2026-03-12 19:48:04,081 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pdf_slide_014.json | Hash: 12b75048ce9b03313099a6a9b587f01d81db00d890b3642850479813f0464f1e
+2026-03-12 19:48:04,085 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pdf_slide_015.json | Hash: 90fec5c89a7e0f5ddb5e55ea490d5be8c28533ad58a0cc7008f73ac86a35d980
+2026-03-12 19:48:04,088 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pdf_slide_016.json | Hash: 8c971bbbbf95a63f15e3a3764e42e9b7f1cfd93847b546c99ccfbe7409dba6fc
+2026-03-12 19:48:04,091 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pdf_slide_017.json | Hash: 6b851770e699d0e6d43432196534fe03007fbb587f62b8e634d1e6342c0d9c65
+2026-03-12 19:48:04,094 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pdf_slide_018.json | Hash: cac020b844ffffd72de5df4c13774c215936b51aab31dc3ad2f4c6b099865ee9
+2026-03-12 19:48:04,096 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pdf_slide_019.json | Hash: 567b68e4589a43057b2ca34354ae9113168050bda72cfb4106056ae22c74c47d
+2026-03-12 19:48:04,100 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pdf_slide_020.json | Hash: dc8e96a32d92494a65eaf761ea127e462bfb568851bc16340487fda03b6cac0e
+2026-03-12 19:48:04,105 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pdf_slide_021.json | Hash: b2492b4f1b932704923aa6dc6afe15d97cf793909f227472a3a809886373e18e
+2026-03-12 19:48:04,108 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pdf_slide_022.json | Hash: 252d496022d9cbc10d1cce8bcf3cb9144327d1b5727aec5e189fe777e3ab599e
+2026-03-12 19:48:04,110 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pdf_slide_023.json | Hash: 3cfcddc7fe4f4ce6d9b0a00751fa7a1a34b245e32a19004efc7d1d105d36b2ef
+2026-03-12 19:48:04,113 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pdf_slide_024.json | Hash: 9a7f3a2f061fc81ea467889ffdff37598aef27abb0350e2b3a2f6c65d61549fb
+2026-03-12 19:48:04,116 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pdf_slide_025.json | Hash: 38e45ddbf9c1fcb600b00f0d266520b0b5d0fb17b61fab4eccf7fd22a2ee418f
+2026-03-12 19:48:04,119 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pdf_slide_026.json | Hash: 7d71c0a8d114759d49680f95096bc48d8ec698e6247359ef7253251955d4e43d
+2026-03-12 19:48:04,122 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pdf_slide_027.json | Hash: 5059da2a1a2da43c61666466522e7a76da97fccfdba7092999706a185f8e3fdd
+2026-03-12 19:48:04,124 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pdf_slide_028.json | Hash: 0b5e4351e8fe11068e90a77c144534e15b943bdeeabcccc06edce17772f41ddc
+2026-03-12 19:48:04,127 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pdf_slide_029.json | Hash: 286e55c6d3f2315d0b022a4d3d3ea78884cd645a4009d75d323b7e0125897cad
+2026-03-12 19:48:04,129 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pdf_slide_030.json | Hash: 8e65e543630ccd0d89204fc48792955f6efe6b614095040c023630cce2e24c7b
+2026-03-12 19:48:04,132 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pdf_slide_031.json | Hash: de3accd54bc04be45416fcbc5456de962f9e3acf9a50f11fa824b05a5777adfe
+2026-03-12 19:48:04,135 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pdf_slide_032.json | Hash: 4c2a44662fcc94792ca807165a2e473bf37834b234a3be0888f38a5e0a0b3649
+2026-03-12 19:48:04,138 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pdf_slide_033.json | Hash: 523be0c3f757fb31fcfd22f28599d0ba886723de44dc100786e8f271b3038a29
+2026-03-12 19:48:04,141 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pdf_slide_034.json | Hash: e8a8ed087e709b96e563d985351609141c1f0788dd611111744661580a8f88e0
+2026-03-12 19:48:04,143 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pdf_slide_035.json | Hash: 9d12662dd1680c8e2497cde72d3ba13588a28f8fd1a036dc0d59d6b78bd11b13
+2026-03-12 19:48:04,146 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pdf_slide_036.json | Hash: 172bd1fa40c0fd0a116cec7760aa58bd58ad64798037ab29183101f6b46712ad
+2026-03-12 19:48:04,149 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pdf_slide_037.json | Hash: 193bca542cbd74fa53583e891bf9c1a48119b4f8b41d15172088bfac0122d170
+2026-03-12 19:48:04,152 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pdf_slide_038.json | Hash: ccfa3ecf8588d01cc5f2a74be13419735f4189b2ce4dc3c6ccf4db71265b8d84
+2026-03-12 19:48:04,155 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pdf_slide_039.json | Hash: a2830eae54e12d98fab90c4dfa456b7d2f60ea58c82e79163b84f3e1c23c7c87
+2026-03-12 19:48:04,157 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pdf_slide_040.json | Hash: d7feee3c6e99057f666e5914b2d47e3aae08fac50181ac0e15f7b1b221b03581
+2026-03-12 19:48:04,160 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pdf_slide_041.json | Hash: a875396c192e9882013560947789695bb46942259fef01898d46f541f0a97674
+2026-03-12 19:48:04,163 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pdf_slide_042.json | Hash: 3c33d41002b4cad62ba19d0b08da8dcfa85175d0f583df2c293cb3c0b9a027d8
+2026-03-12 19:48:04,165 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pdf_slide_043.json | Hash: cbb830681983d316952d3206259e7798afb6c987191ddaae153003fef4938db8
+2026-03-12 19:48:04,168 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pdf_slide_044.json | Hash: 12e70ffd2c13afaad1e03ddda7fbc666492185622646330967fb0d68d2f2e5ed
+2026-03-12 19:48:04,171 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pdf_slide_045.json | Hash: 3f2aa55d1370fc0af30ce6fd712a5b719f56019a2030a1b36dc3c5ab3ce586af
+2026-03-12 19:48:04,174 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pdf_slide_046.json | Hash: 25d32b3cbcdcb9fe7a406a8e05fe13f55b51f3c8467c40d167ed548030051d7b
+2026-03-12 19:48:04,176 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pdf_slide_047.json | Hash: 4d7c1e8ad92be72f130f801cae12300b6da60218eb17ae235c04f5cf7656f506
+2026-03-12 19:48:04,179 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pdf_slide_048.json | Hash: 88a93393e372d2b759b0ee78563e20b9aa8d3c215d1eeebff6d44768fb1cd993
+2026-03-12 19:48:04,182 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pdf_slide_049.json | Hash: 98ad90ea78856235c2f4b2799e7f6803f7ea06e272a567c59549a4caf919efab
+2026-03-12 19:48:04,185 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pdf_slide_050.json | Hash: 7ac90958f7d31951530641a78c02e6b5e1f9748e252e7e42bc6c5c9eb3e09e03
+2026-03-12 19:48:04,188 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pipeline_meta.json | Hash: d3ff1e0743d63c56b29eef41ee64eb7683ebc1fe3f344ee950edaf29bd96f0df
+2026-03-12 19:48:04,190 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pptx_slide_001.json | Hash: 74a9d0ff6ecbb4cd277cd81831edb703d9aa62153d67666e36e31ad37f6540dd
+2026-03-12 19:48:04,193 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pptx_slide_002.json | Hash: efba4d8e0508d9ad60a67b76c71762c213a7ec9dce2587aa85c78e1587830a32
+2026-03-12 19:48:04,195 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pptx_slide_003.json | Hash: d225b9c0c8e3e0bc7ab35aed27bf95820793447ce10865b9fc4d431cb4670570
+2026-03-12 19:48:04,198 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pptx_slide_004.json | Hash: 361c9d12acd07febe9fab1ea90a0ccb605de2ec5eae56fbdebf6a47e9545e6dd
+2026-03-12 19:48:04,201 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pptx_slide_005.json | Hash: def91ee0da9b2dcc948d12188ba08097ba2645843012695d4e06e09b162781da
+2026-03-12 19:48:04,204 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pptx_slide_006.json | Hash: 818aa142d9eb9448eeaadc0eb909a11dfe1251a5f7bdaba54534ec09f8414022
+2026-03-12 19:48:04,206 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pptx_slide_007.json | Hash: f73577bc67ea29c79ad7bebad1179a4c9254b10925c0ab7a60a86329589dd549
+2026-03-12 19:48:04,208 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pptx_slide_008.json | Hash: d27008a4243b45da48a03fccb47adab77bb5f45c28635167c5306c6997e50cc9
+2026-03-12 19:48:04,211 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pptx_slide_009.json | Hash: dcae39b929e908c5b4d4a098847859afec1a073852e1eb74f15a054edb44ea05
+2026-03-12 19:48:04,214 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pptx_slide_010.json | Hash: a3016d1650df380ef34e2007907bf377f9dc078a8824e0364ea8618c685bfb4e
+2026-03-12 19:48:04,222 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pptx_slide_011.json | Hash: ac4b1d514a076e29a7d79b520f4a95582f5b25ff1010d666becf01da31af1c40
+2026-03-12 19:48:04,225 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pptx_slide_012.json | Hash: d461edfee004ff1df63ad0774fff81c2b642eb4db48dad8b3afbc9d6dbcf6399
+2026-03-12 19:48:04,227 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pptx_slide_013.json | Hash: e6320b257310c4dd19e6e6d7adbc677d1ce4830de67518b72764264001c8b677
+2026-03-12 19:48:04,230 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pptx_slide_014.json | Hash: 15d6c9537641ec7d6bc629db8b5bc6e5503fdba44d7481e52a39147e26db727a
+2026-03-12 19:48:04,233 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pptx_slide_015.json | Hash: 22509c179e9c936baaac774e6e171b411e937a30b18311fbb740be1ac048d973
+2026-03-12 19:48:04,236 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pptx_slide_016.json | Hash: bde5a93ceec65905a0fa80fe18f36be5fbee25b43ad5c5dd4a884aad6930f556
+2026-03-12 19:48:04,239 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pptx_slide_017.json | Hash: b7c8b95a49ac2666938214d458d4ac4da4d8a3d36527b35c159aed1a28df9ccb
+2026-03-12 19:48:04,241 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pptx_slide_018.json | Hash: c7768237944af2bbbf4b0b533447cc8cd6f95e4e200b389535f49b2cbbe05ea1
+2026-03-12 19:48:04,244 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pptx_slide_019.json | Hash: da0ddae916083859c4441f5249cc4a6971f0024e5073ec6f435ea6e124715c12
+2026-03-12 19:48:04,246 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pptx_slide_020.json | Hash: 06a57fee18c47d8b62814bb886f2370b1e3d774c32df50b1f39ac81428dc4bc9
+2026-03-12 19:48:04,250 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pptx_slide_021.json | Hash: c2e0a713fb41dabf2d86ea4a22ebe7dcb711949f9e4b107954b1ba5aba2e9c26
+2026-03-12 19:48:04,252 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pptx_slide_022.json | Hash: f0d5cd4c242482146b841ee596470ac20faafdb2c7b09d53369fcb3a6197ebaf
+2026-03-12 19:48:04,255 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pptx_slide_023.json | Hash: ccbff76385e65b8d3c1d6893e57cdd15983fb4bc64d5287347c6a80c7990af2d
+2026-03-12 19:48:04,257 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pptx_slide_024.json | Hash: bc99f23ade57b62d3d80a432930f83e54c2e26d6be62dece4c7b9dfa04719e2f
+2026-03-12 19:48:04,260 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pptx_slide_025.json | Hash: 87e35ac8c13991d65a0cf9ee0c4972c3e5b7674451986ca17c963aa390359164
+2026-03-12 19:48:04,262 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pptx_slide_026.json | Hash: 708d61aeb0312dd8e007527d319edf03c90ba8060ad7e0ae9139f187445909cc
+2026-03-12 19:48:04,265 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pptx_slide_027.json | Hash: f99ee5d91cc350ad717a8489bce743234a0016f2f9b3b46098e3bedea3d0a705
+2026-03-12 19:48:04,268 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pptx_slide_028.json | Hash: ccbeafee469d782b91af78e579661db16ec9fc48a12b2ed281c59a5859f977dc
+2026-03-12 19:48:04,271 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pptx_slide_029.json | Hash: 39dbc26d3174862fc9c4462fcb8a93a863096b2cc20074a5d903a3312dfcc77f
+2026-03-12 19:48:04,273 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pptx_slide_030.json | Hash: 5cc9fe7fa13bf092ee706aaac6c17e63825d82afa2deb0b88b3bc977c04ff444
+2026-03-12 19:48:04,276 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pptx_slide_031.json | Hash: 2fdd1750bafed9b8edb6dcb274a6e13ee686ded1b8bc1ac29377299443f74543
+2026-03-12 19:48:04,279 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pptx_slide_032.json | Hash: 5ec6aefe4b439b45294bcc27ed64dabd4dc961cda5e402a6e3bce80da8e50758
+2026-03-12 19:48:04,281 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pptx_slide_033.json | Hash: 242f039e43aa04d3e896d4fdf430ff514079cd1454e449ca98e6216ab13a8990
+2026-03-12 19:48:04,285 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pptx_slide_034.json | Hash: dfc01481f7d909886bcf82693b2b9a510220658cf2c4205f4a19b0315c26f606
+2026-03-12 19:48:04,287 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pptx_slide_035.json | Hash: 1c477581e45db050b048de1729e77b7279921ba2b6198ddf38fb03000411e92e
+2026-03-12 19:48:04,290 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pptx_slide_036.json | Hash: 7192336d1db3d6555ba0ac575b16b6928a50e9211b44cdd22d3c6494e43202f6
+2026-03-12 19:48:04,293 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pptx_slide_037.json | Hash: baba50123acaf8826cb90b7c5bf87d47a0edbfccd478c00ea06fdedeede3cb64
+2026-03-12 19:48:04,295 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pptx_slide_038.json | Hash: 43709cbabe019c01e4ee21bad38806e5e733810cfaced1f25a5d243501055fd2
+2026-03-12 19:48:04,298 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pptx_slide_039.json | Hash: 471b1a4282898c1fed7dbfbd1e6835b999e886b468d55cac027728a4472a8eb4
+2026-03-12 19:48:04,301 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pptx_slide_040.json | Hash: 0a31a7c5f5b1c924e92f997f17645b18866262d73632e982d4f4baf14347d2b9
+2026-03-12 19:48:04,304 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pptx_slide_041.json | Hash: 3635b168fb25a843da0209eb0a9d8e608d535c08352329477b6df3da3ad74ae9
+2026-03-12 19:48:04,306 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pptx_slide_042.json | Hash: dd0f9ec0de927c1510c8c61b04398931286065a40f4e2fa020bd8aa5081cad73
+2026-03-12 19:48:04,309 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pptx_slide_043.json | Hash: 989ab568164cd248fee3dfa82ff44cde2549c48f1b6aa097209d4cc2f7016d05
+2026-03-12 19:48:04,311 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pptx_slide_044.json | Hash: 32c70ecd0f9c381e3f322f388d6cfe6b8c0759a74bee53b9838faa6be3f02401
+2026-03-12 19:48:04,313 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pptx_slide_045.json | Hash: 12138ae1cd0f19efce2c7e5b20e71f59988b75bb33cc30789ae207e4be4ef105
+2026-03-12 19:48:04,317 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pptx_slide_046.json | Hash: 29183844f8c5578d39c3e690e466d8d43c8779711afcd08f7b0b9b62209d002f
+2026-03-12 19:48:04,320 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pptx_slide_047.json | Hash: e559dd7eb2fcf54809f702d3eb44f904b9c76abdbab7a713c1d646fcb7678c46
+2026-03-12 19:48:04,323 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pptx_slide_048.json | Hash: b1cb8c1ae01731b8485b6f1ddb0c724e34de60288984429c9f027e6194e0fc04
+2026-03-12 19:48:04,325 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pptx_slide_049.json | Hash: b1553807af3ff2d5d51d153aab758353fb363bfe6fb8eedc6a55769aa1a7ce6f
+2026-03-12 19:48:04,328 | PHASE1_OUTPUT_PROCESSED | C:/Users/oezdemir/Desktop/Projekt/data/processed/pptx_slide_050.json | Hash: 874222741669b5abff80272846b9fb5ba2d50f132c4321f339e2707741a7a4fb
+2026-03-12 19:48:04,350 | PHASE1_OUTPUT_ASSETS | C:/Users/oezdemir/Desktop/Projekt/export/assets/pdf_page11_img1.jpeg | Hash: 5ae526cfbb7928bcc1681c8ffda5a1c7407e0f018a7200dc9e1fbb0894619c33
+2026-03-12 19:48:04,368 | PHASE1_OUTPUT_ASSETS | C:/Users/oezdemir/Desktop/Projekt/export/assets/pdf_page14_img1.jpeg | Hash: 0024c3e2864e0ec5aa1ad17e615b5fc5f35433a3569538e90af9c23002764b60
+2026-03-12 19:48:04,387 | PHASE1_OUTPUT_ASSETS | C:/Users/oezdemir/Desktop/Projekt/export/assets/pdf_page17_img1.jpeg | Hash: 6b3e64a2311f1bfee1490fe021514729bed159b9a1f3c32e9be9a19f50106955
+2026-03-12 19:48:04,405 | PHASE1_OUTPUT_ASSETS | C:/Users/oezdemir/Desktop/Projekt/export/assets/pdf_page18_img1.jpeg | Hash: b2a3f117ce7a22c2a0bc4b22cdc42a3aa96ec1105ddea88dc67ab27a1bf664a6
+2026-03-12 19:48:04,422 | PHASE1_OUTPUT_ASSETS | C:/Users/oezdemir/Desktop/Projekt/export/assets/pdf_page19_img1.jpeg | Hash: a36c0a274e59cd6b7045bc1497dd8c9c1aed7fe15eb89ddfc6c88e65b52711ed
+2026-03-12 19:48:04,439 | PHASE1_OUTPUT_ASSETS | C:/Users/oezdemir/Desktop/Projekt/export/assets/pdf_page1_img1.jpeg | Hash: 2f9ad0d2239283ef7f37c73a9dacb1fb8892006bcea3538a98be7a77748e52be
+2026-03-12 19:48:04,456 | PHASE1_OUTPUT_ASSETS | C:/Users/oezdemir/Desktop/Projekt/export/assets/pdf_page20_chart1.png | Hash: d6d67be39bec6570b166f344f9b042d24529a7aa05b01384de8197141d3a98c6
+2026-03-12 19:48:04,476 | PHASE1_OUTPUT_ASSETS | C:/Users/oezdemir/Desktop/Projekt/export/assets/pdf_page22_chart1.png | Hash: b92cbe155cc3844b9eb0f7216552657475b1eb647222419b5bb7d112b1e6fb9d
+2026-03-12 19:48:04,493 | PHASE1_OUTPUT_ASSETS | C:/Users/oezdemir/Desktop/Projekt/export/assets/pdf_page23_img1.jpeg | Hash: ad9813ceaa4556ddd6e23c9a383144a9ba75f8c5af8692b679b2dc39061c7da5
+2026-03-12 19:48:04,512 | PHASE1_OUTPUT_ASSETS | C:/Users/oezdemir/Desktop/Projekt/export/assets/pdf_page25_img1.jpeg | Hash: d9850fe3eeaf34513d6030ff35114763b0606cf9af57d6e0346864cdb5b671ba
+2026-03-12 19:48:04,529 | PHASE1_OUTPUT_ASSETS | C:/Users/oezdemir/Desktop/Projekt/export/assets/pdf_page26_img1.jpeg | Hash: 3620c6186ab92007a8c25b8abba3950cd2e1c6c35bffbaebc5be6c0e1d62bca7
+2026-03-12 19:48:04,546 | PHASE1_OUTPUT_ASSETS | C:/Users/oezdemir/Desktop/Projekt/export/assets/pdf_page28_img1.jpeg | Hash: 525f492d39f593c862aedf9f9ec10dc6979c09bdfe785cf610a106138be23a7f
+2026-03-12 19:48:04,563 | PHASE1_OUTPUT_ASSETS | C:/Users/oezdemir/Desktop/Projekt/export/assets/pdf_page30_img1.jpeg | Hash: ea2624af993c89f97b25d431dc9da7d069ba67b944fc883086aa75faf068bc23
+2026-03-12 19:48:04,583 | PHASE1_OUTPUT_ASSETS | C:/Users/oezdemir/Desktop/Projekt/export/assets/pdf_page38_img1.jpeg | Hash: d297bb07174b54819373087ebde7590096310b407deee09885f7db0217f22d67
+2026-03-12 19:48:04,602 | PHASE1_OUTPUT_ASSETS | C:/Users/oezdemir/Desktop/Projekt/export/assets/pdf_page39_img1.jpeg | Hash: ed428f18d1db123bf7ffd48d91557b27caf76d8227b3ab4082f70135ad7f608e
+2026-03-12 19:48:04,621 | PHASE1_OUTPUT_ASSETS | C:/Users/oezdemir/Desktop/Projekt/export/assets/pdf_page3_img1.jpeg | Hash: 1125a989968806b27d3b19eb4cd754d4a1c6bb2cd388e7b5c86ae4bc61281eba
+2026-03-12 19:48:04,639 | PHASE1_OUTPUT_ASSETS | C:/Users/oezdemir/Desktop/Projekt/export/assets/pdf_page41_img1.jpeg | Hash: 29ff93564307180e4691e29f684402414e557dc9475d88c92bf5a854a0d8c83a
+2026-03-12 19:48:04,657 | PHASE1_OUTPUT_ASSETS | C:/Users/oezdemir/Desktop/Projekt/export/assets/pdf_page46_img1.jpeg | Hash: 33b183ff02cda16333d5e2c91980753c243f60b9aa4d188ed3a86605ffa82d31
+2026-03-12 19:48:04,675 | PHASE1_OUTPUT_ASSETS | C:/Users/oezdemir/Desktop/Projekt/export/assets/pdf_page49_chart1.png | Hash: 0f8d4ff3e324fcadc9799b1c0c60654a3d9d423a281d21a34eb40ba9ec036fcf
+2026-03-12 19:48:04,692 | PHASE1_OUTPUT_ASSETS | C:/Users/oezdemir/Desktop/Projekt/export/assets/pdf_page6_img1.jpeg | Hash: b19d090ac630bd494af46e2d0abe9bd5c186a4e439d92cb142051829ae1a2b52
+2026-03-12 19:48:04,713 | PHASE1_OUTPUT_ASSETS | C:/Users/oezdemir/Desktop/Projekt/export/assets/pdf_page6_img2.jpeg | Hash: da512e0e8cf90b58ca5bd1e522718f813b9af67f1709d1394344e5333d5886e6
+2026-03-12 19:48:04,740 | PHASE1_OUTPUT_ASSETS | C:/Users/oezdemir/Desktop/Projekt/export/assets/pdf_page6_img3.jpeg | Hash: 975a3ffd4251519e86a5507cf2a257c15cc3e8d109f6defd7a16df06759d51c2
+2026-03-12 19:48:04,758 | PHASE1_OUTPUT_ASSETS | C:/Users/oezdemir/Desktop/Projekt/export/assets/pdf_page7_img1.jpeg | Hash: c171bde5bf9f9ecf12b286ce6d44b9893f7ba551d7127f09247db5c7502d8142
+2026-03-12 19:48:04,778 | PHASE1_OUTPUT_ASSETS | C:/Users/oezdemir/Desktop/Projekt/export/assets/pdf_page8_chart1.png | Hash: 7449667ecbdd3c6177bd9be6299b7355c737e7ad864c50b6ff60301c55c2d96e
+2026-03-12 19:48:04,795 | PHASE1_OUTPUT_ASSETS | C:/Users/oezdemir/Desktop/Projekt/export/assets/pdf_page9_img1.jpeg | Hash: d760282e81164c080080c042c44bd4f96e116fa8bd380bf60d970d575888887a
+2026-03-12 19:48:04,799 | PHASE1_OUTPUT_ASSETS | C:/Users/oezdemir/Desktop/Projekt/export/assets/pptx_slide10_img6.png | Hash: d97ff84bd735a9e1a3ec4838dbdbe659fc88923755e7bc745c9689d29df60b8c
+2026-03-12 19:48:04,802 | PHASE1_OUTPUT_ASSETS | C:/Users/oezdemir/Desktop/Projekt/export/assets/pptx_slide12_img7.png | Hash: f4d78fe71373cf19208c6fe30e788db97ef67c85e652e8c2ef763c3826e11a63
+2026-03-12 19:48:04,805 | PHASE1_OUTPUT_ASSETS | C:/Users/oezdemir/Desktop/Projekt/export/assets/pptx_slide14_img8.jpg | Hash: a93ca58fad12b81b6cccc35281d013aea111e1421fceb171176c0fb28f0c1c39
+2026-03-12 19:48:04,809 | PHASE1_OUTPUT_ASSETS | C:/Users/oezdemir/Desktop/Projekt/export/assets/pptx_slide15_img9.png | Hash: a7b857a56bfb9844593e567332e4a1fae389dd0427f9e77c02429a1981d64b9e
+2026-03-12 19:48:04,813 | PHASE1_OUTPUT_ASSETS | C:/Users/oezdemir/Desktop/Projekt/export/assets/pptx_slide16_img10.png | Hash: e4b9933f29a387e02dec84ee11ea9382b8299974b9ba26842911909a1a0df021
+2026-03-12 19:48:04,818 | PHASE1_OUTPUT_ASSETS | C:/Users/oezdemir/Desktop/Projekt/export/assets/pptx_slide18_img11.png | Hash: 76d9670c4dc150d74bdb3cf32623bce5d5fdd92b608844fd0bd948c74974304f
+2026-03-12 19:48:04,822 | PHASE1_OUTPUT_ASSETS | C:/Users/oezdemir/Desktop/Projekt/export/assets/pptx_slide18_img12.png | Hash: 2dcb43d4b6515cad41d88d29358ceb983a26ed2911fc7be5030523561b918d36
+2026-03-12 19:48:04,826 | PHASE1_OUTPUT_ASSETS | C:/Users/oezdemir/Desktop/Projekt/export/assets/pptx_slide18_img13.png | Hash: 17816d91202eb28cae8d2cfb6bb98acbdf0f377d589dcc4fb32d5f1afe796bfc
+2026-03-12 19:48:04,830 | PHASE1_OUTPUT_ASSETS | C:/Users/oezdemir/Desktop/Projekt/export/assets/pptx_slide19_img14.png | Hash: c27a5b70ab261b9c2cb32c8d128a559b962ea810f5b81516f280667726e2dba8
+2026-03-12 19:48:04,834 | PHASE1_OUTPUT_ASSETS | C:/Users/oezdemir/Desktop/Projekt/export/assets/pptx_slide1_img1.jpg | Hash: 9660aed42ad29861a0f5201dbb211077772a1c0abd6a41597b16f5592932f632
+2026-03-12 19:48:04,838 | PHASE1_OUTPUT_ASSETS | C:/Users/oezdemir/Desktop/Projekt/export/assets/pptx_slide20_img15.png | Hash: 900268619b5fd3a0083a3db69349f527e4c890bcc9ecbe5c15fe494ceb83602e
+2026-03-12 19:48:04,842 | PHASE1_OUTPUT_ASSETS | C:/Users/oezdemir/Desktop/Projekt/export/assets/pptx_slide21_img16.png | Hash: 7b34c6eb13eb2f44e9f0f26e9cd66bdbfb5ba728a1c07af549bab4ce11b8f247
+2026-03-12 19:48:04,847 | PHASE1_OUTPUT_ASSETS | C:/Users/oezdemir/Desktop/Projekt/export/assets/pptx_slide22_img17.png | Hash: ec8ea92afd4dc894f5ac78d8a2b056f5a9cb3e3e70b6a7185924d5ae01b89afd
+2026-03-12 19:48:04,851 | PHASE1_OUTPUT_ASSETS | C:/Users/oezdemir/Desktop/Projekt/export/assets/pptx_slide23_img18.png | Hash: 5e2a8d0417fc5ec2cc125a07a92549532ff75e3f4e2a5164a28f130fd84adcbd
+2026-03-12 19:48:04,856 | PHASE1_OUTPUT_ASSETS | C:/Users/oezdemir/Desktop/Projekt/export/assets/pptx_slide24_img19.png | Hash: 25407bb9675d5412ccfa467faa5d178cbe7cbabd87465fa413c22620c8091491
+2026-03-12 19:48:04,860 | PHASE1_OUTPUT_ASSETS | C:/Users/oezdemir/Desktop/Projekt/export/assets/pptx_slide33_img20.png | Hash: 9e3711178dfa8d4a08f2c251c71edd9b6dedcc7f4628c51db138ade6ebbb081e
+2026-03-12 19:48:04,863 | PHASE1_OUTPUT_ASSETS | C:/Users/oezdemir/Desktop/Projekt/export/assets/pptx_slide38_img21.png | Hash: 8163b1db08cb25ed60adccd855731ea006f57926844b1ea0a28c15181088e810
+2026-03-12 19:48:04,868 | PHASE1_OUTPUT_ASSETS | C:/Users/oezdemir/Desktop/Projekt/export/assets/pptx_slide3_img2.jpg | Hash: 9af3c1dbc2135b23ff70dead8fa26f612876fb08a9e53117f26956e458df2709
+2026-03-12 19:48:04,872 | PHASE1_OUTPUT_ASSETS | C:/Users/oezdemir/Desktop/Projekt/export/assets/pptx_slide40_img22.png | Hash: 932f82b1714d1a7fef5318c56d595ecf35f708eef809d45efdd32742d18cfa35
+2026-03-12 19:48:04,876 | PHASE1_OUTPUT_ASSETS | C:/Users/oezdemir/Desktop/Projekt/export/assets/pptx_slide45_img23.png | Hash: 9e3711178dfa8d4a08f2c251c71edd9b6dedcc7f4628c51db138ade6ebbb081e
+2026-03-12 19:48:04,879 | PHASE1_OUTPUT_ASSETS | C:/Users/oezdemir/Desktop/Projekt/export/assets/pptx_slide47_img24.png | Hash: c0d491321e3c5f9ccdcfda8405c4f10ed2aa2d68a5de84bfa244df3c79efdf8d
+2026-03-12 19:48:04,884 | PHASE1_OUTPUT_ASSETS | C:/Users/oezdemir/Desktop/Projekt/export/assets/pptx_slide48_img25.png | Hash: 11d6da440055f97cb3a9a985466d4f756d235206695b32c73d31a9ece64a8945
+2026-03-12 19:48:04,888 | PHASE1_OUTPUT_ASSETS | C:/Users/oezdemir/Desktop/Projekt/export/assets/pptx_slide4_img3.png | Hash: ec527415e7abd2b27d751575965f198696ae8ed35e4a1b16185169ff8a1ab2d6
+2026-03-12 19:48:04,892 | PHASE1_OUTPUT_ASSETS | C:/Users/oezdemir/Desktop/Projekt/export/assets/pptx_slide50_img26.jpg | Hash: e8a0eaf8fa34f1aaca45e667115256cf6323fee3b5f5da3fad6da4ee5be37218
+2026-03-12 19:48:04,896 | PHASE1_OUTPUT_ASSETS | C:/Users/oezdemir/Desktop/Projekt/export/assets/pptx_slide5_img4.png | Hash: 3e0c1f28a95d2eb7811be8c72e093542f5c6748e7a2ef8d843350a017d98627c
+2026-03-12 19:48:04,900 | PHASE1_OUTPUT_ASSETS | C:/Users/oezdemir/Desktop/Projekt/export/assets/pptx_slide6_img5.png | Hash: ece64dd6301436276c2520fddc688d110271ba1bc2f43c486b1554389e5df3b9
+2026-03-12 19:48:04,927 | map.json | Hash: 0a94d756c5dad3081b4155ecaea207b3ffe62f84d633024d5338b7c9fd61f8f6
