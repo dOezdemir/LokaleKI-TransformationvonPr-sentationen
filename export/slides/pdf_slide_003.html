@@ -1,0 +1,288 @@
+<!doctype html>
+<html lang="de">
+  <head>
+    <!-- Zeichencodierung und responsives Verhalten -->
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <!-- Titel der aktuellen Folie -->
+    <title>kein Titel gefunden</title>
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="../style/style.css" />
+
+    <!-- Font Awesome für Icons -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"
+    />
+  </head>
+
+  <!-- Falls die Folie aus einer PDF stammt, wird zusätzlich die Klasse is-pdf gesetzt -->
+  <body class="is-pdf">
+    <script>
+      // Aktiviert einen Debug-Modus, wenn in der URL ?debug=1 steht
+      if (new URLSearchParams(location.search).get("debug") === "1") {
+        document.body.classList.add("debug");
+      }
+    </script>
+
+    <!-- Kopfbereich mit Navigation -->
+    <header class="topbar">
+      <nav class="topbar-left" aria-label="Hauptnavigation">
+        <!-- Links zurück zu den Hauptseiten -->
+        <a class="tb-link" href="../index.html">← Index</a>
+        <a class="tb-link" href="../glossar.html">Glossar</a>
+        <a class="tb-link" href="../quiz.html">Quiz</a>
+      </nav>
+
+      <!-- Navigation zwischen den Folien -->
+      <div class="slide-nav" aria-label="Foliennavigation">
+        <a
+          class="nav-btn "
+          href="pdf_slide_002.html"
+          aria-label="Vorherige Folie"
+          aria-disabled="false"
+          >← Vor</a
+        >
+
+        <!-- Anzeige der aktuellen Folienposition -->
+        <span class="nav-meta">Folie 3 / 100</span>
+
+        <a
+          class="nav-btn "
+          href="pdf_slide_004.html"
+          aria-label="Nächste Folie"
+          aria-disabled="false"
+          >Weiter →</a
+        >
+      </div>
+
+      <!-- Rechter Bereich mit Suchfunktion und Theme-Schalter -->
+      <div class="topbar-right">
+        <div class="slide-search">
+          <input
+            type="search"
+            placeholder="Springe zu Folie (z.B. 037, pdf 12, pptx 5)…"
+            aria-label="Zu Folie springen"
+            data-slide-jump
+          />
+        </div>
+
+        <button id="theme-toggle" class="tb-btn" aria-label="Theme wechseln">
+          <i class="fa-solid fa-moon"></i>
+        </button>
+      </div>
+
+      <!-- Titel der Folie zusätzlich in der Topbar -->
+      <div class="topbar-title" title="kein Titel gefunden">kein Titel gefunden</div>
+    </header>
+
+    <!-- Hauptbereich, in dem die Folie dargestellt wird -->
+    <main class="stage">
+      <div
+        class="slide"
+        style="aspect-ratio: 1.777778;"
+        data-cw="960.0"
+        data-ch="540.0"
+      >
+        
+          
+            <!-- Bildelement -->
+            <img class="el img" style="position:absolute;left:2.7953%; top:28.3352%; width:47.2042%; height:43.3296%;" src="../assets/pdf_page3_img1.jpeg" loading="lazy" />
+
+          
+        
+          
+            <!-- Textelement -->
+            <div class="el text" style="position:absolute;left:58.3927%; top:32.8138%; width:34.7538%; height:10.2582%;">
+              <p><span style="color:#215F9A;font-size:50.04px;font-family:TimesNewRomanPS-BoldMT, Arial, sans-serif;"><strong>01</strong></span><span style="color:#000000;font-size:50.04px;font-family:TimesNewRomanPS-BoldMT, Arial, sans-serif;"><strong> Grundlagen </strong></span></p>
+            </div>
+
+          
+        
+          
+            <!-- Textelement -->
+            <div class="el text" style="position:absolute;left:60.6427%; top:42.8098%; width:28.9380%; height:10.2631%;">
+              <p><span style="color:#000000;font-size:50.06px;font-family:TimesNewRomanPS-BoldMT, Arial, sans-serif;"><strong>von Big Data</strong></span></p>
+            </div>
+
+          
+        
+      </div>
+    </main>
+
+    <script>
+      (function () {
+        // Theme-Umschaltung zwischen Hell- und Dunkelmodus
+        const rootEl = document.documentElement;
+        const toggle = document.getElementById("theme-toggle");
+        if (!toggle) return;
+
+        const saved = localStorage.getItem("theme");
+        if (saved) {
+          rootEl.setAttribute("data-theme", saved);
+        } else if (window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches) {
+          rootEl.setAttribute("data-theme", "dark");
+        }
+
+        function updateIcon() {
+          // Passt das Icon an das aktive Theme an
+          const current = rootEl.getAttribute("data-theme");
+          toggle.innerHTML =
+            current === "dark"
+              ? '<i class="fa-solid fa-sun"></i>'
+              : '<i class="fa-solid fa-moon"></i>';
+        }
+
+        updateIcon();
+
+        toggle.addEventListener("click", () => {
+          // Wechselt das Theme und speichert es lokal
+          const current = rootEl.getAttribute("data-theme");
+          const next = current === "dark" ? "light" : "dark";
+          rootEl.setAttribute("data-theme", next);
+          localStorage.setItem("theme", next);
+          updateIcon();
+        });
+      })();
+
+      (function () {
+        // Navigation mit der Tastatur:
+        // Pfeil links = vorherige Folie, Pfeil rechts = nächste Folie
+        const prev = "pdf_slide_002.html";
+        const next = "pdf_slide_004.html";
+
+        document.addEventListener("keydown", (e) => {
+          const t = e.target;
+          if (t && (t.tagName === "INPUT" || t.tagName === "TEXTAREA")) return;
+          if (e.key === "ArrowLeft" && prev) location.href = prev;
+          if (e.key === "ArrowRight" && next) location.href = next;
+        });
+      })();
+
+      (function () {
+        // Suchfeld, um direkt zu einer Folie zu springen
+        const input = document.querySelector("[data-slide-jump]");
+        if (!input) return;
+
+        const ALL = (function () {
+          // Liste aller verfügbaren HTML-Folien aus Jinja übernehmen
+          try {
+            return JSON.parse('["pdf_slide_001.html", "pdf_slide_002.html", "pdf_slide_003.html", "pdf_slide_004.html", "pdf_slide_005.html", "pdf_slide_006.html", "pdf_slide_007.html", "pdf_slide_008.html", "pdf_slide_009.html", "pdf_slide_010.html", "pdf_slide_011.html", "pdf_slide_012.html", "pdf_slide_013.html", "pdf_slide_014.html", "pdf_slide_015.html", "pdf_slide_016.html", "pdf_slide_017.html", "pdf_slide_018.html", "pdf_slide_019.html", "pdf_slide_020.html", "pdf_slide_021.html", "pdf_slide_022.html", "pdf_slide_023.html", "pdf_slide_024.html", "pdf_slide_025.html", "pdf_slide_026.html", "pdf_slide_027.html", "pdf_slide_028.html", "pdf_slide_029.html", "pdf_slide_030.html", "pdf_slide_031.html", "pdf_slide_032.html", "pdf_slide_033.html", "pdf_slide_034.html", "pdf_slide_035.html", "pdf_slide_036.html", "pdf_slide_037.html", "pdf_slide_038.html", "pdf_slide_039.html", "pdf_slide_040.html", "pdf_slide_041.html", "pdf_slide_042.html", "pdf_slide_043.html", "pdf_slide_044.html", "pdf_slide_045.html", "pdf_slide_046.html", "pdf_slide_047.html", "pdf_slide_048.html", "pdf_slide_049.html", "pdf_slide_050.html", "pptx_slide_001.html", "pptx_slide_002.html", "pptx_slide_003.html", "pptx_slide_004.html", "pptx_slide_005.html", "pptx_slide_006.html", "pptx_slide_007.html", "pptx_slide_008.html", "pptx_slide_009.html", "pptx_slide_010.html", "pptx_slide_011.html", "pptx_slide_012.html", "pptx_slide_013.html", "pptx_slide_014.html", "pptx_slide_015.html", "pptx_slide_016.html", "pptx_slide_017.html", "pptx_slide_018.html", "pptx_slide_019.html", "pptx_slide_020.html", "pptx_slide_021.html", "pptx_slide_022.html", "pptx_slide_023.html", "pptx_slide_024.html", "pptx_slide_025.html", "pptx_slide_026.html", "pptx_slide_027.html", "pptx_slide_028.html", "pptx_slide_029.html", "pptx_slide_030.html", "pptx_slide_031.html", "pptx_slide_032.html", "pptx_slide_033.html", "pptx_slide_034.html", "pptx_slide_035.html", "pptx_slide_036.html", "pptx_slide_037.html", "pptx_slide_038.html", "pptx_slide_039.html", "pptx_slide_040.html", "pptx_slide_041.html", "pptx_slide_042.html", "pptx_slide_043.html", "pptx_slide_044.html", "pptx_slide_045.html", "pptx_slide_046.html", "pptx_slide_047.html", "pptx_slide_048.html", "pptx_slide_049.html", "pptx_slide_050.html"]');
+          } catch {
+            return [];
+          }
+        })();
+
+        const SET = new Set(Array.isArray(ALL) ? ALL : []);
+
+        function pad3(n) {
+          // Formatiert Zahlen dreistellig, z. B. 5 -> 005
+          const s = String(n);
+          if (s.length >= 3) return s; 
+          return ("000" + s).slice(-3);
+        }
+
+        function normalize(q) {
+          // Vereinheitlicht die Eingabe
+          return (q || "").trim().toLowerCase();
+        }
+
+        function buildCandidates(q) {
+          // Baut aus der Suchanfrage mögliche Dateinamen
+          const out = [];
+          const qq = normalize(q);
+          if (!qq) return out;
+
+          let m = qq.match(/^(pdf|pptx)_slide_(\d{1,6})$/);
+          if (m) {
+            out.push(`${m[1]}_slide_${pad3(m[2])}.html`);
+            return out;
+          }
+
+          m = qq.match(/^(pdf|pptx)_slide_(\d{1,6})\.html$/);
+          if (m) {
+            out.push(`${m[1]}_slide_${pad3(m[2])}.html`);
+            return out;
+          }
+
+          m = qq.match(/^(pdf|pptx)\s+(\d{1,6})$/);
+          if (m) {
+            out.push(`${m[1]}_slide_${pad3(m[2])}.html`);
+            return out;
+          }
+
+          m = qq.match(/^(\d{1,6})$/);
+          if (m) {
+            const n = pad3(m[1]);
+            out.push(`pdf_slide_${n}.html`);
+            out.push(`pptx_slide_${n}.html`);
+            return out;
+          }
+
+          return out;
+        }
+
+        function jump() {
+          // Springt zur passenden Folie, falls ein Treffer gefunden wird
+          const candidates = buildCandidates(input.value);
+          if (candidates.length === 0) return;
+
+          for (const f of candidates) {
+            if (SET.has(f)) {
+              location.href = f; 
+              return;
+            }
+          }
+
+          // Markiert das Feld kurz als ungültig, wenn nichts gefunden wird
+          input.classList.add("invalid");
+          setTimeout(() => input.classList.remove("invalid"), 700);
+        }
+
+        input.addEventListener("keydown", (e) => {
+          if (e.key === "Enter") {
+            e.preventDefault();
+            jump();
+          }
+        });
+      })();
+
+      (function () {
+        // Steuerung für Tooltip-Elemente mit der Klasse .tt
+        function closeAll(exceptEl) {
+          document.querySelectorAll(".tt.tt-open").forEach((el) => {
+            if (exceptEl && el === exceptEl) return;
+            el.classList.remove("tt-open");
+          });
+        }
+
+        document.addEventListener("click", (e) => {
+          const t = e.target.closest && e.target.closest(".tt");
+          if (!t) {
+            closeAll(null);
+            return;
+          }
+          if (t.classList.contains("tt-open")) {
+            t.classList.remove("tt-open");
+          } else {
+            closeAll(t);
+            t.classList.add("tt-open");
+          }
+        });
+
+        document.addEventListener("keydown", (e) => {
+          // Mit Escape alle offenen Tooltips schließen
+          if (e.key === "Escape") closeAll(null);
+        });
+
+        document.addEventListener("focusin", (e) => {
+          // Beim Fokuswechsel andere Tooltips schließen
+          const t = e.target.closest && e.target.closest(".tt");
+          closeAll(t || null);
+        });
+      })();
+    </script>
+  </body>
+</html>
