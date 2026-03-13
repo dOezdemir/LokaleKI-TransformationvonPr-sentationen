@@ -1,0 +1,2341 @@
+{
+  "slides": {
+    "pdf_slide_001.json": {
+      "foliennummer": 1,
+      "ueberschrift": "Big Data",
+      "quelle_json": "data\\processed\\pdf_slide_001.json",
+      "abschnitte": [
+        "Big Data\nBig Data\nUmfassender Überblick zu Big\nData Grundlagen und\nTechnologien"
+      ],
+      "saetze": [
+        "Big Data",
+        "Big Data",
+        "Umfassender Überblick zu Big",
+        "Data Grundlagen und",
+        "Technologien"
+      ],
+      "counts": {
+        "abschnitte": 1,
+        "saetze": 5
+      }
+    },
+    "pdf_slide_002.json": {
+      "foliennummer": 2,
+      "ueberschrift": "Einführung",
+      "quelle_json": "data\\processed\\pdf_slide_002.json",
+      "abschnitte": [
+        "Einführung\nEinführung\nBig Data bezeichnet die Verarbeitung und Analyse großer, komplexer und vielfältiger Datenmengen. Diese\nTechnologie ermöglicht es Unternehmen, wertvolle Erkenntnisse zu gewinnen, die mit herkömmlichen\nMethoden nicht erreichbar sind. Die Präsentation stellt zentrale Konzepte, Technologien und Herausforderungen\nvor.\n• Big Data ermöglicht Erkenntnisse, die mit klassischen Datenbanksystemen nicht effizient gewonnen werden\nkönnen.\n• Daten entstehen kontinuierlich aus digitalen Plattformen, Sensoren und Transaktionssystemen.\n• Skalierbare Technologien sind notwendig, um Geschwindigkeit und Volumen zu bewältigen.\n• Die Kombination aus Analyse, Infrastruktur und Strategie schafft Wettbewerbsvorteile."
+      ],
+      "saetze": [
+        "Einführung",
+        "Einführung",
+        "Big Data bezeichnet die Verarbeitung und Analyse großer, komplexer und vielfältiger Datenmengen.",
+        "Diese",
+        "Technologie ermöglicht es Unternehmen, wertvolle Erkenntnisse zu gewinnen, die mit herkömmlichen",
+        "Methoden nicht erreichbar sind.",
+        "Die Präsentation stellt zentrale Konzepte, Technologien und Herausforderungen",
+        "vor.",
+        "Big Data ermöglicht Erkenntnisse, die mit klassischen Datenbanksystemen nicht effizient gewonnen werden",
+        "können.",
+        "Daten entstehen kontinuierlich aus digitalen Plattformen, Sensoren und Transaktionssystemen.",
+        "Skalierbare Technologien sind notwendig, um Geschwindigkeit und Volumen zu bewältigen.",
+        "Die Kombination aus Analyse, Infrastruktur und Strategie schafft Wettbewerbsvorteile."
+      ],
+      "counts": {
+        "abschnitte": 1,
+        "saetze": 13
+      }
+    },
+    "pdf_slide_003.json": {
+      "foliennummer": 3,
+      "ueberschrift": "kein Titel gefunden",
+      "quelle_json": "data\\processed\\pdf_slide_003.json",
+      "abschnitte": [
+        "kein Titel gefunden\n01 Grundlagen\nvon Big Data"
+      ],
+      "saetze": [
+        "kein Titel gefunden",
+        "01 Grundlagen",
+        "von Big Data"
+      ],
+      "counts": {
+        "abschnitte": 1,
+        "saetze": 3
+      }
+    },
+    "pdf_slide_004.json": {
+      "foliennummer": 4,
+      "ueberschrift": "Definition und Merkmale von Big Data",
+      "quelle_json": "data\\processed\\pdf_slide_004.json",
+      "abschnitte": [
+        "Definition und Merkmale von Big Data\nDefinition und Merkmale von Big Data\nBig Data umfasst riesige Datenmengen, die durch hohe Geschwindigkeit, Vielfalt und Volumen charakterisiert\nsind. Die Herausforderung besteht darin, diese Daten sinnvoll zu speichern, zu verarbeiten und auszuwerten, um\ndaraus belastbare Erkenntnisse zu gewinnen.\n• Big Data umfasst strukturierte, semi-strukturierte und unstrukturierte Datenquellen.\n• Die Verarbeitung erfolgt häufig verteilt über Cluster-Architekturen.\n• Skalierbarkeit ist notwendig, um wachsende Datenströme effizient zu bewältigen.\n• Ziel ist es, aus komplexen Daten belastbare, wirtschaftlich nutzbare Erkenntnisse zu gewinnen."
+      ],
+      "saetze": [
+        "Definition und Merkmale von Big Data",
+        "Definition und Merkmale von Big Data",
+        "Big Data umfasst riesige Datenmengen, die durch hohe Geschwindigkeit, Vielfalt und Volumen charakterisiert",
+        "sind.",
+        "Die Herausforderung besteht darin, diese Daten sinnvoll zu speichern, zu verarbeiten und auszuwerten, um",
+        "daraus belastbare Erkenntnisse zu gewinnen.",
+        "Big Data umfasst strukturierte, semi-strukturierte und unstrukturierte Datenquellen.",
+        "Die Verarbeitung erfolgt häufig verteilt über Cluster-Architekturen.",
+        "Skalierbarkeit ist notwendig, um wachsende Datenströme effizient zu bewältigen.",
+        "Ziel ist es, aus komplexen Daten belastbare, wirtschaftlich nutzbare Erkenntnisse zu gewinnen."
+      ],
+      "counts": {
+        "abschnitte": 1,
+        "saetze": 10
+      }
+    },
+    "pdf_slide_005.json": {
+      "foliennummer": 5,
+      "ueberschrift": "Die 5Vs: Volume, Velocity, Variety, Veracity, Value",
+      "quelle_json": "data\\processed\\pdf_slide_005.json",
+      "abschnitte": [
+        "Die 5Vs: Volume, Velocity, Variety, Veracity, Value\nDie 5Vs: Volume, Velocity, Variety, Veracity, Value\nDie fünf  Vs beschreiben zentrale Eigenschaften, die Big Data von herkömmlicher Datenverarbeitung unterscheiden. Sie\nverdeutlichen technische Herausforderungen und strategische Potenziale.\n• Volume beschreibt das enorme Datenvolumen, das kontinuierlich erzeugt wird.\n• Velocity bezeichnet die Geschwindigkeit, mit der Daten entstehen und verarbeitet werden müssen.\n• Variety steht für unterschiedliche Datenformate und Quellen.\n• Veracity beschreibt Datenqualität, während Value den wirtschaftlichen Nutzen betont."
+      ],
+      "saetze": [
+        "Die 5Vs:",
+        "Volume, Velocity, Variety, Veracity, Value",
+        "Die 5Vs:",
+        "Volume, Velocity, Variety, Veracity, Value",
+        "Die fünf  Vs beschreiben zentrale Eigenschaften, die Big Data von herkömmlicher Datenverarbeitung unterscheiden.",
+        "Sie",
+        "verdeutlichen technische Herausforderungen und strategische Potenziale.",
+        "Volume beschreibt das enorme Datenvolumen, das kontinuierlich erzeugt wird.",
+        "Velocity bezeichnet die Geschwindigkeit, mit der Daten entstehen und verarbeitet werden müssen.",
+        "Variety steht für unterschiedliche Datenformate und Quellen.",
+        "Veracity beschreibt Datenqualität, während Value den wirtschaftlichen Nutzen betont."
+      ],
+      "counts": {
+        "abschnitte": 1,
+        "saetze": 11
+      }
+    },
+    "pdf_slide_006.json": {
+      "foliennummer": 6,
+      "ueberschrift": "Die 5Vs: Volume, Velocity, Variety, Veracity, Value",
+      "quelle_json": "data\\processed\\pdf_slide_006.json",
+      "abschnitte": [
+        "Die 5Vs: Volume, Velocity, Variety, Veracity, Value\nDie 5Vs: Volume, Velocity, Variety, Veracity, Value"
+      ],
+      "saetze": [
+        "Die 5Vs:",
+        "Volume, Velocity, Variety, Veracity, Value",
+        "Die 5Vs:",
+        "Volume, Velocity, Variety, Veracity, Value"
+      ],
+      "counts": {
+        "abschnitte": 1,
+        "saetze": 4
+      }
+    },
+    "pdf_slide_007.json": {
+      "foliennummer": 7,
+      "ueberschrift": "Unterschiede zu traditionellen Datenverarbeitungstechniken",
+      "quelle_json": "data\\processed\\pdf_slide_007.json",
+      "abschnitte": [
+        "Unterschiede zu traditionellen Datenverarbeitungstechniken\nUnterschiede zu traditionellen Datenverarbeitungstechniken\nIm Gegensatz zur traditionellen Datenverarbeitung adressiert Big\nData die Skalierbarkeit und Heterogenität der Daten.\nTraditionelle Systeme stoßen bei Echtzeitverarbeitung und\nSkalierung schnell an Grenzen.\n• Big-Data-Systeme arbeiten häufig verteilt über viele Server.\n• Echtzeit-Analysen sind durch spezialisierte Frameworks\nmöglich.\n• Flexible Speicherarchitekturen ersetzen starre\nDatenbankschemata.\n• Cloud-Technologien ermöglichen nahezu unbegrenzte\nhorizontale Skalierung."
+      ],
+      "saetze": [
+        "Unterschiede zu traditionellen Datenverarbeitungstechniken",
+        "Unterschiede zu traditionellen Datenverarbeitungstechniken",
+        "Im Gegensatz zur traditionellen Datenverarbeitung adressiert Big",
+        "Data die Skalierbarkeit und Heterogenität der Daten.",
+        "Traditionelle Systeme stoßen bei Echtzeitverarbeitung und",
+        "Skalierung schnell an Grenzen.",
+        "Big-Data-Systeme arbeiten häufig verteilt über viele Server.",
+        "Echtzeit-Analysen sind durch spezialisierte Frameworks",
+        "möglich.",
+        "Flexible Speicherarchitekturen ersetzen starre",
+        "Datenbankschemata.",
+        "Cloud-Technologien ermöglichen nahezu unbegrenzte",
+        "horizontale Skalierung."
+      ],
+      "counts": {
+        "abschnitte": 1,
+        "saetze": 13
+      }
+    },
+    "pdf_slide_008.json": {
+      "foliennummer": 8,
+      "ueberschrift": "kein Titel gefunden",
+      "quelle_json": "data\\processed\\pdf_slide_008.json",
+      "abschnitte": [
+        "kein Titel gefunden\n02 Technologische\nKomponenten"
+      ],
+      "saetze": [
+        "kein Titel gefunden",
+        "02 Technologische",
+        "Komponenten"
+      ],
+      "counts": {
+        "abschnitte": 1,
+        "saetze": 3
+      }
+    },
+    "pdf_slide_009.json": {
+      "foliennummer": 9,
+      "ueberschrift": "Datenquellen und Datenerfassung",
+      "quelle_json": "data\\processed\\pdf_slide_009.json",
+      "abschnitte": [
+        "Datenquellen und Datenerfassung\nDatenquellen und Datenerfassung\n• Soziale Medien liefern Nutzungs- und Interaktionsdaten in\nEchtzeit.\n• Sensoren und IoT-Geräte erzeugen kontinuierliche Messwerte.\n• Transaktionssysteme dokumentieren Kauf- und Zahlungsprozesse.\n• Automatisierte Ingestion-Prozesse bereiten Daten für Speicherung\nund Analyse auf.\n• Zusätzlich stammen Daten aus Unternehmensdatenbanken,\nLogdateien von IT-Systemen sowie aus Webtracking.\n• Auch externe Datenquellen wie Open-Data-Portale oder\nPartnerunternehmen können integriert werden.\n• Durch geeignete Schnittstellen und APIs werden diese Daten\nkontinuierlich gesammelt"
+      ],
+      "saetze": [
+        "Datenquellen und Datenerfassung",
+        "Datenquellen und Datenerfassung",
+        "Soziale Medien liefern Nutzungs- und Interaktionsdaten in",
+        "Echtzeit.",
+        "Sensoren und IoT-Geräte erzeugen kontinuierliche Messwerte.",
+        "Transaktionssysteme dokumentieren Kauf- und Zahlungsprozesse.",
+        "Automatisierte Ingestion-Prozesse bereiten Daten für Speicherung",
+        "und Analyse auf.",
+        "Zusätzlich stammen Daten aus Unternehmensdatenbanken,",
+        "Logdateien von IT-Systemen sowie aus Webtracking.",
+        "Auch externe Datenquellen wie Open-Data-Portale oder",
+        "Partnerunternehmen können integriert werden.",
+        "Durch geeignete Schnittstellen und APIs werden diese Daten",
+        "kontinuierlich gesammelt"
+      ],
+      "counts": {
+        "abschnitte": 1,
+        "saetze": 14
+      }
+    },
+    "pdf_slide_010.json": {
+      "foliennummer": 10,
+      "ueberschrift": "Die Evolution der Datenspeicherung",
+      "quelle_json": "data\\processed\\pdf_slide_010.json",
+      "abschnitte": [
+        "Die Evolution der Datenspeicherung\nDie Evolution der Datenspeicherung\nDie Speicherung großer Datenmengen hat sich von strukturierten Data Warehouses zu flexiblen Data Lakes\nentwickelt. Moderne Architekturen kombinieren On-Premise- und Cloud-Lösungen.\n• Data Warehouses speichern strukturierte Daten für klassische Analysen.\n• Data Lakes ermöglichen flexible Speicherung auch unstrukturierter Daten.\n• Cloud-Systeme bieten elastische Skalierbarkeit bei steigender Last.\n• Hybrid-Cloud-Modelle kombinieren Sicherheit mit Flexibilität."
+      ],
+      "saetze": [
+        "Die Evolution der Datenspeicherung",
+        "Die Evolution der Datenspeicherung",
+        "Die Speicherung großer Datenmengen hat sich von strukturierten Data Warehouses zu flexiblen Data Lakes",
+        "entwickelt.",
+        "Moderne Architekturen kombinieren On-Premise- und Cloud-Lösungen.",
+        "Data Warehouses speichern strukturierte Daten für klassische Analysen.",
+        "Data Lakes ermöglichen flexible Speicherung auch unstrukturierter Daten.",
+        "Cloud-Systeme bieten elastische Skalierbarkeit bei steigender Last.",
+        "Hybrid-Cloud-Modelle kombinieren Sicherheit mit Flexibilität."
+      ],
+      "counts": {
+        "abschnitte": 1,
+        "saetze": 9
+      }
+    },
+    "pdf_slide_011.json": {
+      "foliennummer": 11,
+      "ueberschrift": "Das Hadoop- Ökosystem",
+      "quelle_json": "data\\processed\\pdf_slide_011.json",
+      "abschnitte": [
+        "Das Hadoop- Ökosystem\nDas Hadoop- Ökosystem\nHadoop war eine der ersten Plattformen zur verteilten Verarbeitung großer\nDatenmengen. Es besteht aus mehreren Komponenten, die Speicherung,\nVerarbeitung und Ressourcenverwaltung ermöglichen.\n• Hadoop Distributed File System speichert Daten verteilt über viele Knoten.\n• MapReduce verarbeitet Daten parallel in Teilaufgaben.\n• Yet Another Resource Negotiator verwaltet Ressourcen innerhalb des\nClusters.\n• Hadoop bildet die Grundlage vieler moderner Big-Data-Architekturen."
+      ],
+      "saetze": [
+        "Das Hadoop- Ökosystem",
+        "Das Hadoop- Ökosystem",
+        "Hadoop war eine der ersten Plattformen zur verteilten Verarbeitung großer",
+        "Datenmengen.",
+        "Es besteht aus mehreren Komponenten, die Speicherung,",
+        "Verarbeitung und Ressourcenverwaltung ermöglichen.",
+        "Hadoop Distributed File System speichert Daten verteilt über viele Knoten.",
+        "MapReduce verarbeitet Daten parallel in Teilaufgaben.",
+        "Yet Another Resource Negotiator verwaltet Ressourcen innerhalb des",
+        "Clusters.",
+        "Hadoop bildet die Grundlage vieler moderner Big-Data-Architekturen."
+      ],
+      "counts": {
+        "abschnitte": 1,
+        "saetze": 11
+      }
+    },
+    "pdf_slide_012.json": {
+      "foliennummer": 12,
+      "ueberschrift": "Apache Spark – Analyse in Lichtgeschwindigkeit",
+      "quelle_json": "data\\processed\\pdf_slide_012.json",
+      "abschnitte": [
+        "Apache Spark – Analyse in Lichtgeschwindigkeit\nApache Spark – Analyse in Lichtgeschwindigkeit\nApache Spark erweitert Hadoop durch schnellere In-Memory-Verarbeitung. Dadurch lassen sich große\nDatensätze effizienter analysieren.\n• Spark speichert Daten im Arbeitsspeicher statt auf Festplatten.\n• Echtzeit-Streaming ermöglicht sofortige Analysen.\n• Bibliotheken unterstützen Machine Learning und Graph-Analysen.\n• Spark wird häufig für komplexe Datenpipelines eingesetzt."
+      ],
+      "saetze": [
+        "Apache Spark – Analyse in Lichtgeschwindigkeit",
+        "Apache Spark – Analyse in Lichtgeschwindigkeit",
+        "Apache Spark erweitert Hadoop durch schnellere In-Memory-Verarbeitung.",
+        "Dadurch lassen sich große",
+        "Datensätze effizienter analysieren.",
+        "Spark speichert Daten im Arbeitsspeicher statt auf Festplatten.",
+        "Echtzeit-Streaming ermöglicht sofortige Analysen.",
+        "Bibliotheken unterstützen Machine Learning und Graph-Analysen.",
+        "Spark wird häufig für komplexe Datenpipelines eingesetzt."
+      ],
+      "counts": {
+        "abschnitte": 1,
+        "saetze": 9
+      }
+    },
+    "pdf_slide_013.json": {
+      "foliennummer": 13,
+      "ueberschrift": "NoSQL-Datenbanken",
+      "quelle_json": "data\\processed\\pdf_slide_013.json",
+      "abschnitte": [
+        "NoSQL-Datenbanken\nNoSQL-Datenbanken\nNoSQL-Datenbanken entstanden, um die Vielfalt moderner Datenquellen zu bewältigen. Sie bieten flexible\nStrukturen jenseits relationaler Tabellenmodelle.\n• Dokumenten-Datenbanken speichern JSON-ähnliche Strukturen.\n• Key-Value-Systeme ermöglichen extrem schnelle Abfragen.\n• Graph-Datenbanken analysieren Beziehungen zwischen Entitäten.\n• NoSQL-Systeme sind hochskalierbar und flexibel anpassbar."
+      ],
+      "saetze": [
+        "NoSQL-Datenbanken",
+        "NoSQL-Datenbanken",
+        "NoSQL-Datenbanken entstanden, um die Vielfalt moderner Datenquellen zu bewältigen.",
+        "Sie bieten flexible",
+        "Strukturen jenseits relationaler Tabellenmodelle.",
+        "Dokumenten-Datenbanken speichern JSON-ähnliche Strukturen.",
+        "Key-Value-Systeme ermöglichen extrem schnelle Abfragen.",
+        "Graph-Datenbanken analysieren Beziehungen zwischen Entitäten.",
+        "NoSQL-Systeme sind hochskalierbar und flexibel anpassbar."
+      ],
+      "counts": {
+        "abschnitte": 1,
+        "saetze": 9
+      }
+    },
+    "pdf_slide_014.json": {
+      "foliennummer": 14,
+      "ueberschrift": "Messaging & Data Ingestion",
+      "quelle_json": "data\\processed\\pdf_slide_014.json",
+      "abschnitte": [
+        "Messaging & Data Ingestion\nMessaging & Data Ingestion\nDatenströme müssen effizient transportiert und verarbeitet werden,\nbevor sie analysiert werden können. Messaging-Systeme\nübernehmen diese Rolle in Echtzeit-Architekturen.\n• Apache Kafka verarbeitet kontinuierliche Datenströme\nzuverlässig.\n• Datenpipelines sichern Integrität und Reihenfolge der Events.\n• Streaming-Systeme ermöglichen nahezu sofortige Verarbeitung.\n• Ingestion bildet das Bindeglied zwischen Quelle und\nAnalyseplattform."
+      ],
+      "saetze": [
+        "Messaging & Data Ingestion",
+        "Messaging & Data Ingestion",
+        "Datenströme müssen effizient transportiert und verarbeitet werden,",
+        "bevor sie analysiert werden können.",
+        "Messaging-Systeme",
+        "übernehmen diese Rolle in Echtzeit-Architekturen.",
+        "Apache Kafka verarbeitet kontinuierliche Datenströme",
+        "zuverlässig.",
+        "Datenpipelines sichern Integrität und Reihenfolge der Events.",
+        "Streaming-Systeme ermöglichen nahezu sofortige Verarbeitung.",
+        "Ingestion bildet das Bindeglied zwischen Quelle und",
+        "Analyseplattform."
+      ],
+      "counts": {
+        "abschnitte": 1,
+        "saetze": 12
+      }
+    },
+    "pdf_slide_015.json": {
+      "foliennummer": 15,
+      "ueberschrift": "Speicherung und Datenmanagement",
+      "quelle_json": "data\\processed\\pdf_slide_015.json",
+      "abschnitte": [
+        "Speicherung und Datenmanagement\nSpeicherung und Datenmanagement\nEffiziente Speicherung ist eine zentrale Voraussetzung für Big-Data-Analysen. Neben der reinen Ablage großer\nDatenmengen spielen Datenqualität, Zugriffskontrolle und Governance eine entscheidende Rolle für\nnachhaltigen Mehrwert.\n• Verteilte Datenbanken ermöglichen horizontale Skalierung über viele Server hinweg.\n• Cloud-basierte Speicherlösungen bieten flexible Kapazitäten bei schwankender Last.\n• Datenintegrität wird durch Validierung, Versionierung und Zugriffskontrollen sichergestellt.\n• Effektives Datenmanagement verbessert Analysequalität und reduziert operative Risiken."
+      ],
+      "saetze": [
+        "Speicherung und Datenmanagement",
+        "Speicherung und Datenmanagement",
+        "Effiziente Speicherung ist eine zentrale Voraussetzung für Big-Data-Analysen.",
+        "Neben der reinen Ablage großer",
+        "Datenmengen spielen Datenqualität, Zugriffskontrolle und Governance eine entscheidende Rolle für",
+        "nachhaltigen Mehrwert.",
+        "Verteilte Datenbanken ermöglichen horizontale Skalierung über viele Server hinweg.",
+        "Cloud-basierte Speicherlösungen bieten flexible Kapazitäten bei schwankender Last.",
+        "Datenintegrität wird durch Validierung, Versionierung und Zugriffskontrollen sichergestellt.",
+        "Effektives Datenmanagement verbessert Analysequalität und reduziert operative Risiken."
+      ],
+      "counts": {
+        "abschnitte": 1,
+        "saetze": 10
+      }
+    },
+    "pdf_slide_016.json": {
+      "foliennummer": 16,
+      "ueberschrift": "Analyse- und Verarbeitungstechnologien",
+      "quelle_json": "data\\processed\\pdf_slide_016.json",
+      "abschnitte": [
+        "Analyse- und Verarbeitungstechnologien\nAnalyse- und Verarbeitungstechnologien\nBig Data entfaltet seinen Nutzen erst durch leistungsfähige Analysewerkzeuge. Moderne Frameworks\nkombinieren verteilte Verarbeitung mit Machine Learning und Echtzeit-Algorithmen.\n• Hadoop und Spark ermöglichen parallele Verarbeitung großer Datenmengen.\n• Machine Learning Algorithmen identifizieren Muster und Prognosen.\n• Echtzeit-Analysen liefern sofortige Entscheidungsgrundlagen.\n• Die Integration mehrerer Technologien schafft eine skalierbare Analyseinfrastruktur."
+      ],
+      "saetze": [
+        "Analyse- und Verarbeitungstechnologien",
+        "Analyse- und Verarbeitungstechnologien",
+        "Big Data entfaltet seinen Nutzen erst durch leistungsfähige Analysewerkzeuge.",
+        "Moderne Frameworks",
+        "kombinieren verteilte Verarbeitung mit Machine Learning und Echtzeit-Algorithmen.",
+        "Hadoop und Spark ermöglichen parallele Verarbeitung großer Datenmengen.",
+        "Machine Learning Algorithmen identifizieren Muster und Prognosen.",
+        "Echtzeit-Analysen liefern sofortige Entscheidungsgrundlagen.",
+        "Die Integration mehrerer Technologien schafft eine skalierbare Analyseinfrastruktur."
+      ],
+      "counts": {
+        "abschnitte": 1,
+        "saetze": 9
+      }
+    },
+    "pdf_slide_017.json": {
+      "foliennummer": 17,
+      "ueberschrift": "03 Anwendungs-",
+      "quelle_json": "data\\processed\\pdf_slide_017.json",
+      "abschnitte": [
+        "03 Anwendungs-\n03 Anwendungs-\nbereiche von Big Data"
+      ],
+      "saetze": [
+        "03 Anwendungs-",
+        "03 Anwendungs-",
+        "bereiche von Big Data"
+      ],
+      "counts": {
+        "abschnitte": 1,
+        "saetze": 3
+      }
+    },
+    "pdf_slide_018.json": {
+      "foliennummer": 18,
+      "ueberschrift": "Einsatz in Unternehmen und Industrie",
+      "quelle_json": "data\\processed\\pdf_slide_018.json",
+      "abschnitte": [
+        "Einsatz in Unternehmen und Industrie\nEinsatz in Unternehmen und Industrie\nUnternehmen nutzen Big Data, um Prozesse effizienter zu\ngestalten und Innovation zu fördern. Besonders in Industrie 4.0\nentstehen datengetriebene Optimierungsmöglichkeiten.\n• Produktionsmaschinen liefern Sensordaten für präventive\nWartung.\n• Datenanalysen verbessern Lieferketten und Ressourcenplanung.\n• Produktentwicklung wird durch Kundenfeedback datenbasiert\noptimiert.\n• Wettbewerbsvorteile entstehen durch schnellere und fundiertere\nEntscheidungen."
+      ],
+      "saetze": [
+        "Einsatz in Unternehmen und Industrie",
+        "Einsatz in Unternehmen und Industrie",
+        "Unternehmen nutzen Big Data, um Prozesse effizienter zu",
+        "gestalten und Innovation zu fördern.",
+        "Besonders in Industrie 4.0",
+        "entstehen datengetriebene Optimierungsmöglichkeiten.",
+        "Produktionsmaschinen liefern Sensordaten für präventive",
+        "Wartung.",
+        "Datenanalysen verbessern Lieferketten und Ressourcenplanung.",
+        "Produktentwicklung wird durch Kundenfeedback datenbasiert",
+        "optimiert.",
+        "Wettbewerbsvorteile entstehen durch schnellere und fundiertere",
+        "Entscheidungen."
+      ],
+      "counts": {
+        "abschnitte": 1,
+        "saetze": 13
+      }
+    },
+    "pdf_slide_019.json": {
+      "foliennummer": 19,
+      "ueberschrift": "Anwendungen im Gesundheitswesen",
+      "quelle_json": "data\\processed\\pdf_slide_019.json",
+      "abschnitte": [
+        "Anwendungen im Gesundheitswesen\nAnwendungen im Gesundheitswesen\nIm Gesundheitswesen ermöglicht Big Data eine präzisere Diagnose\nund individuellere Behandlungen. Große Patientendatensätze liefern\nneue Erkenntnisse für Forschung und Prävention.\n• Analyse medizinischer Daten unterstützt personalisierte Therapien.\n• Früherkennungssysteme identifizieren Krankheitsrisiken.\n• Klinische Abläufe werden durch datenbasierte Optimierung\neffizienter.\n• Forschung profitiert von der Auswertung großer\npopulationsbasierter Datensätze."
+      ],
+      "saetze": [
+        "Anwendungen im Gesundheitswesen",
+        "Anwendungen im Gesundheitswesen",
+        "Im Gesundheitswesen ermöglicht Big Data eine präzisere Diagnose",
+        "und individuellere Behandlungen.",
+        "Große Patientendatensätze liefern",
+        "neue Erkenntnisse für Forschung und Prävention.",
+        "Analyse medizinischer Daten unterstützt personalisierte Therapien.",
+        "Früherkennungssysteme identifizieren Krankheitsrisiken.",
+        "Klinische Abläufe werden durch datenbasierte Optimierung",
+        "effizienter.",
+        "Forschung profitiert von der Auswertung großer",
+        "populationsbasierter Datensätze."
+      ],
+      "counts": {
+        "abschnitte": 1,
+        "saetze": 12
+      }
+    },
+    "pdf_slide_020.json": {
+      "foliennummer": 20,
+      "ueberschrift": "Anwendungen im Gesundheitswesen",
+      "quelle_json": "data\\processed\\pdf_slide_020.json",
+      "abschnitte": [
+        "Anwendungen im Gesundheitswesen\nAnwendungen im Gesundheitswesen\n30%\n25%\n20%\n35%\nPersonalisierte Medizin\nFernüberwachung\nKrankenhausmanagement\nArzneimittelforschung"
+      ],
+      "saetze": [
+        "Anwendungen im Gesundheitswesen",
+        "Anwendungen im Gesundheitswesen",
+        "30%",
+        "25%",
+        "20%",
+        "35%",
+        "Personalisierte Medizin",
+        "Fernüberwachung",
+        "Krankenhausmanagement",
+        "Arzneimittelforschung"
+      ],
+      "counts": {
+        "abschnitte": 1,
+        "saetze": 10
+      }
+    },
+    "pdf_slide_021.json": {
+      "foliennummer": 21,
+      "ueberschrift": "Finanzwesen & Betrugserkennung",
+      "quelle_json": "data\\processed\\pdf_slide_021.json",
+      "abschnitte": [
+        "Finanzwesen & Betrugserkennung\nFinanzwesen & Betrugserkennung\nIm Finanzsektor wird Big Data eingesetzt, um Risiken zu minimieren und Betrug frühzeitig zu erkennen. Echtzeit-\nAnalysen sind hier besonders entscheidend.\n• Transaktionen werden kontinuierlich auf Anomalien überprüft.\n• Kreditrisikobewertungen integrieren vielfältige Datenquellen.\n• Hochfrequenzhandel basiert auf algorithmischer Marktanalyse.\n• Betrugsprävention erhöht Sicherheit und Vertrauen im Finanzsystem."
+      ],
+      "saetze": [
+        "Finanzwesen & Betrugserkennung",
+        "Finanzwesen & Betrugserkennung",
+        "Im Finanzsektor wird Big Data eingesetzt, um Risiken zu minimieren und Betrug frühzeitig zu erkennen.",
+        "Echtzeit-",
+        "Analysen sind hier besonders entscheidend.",
+        "Transaktionen werden kontinuierlich auf Anomalien überprüft.",
+        "Kreditrisikobewertungen integrieren vielfältige Datenquellen.",
+        "Hochfrequenzhandel basiert auf algorithmischer Marktanalyse.",
+        "Betrugsprävention erhöht Sicherheit und Vertrauen im Finanzsystem."
+      ],
+      "counts": {
+        "abschnitte": 1,
+        "saetze": 9
+      }
+    },
+    "pdf_slide_022.json": {
+      "foliennummer": 22,
+      "ueberschrift": "Finanzwesen & Betrugserkennung",
+      "quelle_json": "data\\processed\\pdf_slide_022.json",
+      "abschnitte": [
+        "Finanzwesen & Betrugserkennung\nFinanzwesen & Betrugserkennung\n35%\n25%\n20%\n20%\nBetrugserkennung\nRisikomanagement\nKundensegmentierung & Marketing\nAlgorithmischer Handel"
+      ],
+      "saetze": [
+        "Finanzwesen & Betrugserkennung",
+        "Finanzwesen & Betrugserkennung",
+        "35%",
+        "25%",
+        "20%",
+        "20%",
+        "Betrugserkennung",
+        "Risikomanagement",
+        "Kundensegmentierung & Marketing",
+        "Algorithmischer Handel"
+      ],
+      "counts": {
+        "abschnitte": 1,
+        "saetze": 10
+      }
+    },
+    "pdf_slide_023.json": {
+      "foliennummer": 23,
+      "ueberschrift": "Smart City Konzepte",
+      "quelle_json": "data\\processed\\pdf_slide_023.json",
+      "abschnitte": [
+        "Smart City Konzepte\nSmart City Konzepte\nStädte nutzen Big Data zur Optimierung von Infrastruktur und\nöffentlichem Service. Datengetriebene Entscheidungen verbessern\nLebensqualität und Nachhaltigkeit.\n• Verkehrsflüsse werden durch Analyse von Mobilitätsdaten\ngesteuert.\n• Energiemanagementsysteme optimieren Stromverbrauch.\n• Sensoren unterstützen intelligente Abfall- und Wassersysteme.\n• Sicherheitsanalysen verbessern Reaktionszeiten bei Notfällen."
+      ],
+      "saetze": [
+        "Smart City Konzepte",
+        "Smart City Konzepte",
+        "Städte nutzen Big Data zur Optimierung von Infrastruktur und",
+        "öffentlichem Service.",
+        "Datengetriebene Entscheidungen verbessern",
+        "Lebensqualität und Nachhaltigkeit.",
+        "Verkehrsflüsse werden durch Analyse von Mobilitätsdaten",
+        "gesteuert.",
+        "Energiemanagementsysteme optimieren Stromverbrauch.",
+        "Sensoren unterstützen intelligente Abfall- und Wassersysteme.",
+        "Sicherheitsanalysen verbessern Reaktionszeiten bei Notfällen."
+      ],
+      "counts": {
+        "abschnitte": 1,
+        "saetze": 11
+      }
+    },
+    "pdf_slide_024.json": {
+      "foliennummer": 24,
+      "ueberschrift": "E-Commerce & Retail",
+      "quelle_json": "data\\processed\\pdf_slide_024.json",
+      "abschnitte": [
+        "E-Commerce & Retail\nE-Commerce & Retail\nIm Handel steigert Big Data Kundenzufriedenheit und Effizienz. Personalisierte Angebote und Prognosen\nverbessern Wettbewerbsfähigkeit.\n• Recommendation Engines erhöhen Kaufwahrscheinlichkeit, indem sie Produkte auf Basis von\nNutzerverhalten und bisherigen Käufen vorschlagen.\n• Dynamic Pricing reagiert auf Marktveränderungen und passt Preise automatisch an Nachfrage, Wettbewerb\nund Verfügbarkeit an.\n• Nachfrageprognosen optimieren Lagerbestände und helfe, Lieferengpässe oder Überstände zu vermeiden.\n• Kundensegmentierung verbessert gezielte Marketingmaßnahmen und ermöglicht eine genauere Ansprache\nverschiedener Zielgruppen."
+      ],
+      "saetze": [
+        "E-Commerce & Retail",
+        "E-Commerce & Retail",
+        "Im Handel steigert Big Data Kundenzufriedenheit und Effizienz.",
+        "Personalisierte Angebote und Prognosen",
+        "verbessern Wettbewerbsfähigkeit.",
+        "Recommendation Engines erhöhen Kaufwahrscheinlichkeit, indem sie Produkte auf Basis von",
+        "Nutzerverhalten und bisherigen Käufen vorschlagen.",
+        "Dynamic Pricing reagiert auf Marktveränderungen und passt Preise automatisch an Nachfrage, Wettbewerb",
+        "und Verfügbarkeit an.",
+        "Nachfrageprognosen optimieren Lagerbestände und helfe, Lieferengpässe oder Überstände zu vermeiden.",
+        "Kundensegmentierung verbessert gezielte Marketingmaßnahmen und ermöglicht eine genauere Ansprache",
+        "verschiedener Zielgruppen."
+      ],
+      "counts": {
+        "abschnitte": 1,
+        "saetze": 12
+      }
+    },
+    "pdf_slide_025.json": {
+      "foliennummer": 25,
+      "ueberschrift": "Marketing & Kundenmanagement",
+      "quelle_json": "data\\processed\\pdf_slide_025.json",
+      "abschnitte": [
+        "Marketing & Kundenmanagement\nMarketing & Kundenmanagement\nMarketingstrategien werden durch datenbasierte Analysen\npräziser und effektiver. Unternehmen verstehen\nKundenverhalten besser und können Trends frühzeitig\nerkennen.\n• Kundensegmentierung ermöglicht personalisierte\nKampagnen.\n• Echtzeit-Analysen identifizieren aktuelle Markttrends.\n• Predictive Analytics prognostiziert zukünftiges\nKaufverhalten.\n• Datengetriebene Strategien stärken langfristige\nKundenbindung."
+      ],
+      "saetze": [
+        "Marketing & Kundenmanagement",
+        "Marketing & Kundenmanagement",
+        "Marketingstrategien werden durch datenbasierte Analysen",
+        "präziser und effektiver.",
+        "Unternehmen verstehen",
+        "Kundenverhalten besser und können Trends frühzeitig",
+        "erkennen.",
+        "Kundensegmentierung ermöglicht personalisierte",
+        "Kampagnen.",
+        "Echtzeit-Analysen identifizieren aktuelle Markttrends.",
+        "Predictive Analytics prognostiziert zukünftiges",
+        "Kaufverhalten.",
+        "Datengetriebene Strategien stärken langfristige",
+        "Kundenbindung."
+      ],
+      "counts": {
+        "abschnitte": 1,
+        "saetze": 14
+      }
+    },
+    "pdf_slide_026.json": {
+      "foliennummer": 26,
+      "ueberschrift": "kein Titel gefunden",
+      "quelle_json": "data\\processed\\pdf_slide_026.json",
+      "abschnitte": [
+        "kein Titel gefunden\n04 Herausforderungen\n&\nZukunftsperspektiven"
+      ],
+      "saetze": [
+        "kein Titel gefunden",
+        "04 Herausforderungen",
+        "&",
+        "Zukunftsperspektiven"
+      ],
+      "counts": {
+        "abschnitte": 1,
+        "saetze": 4
+      }
+    },
+    "pdf_slide_027.json": {
+      "foliennummer": 27,
+      "ueberschrift": "Datenschutz und ethische Aspekte",
+      "quelle_json": "data\\processed\\pdf_slide_027.json",
+      "abschnitte": [
+        "Datenschutz und ethische Aspekte\nDatenschutz und ethische Aspekte\nDer verantwortungsvolle Umgang mit Daten ist essenziell für nachhaltigen Erfolg. Rechtliche und ethische\nRahmenbedingungen bestimmen die Nutzung sensibler Informationen.\n• DSGVO fordert transparente Datenverarbeitung.\n• Unternehmen müssen Einwilligungen korrekt dokumentieren.\n• Fairness und Transparenz sind zentrale ethische Prinzipien.\n• Ein konsequenter Datenschutz stärkt langfristig das Vertrauen von Kunden, Partnern und der Öffentlichkeit in\ndigitale Dienstleistungen und datengetriebene Geschäftsmodelle."
+      ],
+      "saetze": [
+        "Datenschutz und ethische Aspekte",
+        "Datenschutz und ethische Aspekte",
+        "Der verantwortungsvolle Umgang mit Daten ist essenziell für nachhaltigen Erfolg.",
+        "Rechtliche und ethische",
+        "Rahmenbedingungen bestimmen die Nutzung sensibler Informationen.",
+        "DSGVO fordert transparente Datenverarbeitung.",
+        "Unternehmen müssen Einwilligungen korrekt dokumentieren.",
+        "Fairness und Transparenz sind zentrale ethische Prinzipien.",
+        "Ein konsequenter Datenschutz stärkt langfristig das Vertrauen von Kunden, Partnern und der Öffentlichkeit in",
+        "digitale Dienstleistungen und datengetriebene Geschäftsmodelle."
+      ],
+      "counts": {
+        "abschnitte": 1,
+        "saetze": 10
+      }
+    },
+    "pdf_slide_028.json": {
+      "foliennummer": 28,
+      "ueberschrift": "Quantum Computing",
+      "quelle_json": "data\\processed\\pdf_slide_028.json",
+      "abschnitte": [
+        "Quantum Computing\nQuantum Computing\nQuantum Computing besitzt das Potenzial, bisher unlösbare\nRechenprobleme zu bewältigen. In Kombination mit Big\nData könnten völlig neue Analyseformen entstehen.\n• Quantenalgorithmen lösen komplexe\nOptimierungsprobleme.\n• Kryptographie könnte grundlegend verändert werden.\n• Materialforschung profitiert von Simulation komplexer\nSysteme.\n• Synergien mit Big Data eröffnen neue Innovationsfelder,\nda große Datenmengen mit leistungsfähigen\nquantenbasierten Analyseverfahren kombiniert werden\nkönnen."
+      ],
+      "saetze": [
+        "Quantum Computing",
+        "Quantum Computing",
+        "Quantum Computing besitzt das Potenzial, bisher unlösbare",
+        "Rechenprobleme zu bewältigen.",
+        "In Kombination mit Big",
+        "Data könnten völlig neue Analyseformen entstehen.",
+        "Quantenalgorithmen lösen komplexe",
+        "Optimierungsprobleme.",
+        "Kryptographie könnte grundlegend verändert werden.",
+        "Materialforschung profitiert von Simulation komplexer",
+        "Systeme.",
+        "Synergien mit Big Data eröffnen neue Innovationsfelder,",
+        "da große Datenmengen mit leistungsfähigen",
+        "quantenbasierten Analyseverfahren kombiniert werden",
+        "können."
+      ],
+      "counts": {
+        "abschnitte": 1,
+        "saetze": 15
+      }
+    },
+    "pdf_slide_029.json": {
+      "foliennummer": 29,
+      "ueberschrift": "Edge Computing",
+      "quelle_json": "data\\processed\\pdf_slide_029.json",
+      "abschnitte": [
+        "Edge Computing\nEdge Computing\nEdge Computing verarbeitet Daten direkt an der Quelle, statt sie ausschließlich in zentrale Clouds zu senden.\nDadurch werden Latenzzeiten reduziert und Systeme effizienter.\n• Sensoren analysieren Daten lokal in Echtzeit.\n• Cloud-Systeme werden entlastet, da nur relevante oder bereits vorverarbeitete Daten übertragen werden\nmüssen.\n• Ideal für Robotik und autonome Systeme.\n• Eine erhöhte Verarbeitungsgeschwindigkeit verbessert die Entscheidungsqualität und ermöglicht präzisere\nsowie schnellere automatisierte Prozesse."
+      ],
+      "saetze": [
+        "Edge Computing",
+        "Edge Computing",
+        "Edge Computing verarbeitet Daten direkt an der Quelle, statt sie ausschließlich in zentrale Clouds zu senden.",
+        "Dadurch werden Latenzzeiten reduziert und Systeme effizienter.",
+        "Sensoren analysieren Daten lokal in Echtzeit.",
+        "Cloud-Systeme werden entlastet, da nur relevante oder bereits vorverarbeitete Daten übertragen werden",
+        "müssen.",
+        "Ideal für Robotik und autonome Systeme.",
+        "Eine erhöhte Verarbeitungsgeschwindigkeit verbessert die Entscheidungsqualität und ermöglicht präzisere",
+        "sowie schnellere automatisierte Prozesse."
+      ],
+      "counts": {
+        "abschnitte": 1,
+        "saetze": 10
+      }
+    },
+    "pdf_slide_030.json": {
+      "foliennummer": 30,
+      "ueberschrift": "Technische & organisatorische",
+      "quelle_json": "data\\processed\\pdf_slide_030.json",
+      "abschnitte": [
+        "Technische & organisatorische\nTechnische & organisatorische\nHerausforderungen\nBig Data erfordert leistungsfähige Infrastruktur und qualifiziertes\nPersonal. Ohne klare Organisation können Projekte scheitern.\n• Hohe Anforderungen an Skalierbarkeit und Performance.\n• Datenintegration aus heterogenen Quellen ist komplex.\n• Fachkräfte wie Data Engineers sind stark gefragt.\n• Agile Organisationsstrukturen verbessern Projektumsetzung."
+      ],
+      "saetze": [
+        "Technische & organisatorische",
+        "Technische & organisatorische",
+        "Herausforderungen",
+        "Big Data erfordert leistungsfähige Infrastruktur und qualifiziertes",
+        "Personal.",
+        "Ohne klare Organisation können Projekte scheitern.",
+        "Hohe Anforderungen an Skalierbarkeit und Performance.",
+        "Datenintegration aus heterogenen Quellen ist komplex.",
+        "Fachkräfte wie Data Engineers sind stark gefragt.",
+        "Agile Organisationsstrukturen verbessern Projektumsetzung."
+      ],
+      "counts": {
+        "abschnitte": 1,
+        "saetze": 10
+      }
+    },
+    "pdf_slide_031.json": {
+      "foliennummer": 31,
+      "ueberschrift": "Strategische Roadmap",
+      "quelle_json": "data\\processed\\pdf_slide_031.json",
+      "abschnitte": [
+        "Strategische Roadmap\nStrategische Roadmap\n• Entwicklung einer klaren Datenstrategie als Erfolgsfaktor für datengetriebene Unternehmen.\n• Eine strukturierte Planung hilft, Ziele zu definieren und Daten systematisch zu nutzen\n• Application Programming Interfaces (APIs) für nahtlose Integration verschiedener Systeme und\nAnwendungen sowie den effizienten Austausch von Daten zwischen Plattformen.\n• Flexibilität durch Cloud-Lösungen und agile Strukturen unterstützt Unternehmen dabei, Daten schnell zu\nverarbeiten, neue Technologien zu integrieren und auf Marktveränderungen dynamisch zu reagieren."
+      ],
+      "saetze": [
+        "Strategische Roadmap",
+        "Strategische Roadmap",
+        "Entwicklung einer klaren Datenstrategie als Erfolgsfaktor für datengetriebene Unternehmen.",
+        "Eine strukturierte Planung hilft, Ziele zu definieren und Daten systematisch zu nutzen",
+        "Application Programming Interfaces (APIs) für nahtlose Integration verschiedener Systeme und",
+        "Anwendungen sowie den effizienten Austausch von Daten zwischen Plattformen.",
+        "Flexibilität durch Cloud-Lösungen und agile Strukturen unterstützt Unternehmen dabei, Daten schnell zu",
+        "verarbeiten, neue Technologien zu integrieren und auf Marktveränderungen dynamisch zu reagieren."
+      ],
+      "counts": {
+        "abschnitte": 1,
+        "saetze": 8
+      }
+    },
+    "pdf_slide_032.json": {
+      "foliennummer": 32,
+      "ueberschrift": "Trends und Innovationen im Bereich Big Data",
+      "quelle_json": "data\\processed\\pdf_slide_032.json",
+      "abschnitte": [
+        "Trends und Innovationen im Bereich Big Data\nTrends und Innovationen im Bereich Big Data\nTechnologische Fortschritte erweitern kontinuierlich die Möglichkeiten datengetriebener Analysen. Innovation\nentsteht durch Kombination neuer Technologien.\n• Künstliche Intelligenz (KI) verbessert Mustererkennung.\n• Automatisierung reduziert manuelle Analyseprozesse.\n• Edge Computing ergänzt zentrale Cloud-Systeme.\n• Neue Geschäftsmodelle entstehen durch datenbasierte Services."
+      ],
+      "saetze": [
+        "Trends und Innovationen im Bereich Big Data",
+        "Trends und Innovationen im Bereich Big Data",
+        "Technologische Fortschritte erweitern kontinuierlich die Möglichkeiten datengetriebener Analysen.",
+        "Innovation",
+        "entsteht durch Kombination neuer Technologien.",
+        "Künstliche Intelligenz (KI) verbessert Mustererkennung.",
+        "Automatisierung reduziert manuelle Analyseprozesse.",
+        "Edge Computing ergänzt zentrale Cloud-Systeme.",
+        "Neue Geschäftsmodelle entstehen durch datenbasierte Services."
+      ],
+      "counts": {
+        "abschnitte": 1,
+        "saetze": 9
+      }
+    },
+    "pdf_slide_033.json": {
+      "foliennummer": 33,
+      "ueberschrift": "Zukunftsausblick",
+      "quelle_json": "data\\processed\\pdf_slide_033.json",
+      "abschnitte": [
+        "Zukunftsausblick\nZukunftsausblick\nBig Data wird weiterhin zentrale Rolle in Wirtschaft und Gesellschaft spielen. Fortschritte in KI und Infrastruktur\nverstärken den Einfluss datenbasierter Entscheidungen.\n• Unternehmen müssen Infrastrukturen kontinuierlich anpassen.\n• Datenschutz bleibt entscheidender Erfolgsfaktor.\n• Automatisierte Analyseverfahren erhöhen Effizienz.\n• Nachhaltiger Umgang mit Daten sichert langfristigen Nutzen."
+      ],
+      "saetze": [
+        "Zukunftsausblick",
+        "Zukunftsausblick",
+        "Big Data wird weiterhin zentrale Rolle in Wirtschaft und Gesellschaft spielen.",
+        "Fortschritte in KI und Infrastruktur",
+        "verstärken den Einfluss datenbasierter Entscheidungen.",
+        "Unternehmen müssen Infrastrukturen kontinuierlich anpassen.",
+        "Datenschutz bleibt entscheidender Erfolgsfaktor.",
+        "Automatisierte Analyseverfahren erhöhen Effizienz.",
+        "Nachhaltiger Umgang mit Daten sichert langfristigen Nutzen."
+      ],
+      "counts": {
+        "abschnitte": 1,
+        "saetze": 9
+      }
+    },
+    "pdf_slide_034.json": {
+      "foliennummer": 34,
+      "ueberschrift": "Erfolgsfaktoren",
+      "quelle_json": "data\\processed\\pdf_slide_034.json",
+      "abschnitte": [
+        "Erfolgsfaktoren\nErfolgsfaktoren\nDer Erfolg hängt von Strategie, Kompetenzen und Unternehmenskultur ab. Ohne klare Zielsetzung bleibt Big\nData oft wirkungslos.\n• Klare Vision und messbare Ziele definieren Mehrwert.\n• Qualifizierte Fachkräfte sind essenziell.\n• Eine datengetriebene Unternehmenskultur fördert Innovation und unterstützt Entscheidungen auf Basis\nfundierter Analysen statt reiner Intuition.\n• Kontinuierliche Weiterbildung stellt sicher, dass Mitarbeitende neue Technologien verstehen und Unternehmen\nlangfristig wettbewerbsfähig bleiben."
+      ],
+      "saetze": [
+        "Erfolgsfaktoren",
+        "Erfolgsfaktoren",
+        "Der Erfolg hängt von Strategie, Kompetenzen und Unternehmenskultur ab.",
+        "Ohne klare Zielsetzung bleibt Big",
+        "Data oft wirkungslos.",
+        "Klare Vision und messbare Ziele definieren Mehrwert.",
+        "Qualifizierte Fachkräfte sind essenziell.",
+        "Eine datengetriebene Unternehmenskultur fördert Innovation und unterstützt Entscheidungen auf Basis",
+        "fundierter Analysen statt reiner Intuition.",
+        "Kontinuierliche Weiterbildung stellt sicher, dass Mitarbeitende neue Technologien verstehen und Unternehmen",
+        "langfristig wettbewerbsfähig bleiben."
+      ],
+      "counts": {
+        "abschnitte": 1,
+        "saetze": 11
+      }
+    },
+    "pdf_slide_035.json": {
+      "foliennummer": 35,
+      "ueberschrift": "Strategische Empfehlungen",
+      "quelle_json": "data\\processed\\pdf_slide_035.json",
+      "abschnitte": [
+        "Strategische Empfehlungen\nStrategische Empfehlungen\nUm Big Data effektiv zu nutzen, müssen Unternehmen langfristig planen und investieren. Technologie allein\nreicht nicht aus.\n• Entwicklung einer ganzheitlichen Datenstrategie, die Datenquellen, Analyseprozesse und konkrete\nUnternehmensziele miteinander verbindet.\n• Investitionen in moderne Analyseplattformen ermöglichen eine schnelle Verarbeitung großer Datenmengen und\nunterstützen fundierte Entscheidungen.\n• Aufbau einer starken Datenschutzkultur stellt sicher, dass Daten verantwortungsvoll und im Einklang mit\ngesetzlichen Vorgaben genutzt werden.\n• Förderung von Innovation und Flexibilität hilft Unternehmen, neue datengetriebene Geschäftsmodelle zu\nentwickeln und Wettbewerbsvorteile zu sichern."
+      ],
+      "saetze": [
+        "Strategische Empfehlungen",
+        "Strategische Empfehlungen",
+        "Um Big Data effektiv zu nutzen, müssen Unternehmen langfristig planen und investieren.",
+        "Technologie allein",
+        "reicht nicht aus.",
+        "Entwicklung einer ganzheitlichen Datenstrategie, die Datenquellen, Analyseprozesse und konkrete",
+        "Unternehmensziele miteinander verbindet.",
+        "Investitionen in moderne Analyseplattformen ermöglichen eine schnelle Verarbeitung großer Datenmengen und",
+        "unterstützen fundierte Entscheidungen.",
+        "Aufbau einer starken Datenschutzkultur stellt sicher, dass Daten verantwortungsvoll und im Einklang mit",
+        "gesetzlichen Vorgaben genutzt werden.",
+        "Förderung von Innovation und Flexibilität hilft Unternehmen, neue datengetriebene Geschäftsmodelle zu",
+        "entwickeln und Wettbewerbsvorteile zu sichern."
+      ],
+      "counts": {
+        "abschnitte": 1,
+        "saetze": 13
+      }
+    },
+    "pdf_slide_036.json": {
+      "foliennummer": 36,
+      "ueberschrift": "Implementierungsstrategie",
+      "quelle_json": "data\\processed\\pdf_slide_036.json",
+      "abschnitte": [
+        "Implementierungsstrategie\nImplementierungsstrategie\nDie erfolgreiche Einführung von Big Data erfordert strukturierte Planung und agile Umsetzung. Technologische\nIntegration muss mit Geschäftsprozessen harmonieren.\n• Klare Zieldefinition vor Projektstart hilft Unternehmen dabei, den Nutzen von Datenprojekten messbar zu\nmachen und Prioritäten festzulegen.\n• Auswahl geeigneter Technologien und Partner ist entscheidend, um leistungsfähige Analyseplattformen und\neine stabile Dateninfrastruktur aufzubauen.\n• Nutzung agiler Projektmanagementmethoden ermöglicht eine flexible Entwicklung und schnelle Anpassung an\nneue Anforderungen oder Erkenntnisse.\n• Kontinuierliche Optimierung der Prozesse stellt sicher, dass Datenanalyse langfristig effizient bleibt und sich an\nveränderte Geschäftsbedingungen anpassen kann."
+      ],
+      "saetze": [
+        "Implementierungsstrategie",
+        "Implementierungsstrategie",
+        "Die erfolgreiche Einführung von Big Data erfordert strukturierte Planung und agile Umsetzung.",
+        "Technologische",
+        "Integration muss mit Geschäftsprozessen harmonieren.",
+        "Klare Zieldefinition vor Projektstart hilft Unternehmen dabei, den Nutzen von Datenprojekten messbar zu",
+        "machen und Prioritäten festzulegen.",
+        "Auswahl geeigneter Technologien und Partner ist entscheidend, um leistungsfähige Analyseplattformen und",
+        "eine stabile Dateninfrastruktur aufzubauen.",
+        "Nutzung agiler Projektmanagementmethoden ermöglicht eine flexible Entwicklung und schnelle Anpassung an",
+        "neue Anforderungen oder Erkenntnisse.",
+        "Kontinuierliche Optimierung der Prozesse stellt sicher, dass Datenanalyse langfristig effizient bleibt und sich an",
+        "veränderte Geschäftsbedingungen anpassen kann."
+      ],
+      "counts": {
+        "abschnitte": 1,
+        "saetze": 13
+      }
+    },
+    "pdf_slide_037.json": {
+      "foliennummer": 37,
+      "ueberschrift": "Integrationstechniken",
+      "quelle_json": "data\\processed\\pdf_slide_037.json",
+      "abschnitte": [
+        "Integrationstechniken\nIntegrationstechniken\nBig Data muss nahtlos in bestehende IT-Systeme eingebunden werden. Moderne Schnittstellen ermöglichen\nInteroperabilität.\n• APIs verbinden neue Plattformen mit bestehenden Systemen und erleichtern den automatisierten Austausch von\nInformationen zwischen unterschiedlichen Softwarelösungen.\n• Cloud-Lösungen ermöglichen flexible Integration und bieten skalierbare Infrastruktur für die Verarbeitung\ngroßer Datenmengen.\n• Interoperable Architekturen reduzieren Komplexität und erleichtern die Zusammenarbeit verschiedener\nSysteme innerhalb der IT-Landschaft.\n• Effizienter Datenfluss verbessert Zusammenarbeit zwischen Abteilungen und unterstützt datenbasierte\nEntscheidungen im gesamten Unternehmen.."
+      ],
+      "saetze": [
+        "Integrationstechniken",
+        "Integrationstechniken",
+        "Big Data muss nahtlos in bestehende IT-Systeme eingebunden werden.",
+        "Moderne Schnittstellen ermöglichen",
+        "Interoperabilität.",
+        "APIs verbinden neue Plattformen mit bestehenden Systemen und erleichtern den automatisierten Austausch von",
+        "Informationen zwischen unterschiedlichen Softwarelösungen.",
+        "Cloud-Lösungen ermöglichen flexible Integration und bieten skalierbare Infrastruktur für die Verarbeitung",
+        "großer Datenmengen.",
+        "Interoperable Architekturen reduzieren Komplexität und erleichtern die Zusammenarbeit verschiedener",
+        "Systeme innerhalb der IT-Landschaft.",
+        "Effizienter Datenfluss verbessert Zusammenarbeit zwischen Abteilungen und unterstützt datenbasierte",
+        "Entscheidungen im gesamten Unternehmen.."
+      ],
+      "counts": {
+        "abschnitte": 1,
+        "saetze": 13
+      }
+    },
+    "pdf_slide_038.json": {
+      "foliennummer": 38,
+      "ueberschrift": "05 Data Science &",
+      "quelle_json": "data\\processed\\pdf_slide_038.json",
+      "abschnitte": [
+        "05 Data Science &\n05 Data Science &\nKI"
+      ],
+      "saetze": [
+        "05 Data Science &",
+        "05 Data Science &",
+        "KI"
+      ],
+      "counts": {
+        "abschnitte": 1,
+        "saetze": 3
+      }
+    },
+    "pdf_slide_039.json": {
+      "foliennummer": 39,
+      "ueberschrift": "Der Data Science Lifecycle",
+      "quelle_json": "data\\processed\\pdf_slide_039.json",
+      "abschnitte": [
+        "Der Data Science Lifecycle\nDer Data Science Lifecycle\nData Science folgt einem strukturierten Prozess von\nProblemdefinition bis Deployment. Jede Phase beeinflusst Qualität\nund Nutzen der Ergebnisse.\n• Definition klarer Geschäftsziele als Ausgangspunkt.\n• Datenaufbereitung nach dem Prinzip „Garbage in, Garbage\nout“.\n• Modelltraining und kontinuierliche Evaluation helfen dabei, die\nLeistungsfähigkeit der Modelle zu überprüfen und bei Bedarf\nanzupassen.\n• Deployment und Monitoring im produktiven Umfeld stellen\nsicher, dass Modelle langfristig zuverlässig funktionieren und\nkontinuierlich verbessert werden können."
+      ],
+      "saetze": [
+        "Der Data Science Lifecycle",
+        "Der Data Science Lifecycle",
+        "Data Science folgt einem strukturierten Prozess von",
+        "Problemdefinition bis Deployment.",
+        "Jede Phase beeinflusst Qualität",
+        "und Nutzen der Ergebnisse.",
+        "Definition klarer Geschäftsziele als Ausgangspunkt.",
+        "Datenaufbereitung nach dem Prinzip „Garbage in, Garbage",
+        "out“.",
+        "Modelltraining und kontinuierliche Evaluation helfen dabei, die",
+        "Leistungsfähigkeit der Modelle zu überprüfen und bei Bedarf",
+        "anzupassen.",
+        "Deployment und Monitoring im produktiven Umfeld stellen",
+        "sicher, dass Modelle langfristig zuverlässig funktionieren und",
+        "kontinuierlich verbessert werden können."
+      ],
+      "counts": {
+        "abschnitte": 1,
+        "saetze": 15
+      }
+    },
+    "pdf_slide_040.json": {
+      "foliennummer": 40,
+      "ueberschrift": "Machine Learning Grundlage",
+      "quelle_json": "data\\processed\\pdf_slide_040.json",
+      "abschnitte": [
+        "Machine Learning Grundlage\nMachine Learning Grundlage\nML ermöglicht automatisierte Mustererkennung in großen Datensätzen. Unterschiedliche Lernformen adressieren\nverschiedene Problemtypen.\n• Supervised Learning nutzt gelabelte Trainingsdaten.\n• Unsupervised Learning erkennt Muster ohne vorgegebene Labels.\n• Reinforcement Learning optimiert Entscheidungen durch Belohnungssysteme, bei den Modellen durch Feedback aus\nihrer Umgebung lernen..\n• Modelle verbessern sich kontinuierlich durch neue Daten und regelmäßiges Training, wodurch ihre Genauigkeit und\nLeistungsfähigkeit langfristig steigen."
+      ],
+      "saetze": [
+        "Machine Learning Grundlage",
+        "Machine Learning Grundlage",
+        "ML ermöglicht automatisierte Mustererkennung in großen Datensätzen.",
+        "Unterschiedliche Lernformen adressieren",
+        "verschiedene Problemtypen.",
+        "Supervised Learning nutzt gelabelte Trainingsdaten.",
+        "Unsupervised Learning erkennt Muster ohne vorgegebene Labels.",
+        "Reinforcement Learning optimiert Entscheidungen durch Belohnungssysteme, bei den Modellen durch Feedback aus",
+        "ihrer Umgebung lernen..",
+        "Modelle verbessern sich kontinuierlich durch neue Daten und regelmäßiges Training, wodurch ihre Genauigkeit und",
+        "Leistungsfähigkeit langfristig steigen."
+      ],
+      "counts": {
+        "abschnitte": 1,
+        "saetze": 11
+      }
+    },
+    "pdf_slide_041.json": {
+      "foliennummer": 41,
+      "ueberschrift": "Deep Learning & Neuronale",
+      "quelle_json": "data\\processed\\pdf_slide_041.json",
+      "abschnitte": [
+        "Deep Learning & Neuronale\nDeep Learning & Neuronale\nNetze\nDeep Learning verarbeitet hochkomplexe Daten wie Bilder oder\nSprache. Mehrschichtige neuronale Netze ermöglichen tiefe\nMustererkennung.\n• Einsatz in Bildanalyse und Sprachverarbeitung.\n• Grundlage vieler KI-Systeme im Alltag.\n• Hoher Rechenbedarf durch GPUs.\n• Automatisierung komplexer Entscheidungsprozesse."
+      ],
+      "saetze": [
+        "Deep Learning & Neuronale",
+        "Deep Learning & Neuronale",
+        "Netze",
+        "Deep Learning verarbeitet hochkomplexe Daten wie Bilder oder",
+        "Sprache.",
+        "Mehrschichtige neuronale Netze ermöglichen tiefe",
+        "Mustererkennung.",
+        "Einsatz in Bildanalyse und Sprachverarbeitung.",
+        "Grundlage vieler KI-Systeme im Alltag.",
+        "Hoher Rechenbedarf durch GPUs.",
+        "Automatisierung komplexer Entscheidungsprozesse."
+      ],
+      "counts": {
+        "abschnitte": 1,
+        "saetze": 11
+      }
+    },
+    "pdf_slide_042.json": {
+      "foliennummer": 42,
+      "ueberschrift": "Datenvisualisierung",
+      "quelle_json": "data\\processed\\pdf_slide_042.json",
+      "abschnitte": [
+        "Datenvisualisierung\nDatenvisualisierung\nVisualisierung macht komplexe Analysen verständlich. Sie unterstützt Entscheidungsträger bei strategischen\nMaßnahmen.\n• Dashboards präsentieren Kennzahlen übersichtlich.\n• Interaktive Diagramme erlauben eine tiefere Exploration der Daten, indem Nutzer verschiedene Perspektiven oder\nZeiträume analysieren können.\n• Storytelling mit Daten verbessert die Verständlichkeit von Analysen und hilft, Ergebnisse klar und überzeugend zu\nkommunizieren.\n• Echtzeit-Visualisierung unterstützt operative Entscheidungen, da aktuelle Daten sofort sichtbar werden und\nschnelle Reaktionen ermöglichen."
+      ],
+      "saetze": [
+        "Datenvisualisierung",
+        "Datenvisualisierung",
+        "Visualisierung macht komplexe Analysen verständlich.",
+        "Sie unterstützt Entscheidungsträger bei strategischen",
+        "Maßnahmen.",
+        "Dashboards präsentieren Kennzahlen übersichtlich.",
+        "Interaktive Diagramme erlauben eine tiefere Exploration der Daten, indem Nutzer verschiedene Perspektiven oder",
+        "Zeiträume analysieren können.",
+        "Storytelling mit Daten verbessert die Verständlichkeit von Analysen und hilft, Ergebnisse klar und überzeugend zu",
+        "kommunizieren.",
+        "Echtzeit-Visualisierung unterstützt operative Entscheidungen, da aktuelle Daten sofort sichtbar werden und",
+        "schnelle Reaktionen ermöglichen."
+      ],
+      "counts": {
+        "abschnitte": 1,
+        "saetze": 12
+      }
+    },
+    "pdf_slide_043.json": {
+      "foliennummer": 43,
+      "ueberschrift": "kein Titel gefunden",
+      "quelle_json": "data\\processed\\pdf_slide_043.json",
+      "abschnitte": [
+        "kein Titel gefunden\n06 Ethik, Recht & Organisation"
+      ],
+      "saetze": [
+        "kein Titel gefunden",
+        "06 Ethik, Recht & Organisation"
+      ],
+      "counts": {
+        "abschnitte": 1,
+        "saetze": 2
+      }
+    },
+    "pdf_slide_044.json": {
+      "foliennummer": 44,
+      "ueberschrift": "Datenschutz & DSGVO",
+      "quelle_json": "data\\processed\\pdf_slide_044.json",
+      "abschnitte": [
+        "Datenschutz & DSGVO\nDatenschutz & DSGVO\nDatenschutz ist zentrale Voraussetzung für nachhaltige Datenprojekte. Rechtliche Vorgaben schützen\nindividuelle Privatsphäre.\n• Transparente Datenverwendung ist gesetzlich vorgeschrieben.\n• Transparente Datenverwendung ist gesetzlich vorgeschrieben und verpflichtet Unternehmen dazu, offen\ndarzulegen, welche Daten erhoben und zu welchem Zweck sie genutzt werden.\n• Das Prinzip „Privacy by Design“ integriert Datenschutz bereits bei der Entwicklung von Systemen und\nAnwendungen.\n• Compliance stärkt Vertrauen und Rechtssicherheit."
+      ],
+      "saetze": [
+        "Datenschutz & DSGVO",
+        "Datenschutz & DSGVO",
+        "Datenschutz ist zentrale Voraussetzung für nachhaltige Datenprojekte.",
+        "Rechtliche Vorgaben schützen",
+        "individuelle Privatsphäre.",
+        "Transparente Datenverwendung ist gesetzlich vorgeschrieben.",
+        "Transparente Datenverwendung ist gesetzlich vorgeschrieben und verpflichtet Unternehmen dazu, offen",
+        "darzulegen, welche Daten erhoben und zu welchem Zweck sie genutzt werden.",
+        "Das Prinzip „Privacy by Design“ integriert Datenschutz bereits bei der Entwicklung von Systemen und",
+        "Anwendungen.",
+        "Compliance stärkt Vertrauen und Rechtssicherheit."
+      ],
+      "counts": {
+        "abschnitte": 1,
+        "saetze": 11
+      }
+    },
+    "pdf_slide_045.json": {
+      "foliennummer": 45,
+      "ueberschrift": "Ethische Verantwortung",
+      "quelle_json": "data\\processed\\pdf_slide_045.json",
+      "abschnitte": [
+        "Ethische Verantwortung\nEthische Verantwortung\nDatenanalysen müssen fair und nachvollziehbar sein. Diskriminierung durch Algorithmen stellt ein ernstes Risiko dar.\n• Explainable AI erhöht Transparenz von Entscheidungen.\n• Fairness in der Datenanalyse verhindert systematische Benachteiligungen bestimmter Gruppen und trägt zu\ngerechteren Ergebnissen bei.\n• Verantwortung für den ethischen Einsatz von Daten liegt sowohl bei Unternehmen als auch bei Entwicklern und\nDatenwissenschaftlern.\n• Ethikrichtlinien und klare Standards schaffen Orientierung für den verantwortungsvollen Umgang mit datenbasierten\nTechnologien."
+      ],
+      "saetze": [
+        "Ethische Verantwortung",
+        "Ethische Verantwortung",
+        "Datenanalysen müssen fair und nachvollziehbar sein.",
+        "Diskriminierung durch Algorithmen stellt ein ernstes Risiko dar.",
+        "Explainable AI erhöht Transparenz von Entscheidungen.",
+        "Fairness in der Datenanalyse verhindert systematische Benachteiligungen bestimmter Gruppen und trägt zu",
+        "gerechteren Ergebnissen bei.",
+        "Verantwortung für den ethischen Einsatz von Daten liegt sowohl bei Unternehmen als auch bei Entwicklern und",
+        "Datenwissenschaftlern.",
+        "Ethikrichtlinien und klare Standards schaffen Orientierung für den verantwortungsvollen Umgang mit datenbasierten",
+        "Technologien."
+      ],
+      "counts": {
+        "abschnitte": 1,
+        "saetze": 11
+      }
+    },
+    "pdf_slide_046.json": {
+      "foliennummer": 46,
+      "ueberschrift": "Data Governance Frameworks",
+      "quelle_json": "data\\processed\\pdf_slide_046.json",
+      "abschnitte": [
+        "Data Governance Frameworks\nData Governance Frameworks\nData Governance definiert Regeln, Rollen und Prozesse im\nUmgang mit Daten. Klare Strukturen verbessern Qualität und\nSicherheit.\n• Festlegung von Verantwortlichkeiten.\n• Sicherung der Datenintegrität über den Lebenszyklus.\n• Die Standardisierung von Qualitätskriterien ermöglicht eine\neinheitliche Bewertung und Nutzung von Daten in\nverschiedenen Unternehmensbereichen.\n• Der Aufbau einer datengetriebenen Unternehmenskultur\nunterstützt Mitarbeitende dabei, Daten systematisch in\nEntscheidungsprozesse einzubeziehen."
+      ],
+      "saetze": [
+        "Data Governance Frameworks",
+        "Data Governance Frameworks",
+        "Data Governance definiert Regeln, Rollen und Prozesse im",
+        "Umgang mit Daten.",
+        "Klare Strukturen verbessern Qualität und",
+        "Sicherheit.",
+        "Festlegung von Verantwortlichkeiten.",
+        "Sicherung der Datenintegrität über den Lebenszyklus.",
+        "Die Standardisierung von Qualitätskriterien ermöglicht eine",
+        "einheitliche Bewertung und Nutzung von Daten in",
+        "verschiedenen Unternehmensbereichen.",
+        "Der Aufbau einer datengetriebenen Unternehmenskultur",
+        "unterstützt Mitarbeitende dabei, Daten systematisch in",
+        "Entscheidungsprozesse einzubeziehen."
+      ],
+      "counts": {
+        "abschnitte": 1,
+        "saetze": 14
+      }
+    },
+    "pdf_slide_047.json": {
+      "foliennummer": 47,
+      "ueberschrift": "Fachkräftemangel & Kompetenzaufbau",
+      "quelle_json": "data\\processed\\pdf_slide_047.json",
+      "abschnitte": [
+        "Fachkräftemangel & Kompetenzaufbau\nFachkräftemangel & Kompetenzaufbau\nBig Data erfordert spezialisierte Kompetenzen. Der Mangel an Fachkräften ist eine zentrale Herausforderung.\n• Bedarf an Data Engineers und Data Scientists.\n• Kontinuierliche Weiterbildung ist notwendig, um mit der schnellen Entwicklung neuer Technologien und Methoden\nSchritt zu halten.\n• Interdisziplinäre Teams aus IT-Experten, Fachabteilungen und Analysten verbessern den Projekterfolg durch\nunterschiedliche Perspektiven.\n• Gezielte Talentförderung und Ausbildung sichern langfristig die Innovationsfähigkeit von Unternehmen im\ndatengetriebenen Wettbewerb."
+      ],
+      "saetze": [
+        "Fachkräftemangel & Kompetenzaufbau",
+        "Fachkräftemangel & Kompetenzaufbau",
+        "Big Data erfordert spezialisierte Kompetenzen.",
+        "Der Mangel an Fachkräften ist eine zentrale Herausforderung.",
+        "Bedarf an Data Engineers und Data Scientists.",
+        "Kontinuierliche Weiterbildung ist notwendig, um mit der schnellen Entwicklung neuer Technologien und Methoden",
+        "Schritt zu halten.",
+        "Interdisziplinäre Teams aus IT-Experten, Fachabteilungen und Analysten verbessern den Projekterfolg durch",
+        "unterschiedliche Perspektiven.",
+        "Gezielte Talentförderung und Ausbildung sichern langfristig die Innovationsfähigkeit von Unternehmen im",
+        "datengetriebenen Wettbewerb."
+      ],
+      "counts": {
+        "abschnitte": 1,
+        "saetze": 11
+      }
+    },
+    "pdf_slide_048.json": {
+      "foliennummer": 48,
+      "ueberschrift": "Kosten-Nutzen-Analyse",
+      "quelle_json": "data\\processed\\pdf_slide_048.json",
+      "abschnitte": [
+        "Kosten-Nutzen-Analyse\nKosten-Nutzen-Analyse\nBig Data müssen auch aus wirtschaftlicher Perspektive bewertet werden. Investitionen in Infrastruktur,\nTechnologien und Fachpersonal stehen dabei langfristigen Vorteilen wie Effizienzsteigerung und besseren\nEntscheidungsgrundlagen gegenüber.\n• Hohe Anfangsinvestitionen in Technologie und Personal.\n• Die Messung des wirtschaftlichen Nutzens ist entscheidend, um den Erfolg von Datenprojekten anhand klarer\nKennzahlen und Geschäftsergebnisse zu bewerten.\n• Skalierbarkeit reduziert langfristige Kosten.\n• Innovation schafft nachhaltige Wettbewerbsvorteile."
+      ],
+      "saetze": [
+        "Kosten-Nutzen-Analyse",
+        "Kosten-Nutzen-Analyse",
+        "Big Data müssen auch aus wirtschaftlicher Perspektive bewertet werden.",
+        "Investitionen in Infrastruktur,",
+        "Technologien und Fachpersonal stehen dabei langfristigen Vorteilen wie Effizienzsteigerung und besseren",
+        "Entscheidungsgrundlagen gegenüber.",
+        "Hohe Anfangsinvestitionen in Technologie und Personal.",
+        "Die Messung des wirtschaftlichen Nutzens ist entscheidend, um den Erfolg von Datenprojekten anhand klarer",
+        "Kennzahlen und Geschäftsergebnisse zu bewerten.",
+        "Skalierbarkeit reduziert langfristige Kosten.",
+        "Innovation schafft nachhaltige Wettbewerbsvorteile."
+      ],
+      "counts": {
+        "abschnitte": 1,
+        "saetze": 11
+      }
+    },
+    "pdf_slide_049.json": {
+      "foliennummer": 49,
+      "ueberschrift": "Fazit",
+      "quelle_json": "data\\processed\\pdf_slide_049.json",
+      "abschnitte": [
+        "Fazit\nFazit\nBig Data bietet enorme Chancen für Unternehmen durch verbesserte\nErkenntnisse und Innovation. Gleichzeitig sind Datenschutz und\ntechnische Herausforderungen zu meistern. Die kontinuierliche\nWeiterentwicklung von Technologien und ethische Verantwortung\nsind entscheidend für nachhaltigen Erfolg im Big Data Umfeld."
+      ],
+      "saetze": [
+        "Fazit",
+        "Fazit",
+        "Big Data bietet enorme Chancen für Unternehmen durch verbesserte",
+        "Erkenntnisse und Innovation.",
+        "Gleichzeitig sind Datenschutz und",
+        "technische Herausforderungen zu meistern.",
+        "Die kontinuierliche",
+        "Weiterentwicklung von Technologien und ethische Verantwortung",
+        "sind entscheidend für nachhaltigen Erfolg im Big Data Umfeld."
+      ],
+      "counts": {
+        "abschnitte": 1,
+        "saetze": 9
+      }
+    },
+    "pdf_slide_050.json": {
+      "foliennummer": 50,
+      "ueberschrift": "kein Titel gefunden",
+      "quelle_json": "data\\processed\\pdf_slide_050.json",
+      "abschnitte": [
+        "kein Titel gefunden\nThanks! ☺"
+      ],
+      "saetze": [
+        "kein Titel gefunden",
+        "Thanks!",
+        "☺"
+      ],
+      "counts": {
+        "abschnitte": 1,
+        "saetze": 3
+      }
+    },
+    "pptx_slide_001.json": {
+      "foliennummer": 1,
+      "ueberschrift": "KI-Avatare",
+      "quelle_json": "data\\processed\\pptx_slide_001.json",
+      "abschnitte": [
+        "KI-Avatare\nKI-Avatare\nKI- Avatare im Marketing verstehen"
+      ],
+      "saetze": [
+        "KI-Avatare",
+        "KI-Avatare",
+        "KI- Avatare im Marketing verstehen"
+      ],
+      "counts": {
+        "abschnitte": 1,
+        "saetze": 3
+      }
+    },
+    "pptx_slide_002.json": {
+      "foliennummer": 2,
+      "ueberschrift": "Einführung",
+      "quelle_json": "data\\processed\\pptx_slide_002.json",
+      "abschnitte": [
+        "Einführung\nEinführung\nKernaussage: KI-Avatare verändern die Art, wie Marken kommunizieren, weil sie Inhalte personalisiert und skalierbar vermitteln können. Sie wirken wie digitale Markenbotschafter und werden in Videos, Support und Kampagnen eingesetzt.",
+        "KI-Avatare sind digitale, menschenähnliche Figuren, die Markenkommunikation übernehmen.\nSie ermöglichen eine personalisierte Ansprache in Echtzeit.\nUnternehmen nutzen sie zur effizienten Skalierung von Marketinginhalten.\nDie Technologie entwickelt sich dynamisch weiter und prägt neue Kommunikationsformen."
+      ],
+      "saetze": [
+        "Einführung",
+        "Einführung",
+        "Kernaussage:",
+        "KI-Avatare verändern die Art, wie Marken kommunizieren, weil sie Inhalte personalisiert und skalierbar vermitteln können.",
+        "Sie wirken wie digitale Markenbotschafter und werden in Videos, Support und Kampagnen eingesetzt.",
+        "KI-Avatare sind digitale, menschenähnliche Figuren, die Markenkommunikation übernehmen.",
+        "Sie ermöglichen eine personalisierte Ansprache in Echtzeit.",
+        "Unternehmen nutzen sie zur effizienten Skalierung von Marketinginhalten.",
+        "Die Technologie entwickelt sich dynamisch weiter und prägt neue Kommunikationsformen."
+      ],
+      "counts": {
+        "abschnitte": 2,
+        "saetze": 9
+      }
+    },
+    "pptx_slide_003.json": {
+      "foliennummer": 3,
+      "ueberschrift": "01 Entwicklung von KI-Avataren",
+      "quelle_json": "data\\processed\\pptx_slide_003.json",
+      "abschnitte": [
+        "01 Entwicklung von KI-Avataren\n01 Entwicklung von KI-Avataren"
+      ],
+      "saetze": [
+        "01 Entwicklung von KI-Avataren",
+        "01 Entwicklung von KI-Avataren"
+      ],
+      "counts": {
+        "abschnitte": 1,
+        "saetze": 2
+      }
+    },
+    "pptx_slide_004.json": {
+      "foliennummer": 4,
+      "ueberschrift": "Ursprung und Grundlagen der KI",
+      "quelle_json": "data\\processed\\pptx_slide_004.json",
+      "abschnitte": [
+        "Ursprung und Grundlagen der KI\nUrsprung und Grundlagen der KI\nKernaussage: Die heutigen KI-Avatare sind das Ergebnis einer langen Entwicklung künstlicher Intelligenz, die mit einfachen Regeln begann. Erst mit lernfähigen Verfahren wurden natürlichere Dialoge und echte Anpassung möglich.",
+        "KI-Avatare sind digitale, menschenähnliche Figuren, die Markenkommunikation übernehmen.\nSie ermöglichen eine personalisierte Ansprache in Echtzeit.\nUnternehmen nutzen sie zur effizienten Skalierung von Marketinginhalten.\nDie Technologie entwickelt sich dynamisch weiter und prägt neue Kommunikationsformen."
+      ],
+      "saetze": [
+        "Ursprung und Grundlagen der KI",
+        "Ursprung und Grundlagen der KI",
+        "Kernaussage:",
+        "Die heutigen KI-Avatare sind das Ergebnis einer langen Entwicklung künstlicher Intelligenz, die mit einfachen Regeln begann.",
+        "Erst mit lernfähigen Verfahren wurden natürlichere Dialoge und echte Anpassung möglich.",
+        "KI-Avatare sind digitale, menschenähnliche Figuren, die Markenkommunikation übernehmen.",
+        "Sie ermöglichen eine personalisierte Ansprache in Echtzeit.",
+        "Unternehmen nutzen sie zur effizienten Skalierung von Marketinginhalten.",
+        "Die Technologie entwickelt sich dynamisch weiter und prägt neue Kommunikationsformen."
+      ],
+      "counts": {
+        "abschnitte": 2,
+        "saetze": 9
+      }
+    },
+    "pptx_slide_005.json": {
+      "foliennummer": 5,
+      "ueberschrift": "Erste Anwendungen in digitalen Avatare",
+      "quelle_json": "data\\processed\\pptx_slide_005.json",
+      "abschnitte": [
+        "Erste Anwendungen in digitalen Avatare\nKernaussage: Bevor KI-Avatare im Marketing angekommen sind, wurden sie in digitalen Umgebungen getestet, in denen Interaktion wichtig ist. Besonders Spiele und einfache Support-Systeme waren frühe Einsatzfelder.",
+        "Frühe KI-Avatare erschienen in Computerspielen als interaktive Figuren.\nSie wurden im Kundenservice für einfache Support-Anfragen genutzt.\nMit Machine Learning verbesserten sich Reaktionsfähigkeit und Anpassung.\nDie Integration von Sprach- und Bilderkennung erhöhte den Realismus.\nErste Anwendungen in digitalen Avatare"
+      ],
+      "saetze": [
+        "Erste Anwendungen in digitalen Avatare",
+        "Kernaussage:",
+        "Bevor KI-Avatare im Marketing angekommen sind, wurden sie in digitalen Umgebungen getestet, in denen Interaktion wichtig ist.",
+        "Besonders Spiele und einfache Support-Systeme waren frühe Einsatzfelder.",
+        "Frühe KI-Avatare erschienen in Computerspielen als interaktive Figuren.",
+        "Sie wurden im Kundenservice für einfache Support-Anfragen genutzt.",
+        "Mit Machine Learning verbesserten sich Reaktionsfähigkeit und Anpassung.",
+        "Die Integration von Sprach- und Bilderkennung erhöhte den Realismus.",
+        "Erste Anwendungen in digitalen Avatare"
+      ],
+      "counts": {
+        "abschnitte": 2,
+        "saetze": 9
+      }
+    },
+    "pptx_slide_006.json": {
+      "foliennummer": 6,
+      "ueberschrift": "Technologische Fortschritte und Meilensteine",
+      "quelle_json": "data\\processed\\pptx_slide_006.json",
+      "abschnitte": [
+        "Technologische Fortschritte und Meilensteine\nKernaussage: Moderne KI-Avatare wirken überzeugend, weil mehrere Technologien zusammenarbeiten: Sprachmodelle, Sprachausgabe und Animation. Dadurch entsteht ein konsistentes Verhalten, das in Videos und Echtzeit-Anwendungen genutzt werden kann.",
+        "Large Language Models (LLMs) ermöglichen natürliche Textgenerierung.\nText-to-Speech-Systeme (TTS) erzeugen realistische synthetische Stimmen.\nAnimationssysteme synchronisieren Mimik und Lippenbewegungen.\nEmotionserkennung verbessert die Anpassungsfähigkeit der Interaktion.\nTechnologische Fortschritte und Meilensteine"
+      ],
+      "saetze": [
+        "Technologische Fortschritte und Meilensteine",
+        "Kernaussage:",
+        "Moderne KI-Avatare wirken überzeugend, weil mehrere Technologien zusammenarbeiten:",
+        "Sprachmodelle, Sprachausgabe und Animation.",
+        "Dadurch entsteht ein konsistentes Verhalten, das in Videos und Echtzeit-Anwendungen genutzt werden kann.",
+        "Large Language Models (LLMs) ermöglichen natürliche Textgenerierung.",
+        "Text-to-Speech-Systeme (TTS) erzeugen realistische synthetische Stimmen.",
+        "Animationssysteme synchronisieren Mimik und Lippenbewegungen.",
+        "Emotionserkennung verbessert die Anpassungsfähigkeit der Interaktion.",
+        "Technologische Fortschritte und Meilensteine"
+      ],
+      "counts": {
+        "abschnitte": 2,
+        "saetze": 10
+      }
+    },
+    "pptx_slide_007.json": {
+      "foliennummer": 7,
+      "ueberschrift": "Technologie dahinter –LLMs & Generative Visuals",
+      "quelle_json": "data\\processed\\pptx_slide_007.json",
+      "abschnitte": [
+        "Technologie dahinter –LLMs & Generative Visuals\nTechnologie dahinter –LLMs & Generative Visuals"
+      ],
+      "saetze": [
+        "Technologie dahinter –LLMs & Generative Visuals",
+        "Technologie dahinter –LLMs & Generative Visuals"
+      ],
+      "counts": {
+        "abschnitte": 1,
+        "saetze": 2
+      }
+    },
+    "pptx_slide_008.json": {
+      "foliennummer": 8,
+      "ueberschrift": "Technologie dahinter – TTS & “Animation”",
+      "quelle_json": "data\\processed\\pptx_slide_008.json",
+      "abschnitte": [
+        "Technologie dahinter – TTS & “Animation”\nTechnologie dahinter – TTS & “Animation”"
+      ],
+      "saetze": [
+        "Technologie dahinter – TTS & “Animation”",
+        "Technologie dahinter – TTS & “Animation”"
+      ],
+      "counts": {
+        "abschnitte": 1,
+        "saetze": 2
+      }
+    },
+    "pptx_slide_009.json": {
+      "foliennummer": 9,
+      "ueberschrift": "Barrierefreiheit und Inklusion",
+      "quelle_json": "data\\processed\\pptx_slide_009.json",
+      "abschnitte": [
+        "Barrierefreiheit und Inklusion\nKernaussage: KI-Avatare können Kommunikation zugänglicher machen, weil sie Inhalte automatisch an unterschiedliche Bedürfnisse anpassen. Dadurch entsteht nicht nur ein sozialer Nutzen, sondern auch ein strategischer Vorteil für Marken.",
+        "Echtzeit-Übersetzung kann Gebärdensprache unterstützen und so gehörlosen Menschen Informationen besser zugänglich machen.\nInhalte lassen sich automatisch in „Leichte Sprache“ übertragen, um kognitive Barrieren zu reduzieren.\nAvatare können vielfältige Hintergründe und körperliche Merkmale repräsentieren und dadurch Repräsentation verbessern.\nUnternehmen stärken dadurch ihre soziale Verantwortung und Reichweite.\nBarrierefreiheit und Inklusion"
+      ],
+      "saetze": [
+        "Barrierefreiheit und Inklusion",
+        "Kernaussage:",
+        "KI-Avatare können Kommunikation zugänglicher machen, weil sie Inhalte automatisch an unterschiedliche Bedürfnisse anpassen.",
+        "Dadurch entsteht nicht nur ein sozialer Nutzen, sondern auch ein strategischer Vorteil für Marken.",
+        "Echtzeit-Übersetzung kann Gebärdensprache unterstützen und so gehörlosen Menschen Informationen besser zugänglich machen.",
+        "Inhalte lassen sich automatisch in „Leichte Sprache“ übertragen, um kognitive Barrieren zu reduzieren.",
+        "Avatare können vielfältige Hintergründe und körperliche Merkmale repräsentieren und dadurch Repräsentation verbessern.",
+        "Unternehmen stärken dadurch ihre soziale Verantwortung und Reichweite.",
+        "Barrierefreiheit und Inklusion"
+      ],
+      "counts": {
+        "abschnitte": 2,
+        "saetze": 9
+      }
+    },
+    "pptx_slide_010.json": {
+      "foliennummer": 10,
+      "ueberschrift": "02 Einsatz von KI-Avataren im Marketing",
+      "quelle_json": "data\\processed\\pptx_slide_010.json",
+      "abschnitte": [
+        "02 Einsatz von KI-Avataren im Marketing\n02 Einsatz von KI-Avataren im Marketing"
+      ],
+      "saetze": [
+        "02 Einsatz von KI-Avataren im Marketing",
+        "02 Einsatz von KI-Avataren im Marketing"
+      ],
+      "counts": {
+        "abschnitte": 1,
+        "saetze": 2
+      }
+    },
+    "pptx_slide_011.json": {
+      "foliennummer": 11,
+      "ueberschrift": "Warum KI-Avatare im Marketing ?",
+      "quelle_json": "data\\processed\\pptx_slide_011.json",
+      "abschnitte": [
+        "Warum KI-Avatare im Marketing ?\nKernaussage: Der Einsatz von KI-Avataren ist eine Antwort auf digitale Kanäle, steigenden Content-Bedarf und Kostendruck. Marken benötigen schnelle Produktion, konsistente Botschaften und personalisierte Kommunikation in großem Maßstab.",
+        "Video-basierte Inhalte ersetzen zunehmend statische Werbung, wodurch Produktion und Aktualisierung häufiger nötig werden.\nKI-Avatare ermöglichen skalierbare Content-Produktion ohne teure Studios, Reisen oder wiederholte Drehs.\nPersonalisierte Botschaften können in Echtzeit ausgespielt werden, auch in vielen Sprachen und Regionen.\nMarkensicherheit steigt, weil Tonalität und Aussagen kontrollierbar sind und Prozesse automatisiert ablaufen.\nWarum KI-Avatare im Marketing ?"
+      ],
+      "saetze": [
+        "Warum KI-Avatare im Marketing ?",
+        "Kernaussage:",
+        "Der Einsatz von KI-Avataren ist eine Antwort auf digitale Kanäle, steigenden Content-Bedarf und Kostendruck.",
+        "Marken benötigen schnelle Produktion, konsistente Botschaften und personalisierte Kommunikation in großem Maßstab.",
+        "Video-basierte Inhalte ersetzen zunehmend statische Werbung, wodurch Produktion und Aktualisierung häufiger nötig werden.",
+        "KI-Avatare ermöglichen skalierbare Content-Produktion ohne teure Studios, Reisen oder wiederholte Drehs.",
+        "Personalisierte Botschaften können in Echtzeit ausgespielt werden, auch in vielen Sprachen und Regionen.",
+        "Markensicherheit steigt, weil Tonalität und Aussagen kontrollierbar sind und Prozesse automatisiert ablaufen.",
+        "Warum KI-Avatare im Marketing ?"
+      ],
+      "counts": {
+        "abschnitte": 2,
+        "saetze": 9
+      }
+    },
+    "pptx_slide_012.json": {
+      "foliennummer": 12,
+      "ueberschrift": "Was sind KI-generierte Werbe-Avatare ?",
+      "quelle_json": "data\\processed\\pptx_slide_012.json",
+      "abschnitte": [
+        "Was sind KI-generierte Werbe-Avatare ?\nKernaussage: KI-generierte Werbe-Avatare sind digitale Figuren, die in Videos oder Dialogsystemen als Markenrepräsentanten auftreten. Sie verbinden automatisierte Medienproduktion mit personalisierter Ansprache der Zielgruppe.",
+        "Sie erzeugen Sprache, Mimik und Gestik mithilfe künstlicher Intelligenz.\nDie Interaktion wirkt täuschend echt und personalisiert.\nUnternehmen nutzen sie für skalierbare Video-Marketingkampagnen.\nSie verbinden Automatisierung mit emotionaler Ansprache.\nWas sind KI-generierte Werbe-Avatare ?"
+      ],
+      "saetze": [
+        "Was sind KI-generierte Werbe-Avatare ?",
+        "Kernaussage:",
+        "KI-generierte Werbe-Avatare sind digitale Figuren, die in Videos oder Dialogsystemen als Markenrepräsentanten auftreten.",
+        "Sie verbinden automatisierte Medienproduktion mit personalisierter Ansprache der Zielgruppe.",
+        "Sie erzeugen Sprache, Mimik und Gestik mithilfe künstlicher Intelligenz.",
+        "Die Interaktion wirkt täuschend echt und personalisiert.",
+        "Unternehmen nutzen sie für skalierbare Video-Marketingkampagnen.",
+        "Sie verbinden Automatisierung mit emotionaler Ansprache.",
+        "Was sind KI-generierte Werbe-Avatare ?"
+      ],
+      "counts": {
+        "abschnitte": 2,
+        "saetze": 9
+      }
+    },
+    "pptx_slide_013.json": {
+      "foliennummer": 13,
+      "ueberschrift": "Führende Plattformen im Vergleich",
+      "quelle_json": "data\\processed\\pptx_slide_013.json",
+      "abschnitte": [
+        "Führende Plattformen im Vergleich\nKernaussage: Der Markt für KI-Avatar-Plattformen ist stark gewachsen und bietet spezialisierte Tools für Video, E-Learning und Kundenservice. Unternehmen wählen Plattformen je nach Ziel, Aufwand und gewünschter Realitätsnähe.",
+        "Synthesia und HeyGen ermöglichen professionelle Video-Präsentationen mit vorgefertigten Avataren.\nD-ID fokussiert auf animierte Standbilder und Agenten, die in Echtzeit reagieren können, etwa im Support.\nColossyan bietet Funktionen für Schulungen und E-Learning, wobei Skripte schnell in Lernvideos umgewandelt werden.\nRephrase.ai richtet sich auf personalisierte Videokampagnen, bei denen Inhalte automatisiert für Zielgruppen variiert werden.\nFührende Plattformen im Vergleich"
+      ],
+      "saetze": [
+        "Führende Plattformen im Vergleich",
+        "Kernaussage:",
+        "Der Markt für KI-Avatar-Plattformen ist stark gewachsen und bietet spezialisierte Tools für Video, E-Learning und Kundenservice.",
+        "Unternehmen wählen Plattformen je nach Ziel, Aufwand und gewünschter Realitätsnähe.",
+        "Synthesia und HeyGen ermöglichen professionelle Video-Präsentationen mit vorgefertigten Avataren.",
+        "D-ID fokussiert auf animierte Standbilder und Agenten, die in Echtzeit reagieren können, etwa im Support.",
+        "Colossyan bietet Funktionen für Schulungen und E-Learning, wobei Skripte schnell in Lernvideos umgewandelt werden.",
+        "Rephrase.ai richtet sich auf personalisierte Videokampagnen, bei denen Inhalte automatisiert für Zielgruppen variiert werden.",
+        "Führende Plattformen im Vergleich"
+      ],
+      "counts": {
+        "abschnitte": 2,
+        "saetze": 9
+      }
+    },
+    "pptx_slide_014.json": {
+      "foliennummer": 14,
+      "ueberschrift": "Personalisierung von Kundenerlebnissen",
+      "quelle_json": "data\\processed\\pptx_slide_014.json",
+      "abschnitte": [
+        "Personalisierung von Kundenerlebnissen\nPersonalisierung von Kundenerlebnissen\nKernaussage: KI-Avatare können Inhalte an individuelle Bedürfnisse anpassen und damit relevanter machen als klassische Massenkommunikation. Dadurch entsteht eine stärkere Bindung, weil Nutzer sich gezielt angesprochen fühlen.",
+        "Inhalte werden an Bedürfnisse und Präferenzen einzelner Kundinnen angepasst.\nPersonalisierte Kommunikation stärkt Vertrauen und Markenbindung.\nDie Interaktion wirkt authentischer als klassische Massenwerbung.\nDatenbasierte Anpassung verbessert die Relevanz von Botschaften."
+      ],
+      "saetze": [
+        "Personalisierung von Kundenerlebnissen",
+        "Personalisierung von Kundenerlebnissen",
+        "Kernaussage:",
+        "KI-Avatare können Inhalte an individuelle Bedürfnisse anpassen und damit relevanter machen als klassische Massenkommunikation.",
+        "Dadurch entsteht eine stärkere Bindung, weil Nutzer sich gezielt angesprochen fühlen.",
+        "Inhalte werden an Bedürfnisse und Präferenzen einzelner Kundinnen angepasst.",
+        "Personalisierte Kommunikation stärkt Vertrauen und Markenbindung.",
+        "Die Interaktion wirkt authentischer als klassische Massenwerbung.",
+        "Datenbasierte Anpassung verbessert die Relevanz von Botschaften."
+      ],
+      "counts": {
+        "abschnitte": 2,
+        "saetze": 9
+      }
+    },
+    "pptx_slide_015.json": {
+      "foliennummer": 15,
+      "ueberschrift": "Automatisierte Interaktion und Kundenservice",
+      "quelle_json": "data\\processed\\pptx_slide_015.json",
+      "abschnitte": [
+        "Automatisierte Interaktion und Kundenservice\nAutomatisierte Interaktion und Kundenservice\nKernaussage: Neben Marketingkampagnen werden KI-Avatare häufig für Support und Service eingesetzt, weil sie dauerhaft verfügbar sind. Das senkt Wartezeiten und entlastet Teams, ohne dass die Ansprache unpersönlich wirken muss.",
+        "Avatare sind rund um die Uhr einsatzbereit.\nSie beantworten Anfragen in Echtzeit ohne Wartezeiten.\nUnternehmen reduzieren Support-Kosten durch Automatisierung.\nGleichzeitig bleibt eine personalisierte Kommunikation erhalten."
+      ],
+      "saetze": [
+        "Automatisierte Interaktion und Kundenservice",
+        "Automatisierte Interaktion und Kundenservice",
+        "Kernaussage:",
+        "Neben Marketingkampagnen werden KI-Avatare häufig für Support und Service eingesetzt, weil sie dauerhaft verfügbar sind.",
+        "Das senkt Wartezeiten und entlastet Teams, ohne dass die Ansprache unpersönlich wirken muss.",
+        "Avatare sind rund um die Uhr einsatzbereit.",
+        "Sie beantworten Anfragen in Echtzeit ohne Wartezeiten.",
+        "Unternehmen reduzieren Support-Kosten durch Automatisierung.",
+        "Gleichzeitig bleibt eine personalisierte Kommunikation erhalten."
+      ],
+      "counts": {
+        "abschnitte": 2,
+        "saetze": 9
+      }
+    },
+    "pptx_slide_016.json": {
+      "foliennummer": 16,
+      "ueberschrift": "Markenbildung und Identitätsmanagement",
+      "quelle_json": "data\\processed\\pptx_slide_016.json",
+      "abschnitte": [
+        "Markenbildung und Identitätsmanagement\nKernaussage: KI-Avatare können als konstante Markenfigur auftreten und dadurch Identität und Vertrauen stärken. Damit das funktioniert, müssen Rolle, Tonalität und Grenzen des Avatars klar definiert werden.",
+        "Avatare fungieren als dauerhaftes digitales Gesicht einer Marke.\nSie transportieren Werte, Tonalität und visuelle Identität konsistent.\nWiedererkennbarkeit fördert emotionale Bindung zur Zielgruppe.\nEine klare Charakterdefinition verhindert inkonsistente Aussagen.\nMarkenbildung und Identitätsmanagement"
+      ],
+      "saetze": [
+        "Markenbildung und Identitätsmanagement",
+        "Kernaussage:",
+        "KI-Avatare können als konstante Markenfigur auftreten und dadurch Identität und Vertrauen stärken.",
+        "Damit das funktioniert, müssen Rolle, Tonalität und Grenzen des Avatars klar definiert werden.",
+        "Avatare fungieren als dauerhaftes digitales Gesicht einer Marke.",
+        "Sie transportieren Werte, Tonalität und visuelle Identität konsistent.",
+        "Wiedererkennbarkeit fördert emotionale Bindung zur Zielgruppe.",
+        "Eine klare Charakterdefinition verhindert inkonsistente Aussagen.",
+        "Markenbildung und Identitätsmanagement"
+      ],
+      "counts": {
+        "abschnitte": 2,
+        "saetze": 9
+      }
+    },
+    "pptx_slide_017.json": {
+      "foliennummer": 17,
+      "ueberschrift": "Personal Twin",
+      "quelle_json": "data\\processed\\pptx_slide_017.json",
+      "abschnitte": [
+        "Personal Twin\nDer Kunde als Avatar-Besitzer\nEntwicklung von persönlichen digitalen Zwillingen auf Konsumentenseite.\nEinsatz für virtuelle Anproben oder das Vorfiltern von Werbeangeboten.",
+        "Verschiebung der Kommunikationsstrategie\nBusiness-to-Avatar (B2A): Marken-KIs interagieren direkt mit Kunden-KIs.\nBotschaften müssen für die Algorithmen der persönlichen Assistenten optimiert werden.",
+        "Neue Nutzungsszenarien\nEffizienzsteigerung für den Kunden: Der „Personal Twin“ erledigt Termine oder erste Informationsabfragen.\nPersonal Twin"
+      ],
+      "saetze": [
+        "Personal Twin",
+        "Der Kunde als Avatar-Besitzer",
+        "Entwicklung von persönlichen digitalen Zwillingen auf Konsumentenseite.",
+        "Einsatz für virtuelle Anproben oder das Vorfiltern von Werbeangeboten.",
+        "Verschiebung der Kommunikationsstrategie",
+        "Business-to-Avatar (B2A):",
+        "Marken-KIs interagieren direkt mit Kunden-KIs.",
+        "Botschaften müssen für die Algorithmen der persönlichen Assistenten optimiert werden.",
+        "Neue Nutzungsszenarien",
+        "Effizienzsteigerung für den Kunden:",
+        "Der „Personal Twin“ erledigt Termine oder erste Informationsabfragen.",
+        "Personal Twin"
+      ],
+      "counts": {
+        "abschnitte": 3,
+        "saetze": 12
+      }
+    },
+    "pptx_slide_018.json": {
+      "foliennummer": 18,
+      "ueberschrift": "Die Top KI-Influencer Beispiele",
+      "quelle_json": "data\\processed\\pptx_slide_018.json",
+      "abschnitte": [
+        "Die Top KI-Influencer Beispiele\nDie Top KI-Influencer Beispiele"
+      ],
+      "saetze": [
+        "Die Top KI-Influencer Beispiele",
+        "Die Top KI-Influencer Beispiele"
+      ],
+      "counts": {
+        "abschnitte": 1,
+        "saetze": 2
+      }
+    },
+    "pptx_slide_019.json": {
+      "foliennummer": 19,
+      "ueberschrift": "Lil Miquela",
+      "quelle_json": "data\\processed\\pptx_slide_019.json",
+      "abschnitte": [
+        "Lil Miquela\n(@lilmiquela) – Die Lifestyle-Ikone",
+        "Herkunft: USA (erstellt von der Agentur Brud).\nFokus: High-Fashion, Musik und Aktivismus.\nErfolg: Hat mit Marken wie Prada, Calvin Klein und Samsung zusammengearbeitet. \nSie hat eine eigene Backstory als 19-jähriges Mädchen in L.A., veröffentlicht Pop-Songs und erzielt ein geschätztes Jahreseinkommen in Millionenhöhe.\nLil Miquela"
+      ],
+      "saetze": [
+        "Lil Miquela",
+        "(@lilmiquela) – Die Lifestyle-Ikone",
+        "Herkunft:",
+        "USA (erstellt von der Agentur Brud).",
+        "Fokus:",
+        "High-Fashion, Musik und Aktivismus.",
+        "Erfolg:",
+        "Hat mit Marken wie Prada, Calvin Klein und Samsung zusammengearbeitet.",
+        "Sie hat eine eigene Backstory als 19-jähriges Mädchen in L.A., veröffentlicht Pop-Songs und erzielt ein geschätztes Jahreseinkommen in Millionenhöhe.",
+        "Lil Miquela"
+      ],
+      "counts": {
+        "abschnitte": 2,
+        "saetze": 10
+      }
+    },
+    "pptx_slide_020.json": {
+      "foliennummer": 20,
+      "ueberschrift": "Noonoouri",
+      "quelle_json": "data\\processed\\pptx_slide_020.json",
+      "abschnitte": [
+        "Noonoouri\n(@noonoouri) – Das deutsche Digital-Model",
+        "Herkunft: Deutschland erstellt vom Münchner Designer Jörg Zuber\nStil: Ein bewusster \"Manga-Look\", nicht ganz fotorealistisch, um das Künstlerische zu betonen.\nMeilenstein: Sie ist die erste digitale Figur, die einen Plattenvertrag bei Warner Music unterschrieben hat. \nSie wirbt für High-End-Marken wie Dior, Versace und Lacoste.\nNoonoouri"
+      ],
+      "saetze": [
+        "Noonoouri",
+        "(@noonoouri) – Das deutsche Digital-Model",
+        "Herkunft:",
+        "Deutschland erstellt vom Münchner Designer Jörg Zuber",
+        "Stil:",
+        "Ein bewusster \"Manga-Look\", nicht ganz fotorealistisch, um das Künstlerische zu betonen.",
+        "Meilenstein:",
+        "Sie ist die erste digitale Figur, die einen Plattenvertrag bei Warner Music unterschrieben hat.",
+        "Sie wirbt für High-End-Marken wie Dior, Versace und Lacoste.",
+        "Noonoouri"
+      ],
+      "counts": {
+        "abschnitte": 2,
+        "saetze": 10
+      }
+    },
+    "pptx_slide_021.json": {
+      "foliennummer": 21,
+      "ueberschrift": "Aitana Lopez",
+      "quelle_json": "data\\processed\\pptx_slide_021.json",
+      "abschnitte": [
+        "Aitana Lopez\n(@fit_aitana) – Die KI-Revolution aus Spanien",
+        "Herkunft: Spanien (Agentur The Clueless).\nFokus: Fitness und Gaming.\nHintergrund: Sie wurde erschaffen, weil die Agentur keine Lust mehr auf die \"Ego-Probleme\" echter Models hatte. Sie wirkt so echt, dass sie regelmäßig Nachrichten von Prominenten erhält, die sie für real halten.\nAitana Lopez"
+      ],
+      "saetze": [
+        "Aitana Lopez",
+        "(@fit_aitana) – Die KI-Revolution aus Spanien",
+        "Herkunft:",
+        "Spanien (Agentur The Clueless).",
+        "Fokus:",
+        "Fitness und Gaming.",
+        "Hintergrund:",
+        "Sie wurde erschaffen, weil die Agentur keine Lust mehr auf die \"Ego-Probleme\" echter Models hatte.",
+        "Sie wirkt so echt, dass sie regelmäßig Nachrichten von Prominenten erhält, die sie für real halten.",
+        "Aitana Lopez"
+      ],
+      "counts": {
+        "abschnitte": 2,
+        "saetze": 10
+      }
+    },
+    "pptx_slide_022.json": {
+      "foliennummer": 22,
+      "ueberschrift": "03 Vorteile und Herausforderungen",
+      "quelle_json": "data\\processed\\pptx_slide_022.json",
+      "abschnitte": [
+        "03 Vorteile und Herausforderungen\n03 Vorteile und Herausforderungen"
+      ],
+      "saetze": [
+        "03 Vorteile und Herausforderungen",
+        "03 Vorteile und Herausforderungen"
+      ],
+      "counts": {
+        "abschnitte": 1,
+        "saetze": 2
+      }
+    },
+    "pptx_slide_023.json": {
+      "foliennummer": 23,
+      "ueberschrift": "Steigerung der Marketingeffizienz",
+      "quelle_json": "data\\processed\\pptx_slide_023.json",
+      "abschnitte": [
+        "Steigerung der Marketingeffizienz\nKernaussage: KI-Avatare automatisieren wiederkehrende Aufgaben und machen Content-Produktion schneller und günstiger. Gleichzeitig kann Personalisierung die Wirksamkeit steigern, weil Botschaften relevanter wirken.",
+        "Routineaufgaben werden automatisiert ausgeführt.\nMarketingteams gewinnen Zeit für strategische Arbeit.\nPersonalisierte Inhalte verbessern Conversion-Raten.\nKosten für Content-Produktion werden deutlich reduziert.\nSteigerung der Marketingeffizienz"
+      ],
+      "saetze": [
+        "Steigerung der Marketingeffizienz",
+        "Kernaussage:",
+        "KI-Avatare automatisieren wiederkehrende Aufgaben und machen Content-Produktion schneller und günstiger.",
+        "Gleichzeitig kann Personalisierung die Wirksamkeit steigern, weil Botschaften relevanter wirken.",
+        "Routineaufgaben werden automatisiert ausgeführt.",
+        "Marketingteams gewinnen Zeit für strategische Arbeit.",
+        "Personalisierte Inhalte verbessern Conversion-Raten.",
+        "Kosten für Content-Produktion werden deutlich reduziert.",
+        "Steigerung der Marketingeffizienz"
+      ],
+      "counts": {
+        "abschnitte": 2,
+        "saetze": 9
+      }
+    },
+    "pptx_slide_024.json": {
+      "foliennummer": 24,
+      "ueberschrift": "Datenschutz und ethische Aspekte",
+      "quelle_json": "data\\processed\\pptx_slide_024.json",
+      "abschnitte": [
+        "Datenschutz und ethische Aspekte\nDatenschutz und ethische Aspekte\nKernaussage: Der Einsatz von KI-Avataren ist nur dann nachhaltig, wenn Nutzer verstehen, was mit ihren Daten passiert. Transparenz und klare Regeln sind entscheidend, um Vertrauen zu schaffen und Manipulation zu vermeiden.",
+        "Unternehmen müssen offenlegen, wie Nutzerdaten verarbeitet werden.\nTransparente KI-Nutzung stärkt das Vertrauen der Zielgruppe.\nEthische Richtlinien verhindern Manipulation und Missbrauch.\nDatenschutzgesetze wie die DSGVO setzen klare Rahmenbedingungen."
+      ],
+      "saetze": [
+        "Datenschutz und ethische Aspekte",
+        "Datenschutz und ethische Aspekte",
+        "Kernaussage:",
+        "Der Einsatz von KI-Avataren ist nur dann nachhaltig, wenn Nutzer verstehen, was mit ihren Daten passiert.",
+        "Transparenz und klare Regeln sind entscheidend, um Vertrauen zu schaffen und Manipulation zu vermeiden.",
+        "Unternehmen müssen offenlegen, wie Nutzerdaten verarbeitet werden.",
+        "Transparente KI-Nutzung stärkt das Vertrauen der Zielgruppe.",
+        "Ethische Richtlinien verhindern Manipulation und Missbrauch.",
+        "Datenschutzgesetze wie die DSGVO setzen klare Rahmenbedingungen."
+      ],
+      "counts": {
+        "abschnitte": 2,
+        "saetze": 9
+      }
+    },
+    "pptx_slide_025.json": {
+      "foliennummer": 25,
+      "ueberschrift": "Cybersecurity – Schutz vor digitalem Identitätsdiebstahl",
+      "quelle_json": "data\\processed\\pptx_slide_025.json",
+      "abschnitte": [
+        "Cybersecurity – Schutz vor digitalem Identitätsdiebstahl\nCybersecurity – Schutz vor digitalem Identitätsdiebstahl\nVerantwortung für Marken-Integrität:\nSchutz des Avatars vor Hackerangriffen und unbefugter Übernahme.\nVermeidung von Reputationsschäden durch manipulierte Aussagen oder Deepfakes.\nSicherheitsmaßnahmen:\nEinsatz von Digital Watermarking zur Kennzeichnung von Original-Inhalten.\nBlockchain-basierte Identitätsnachweise zur Verifizierung der Quelle.\nVertrauensmanagement:\nSicherheit als integraler Bestandteil der Markenführung.\nPrävention von Phishing-Fallen, die den Avatar als Köder nutzen."
+      ],
+      "saetze": [
+        "Cybersecurity – Schutz vor digitalem Identitätsdiebstahl",
+        "Cybersecurity – Schutz vor digitalem Identitätsdiebstahl",
+        "Verantwortung für Marken-Integrität:",
+        "Schutz des Avatars vor Hackerangriffen und unbefugter Übernahme.",
+        "Vermeidung von Reputationsschäden durch manipulierte Aussagen oder Deepfakes.",
+        "Sicherheitsmaßnahmen:",
+        "Einsatz von Digital Watermarking zur Kennzeichnung von Original-Inhalten.",
+        "Blockchain-basierte Identitätsnachweise zur Verifizierung der Quelle.",
+        "Vertrauensmanagement:",
+        "Sicherheit als integraler Bestandteil der Markenführung.",
+        "Prävention von Phishing-Fallen, die den Avatar als Köder nutzen."
+      ],
+      "counts": {
+        "abschnitte": 1,
+        "saetze": 11
+      }
+    },
+    "pptx_slide_026.json": {
+      "foliennummer": 26,
+      "ueberschrift": "Herausforderungen bei der Implementierung",
+      "quelle_json": "data\\processed\\pptx_slide_026.json",
+      "abschnitte": [
+        "Herausforderungen bei der Implementierung\nKernaussage: Die Einführung von KI-Avataren ist mehr als ein Tool-Kauf, weil Prozesse, Systeme und Qualitätskontrollen angepasst werden müssen. Technische Integration und organisatorische Verantwortung sind zentrale Erfolgsfaktoren.",
+        "Systeme müssen in bestehende IT- und CRM-Strukturen integriert werden.\nEchtzeit-Rendering benötigt leistungsfähige Infrastruktur.\nQualitätssicherung verhindert diskriminierende oder falsche Inhalte.\nMonitoring und Qualitätssicherung sind wichtig, um Halluzinationen, Bias oder unpassende Antworten früh zu erkennen.\nHerausforderungen bei der Implementierung"
+      ],
+      "saetze": [
+        "Herausforderungen bei der Implementierung",
+        "Kernaussage:",
+        "Die Einführung von KI-Avataren ist mehr als ein Tool-Kauf, weil Prozesse, Systeme und Qualitätskontrollen angepasst werden müssen.",
+        "Technische Integration und organisatorische Verantwortung sind zentrale Erfolgsfaktoren.",
+        "Systeme müssen in bestehende IT- und CRM-Strukturen integriert werden.",
+        "Echtzeit-Rendering benötigt leistungsfähige Infrastruktur.",
+        "Qualitätssicherung verhindert diskriminierende oder falsche Inhalte.",
+        "Monitoring und Qualitätssicherung sind wichtig, um Halluzinationen, Bias oder unpassende Antworten früh zu erkennen.",
+        "Herausforderungen bei der Implementierung"
+      ],
+      "counts": {
+        "abschnitte": 2,
+        "saetze": 9
+      }
+    },
+    "pptx_slide_027.json": {
+      "foliennummer": 27,
+      "ueberschrift": "Technologie und kreative Grenzen",
+      "quelle_json": "data\\processed\\pptx_slide_027.json",
+      "abschnitte": [
+        "Technologie und kreative Grenzen\nKernaussage: Trotz großer Fortschritte wirken KI-Avatare nicht in jeder Situation natürlich, besonders bei spontanen, kreativen oder emotional komplexen Gesprächen. Deshalb bleiben menschliche Kontrolle und Designentscheidungen wichtig.",
+        "Natürliche Spontanität ist technisch schwer vollständig reproduzierbar.\nKreative Inhalte erfordern weiterhin menschliche Kontrolle.\nEntwickler und Kreative arbeiten zunehmend interdisziplinär.\nZiel ist die Reduktion der Distanz zwischen Mensch und Maschine.\nTechnologie und kreative Grenzen"
+      ],
+      "saetze": [
+        "Technologie und kreative Grenzen",
+        "Kernaussage:",
+        "Trotz großer Fortschritte wirken KI-Avatare nicht in jeder Situation natürlich, besonders bei spontanen, kreativen oder emotional komplexen Gesprächen.",
+        "Deshalb bleiben menschliche Kontrolle und Designentscheidungen wichtig.",
+        "Natürliche Spontanität ist technisch schwer vollständig reproduzierbar.",
+        "Kreative Inhalte erfordern weiterhin menschliche Kontrolle.",
+        "Entwickler und Kreative arbeiten zunehmend interdisziplinär.",
+        "Ziel ist die Reduktion der Distanz zwischen Mensch und Maschine.",
+        "Technologie und kreative Grenzen"
+      ],
+      "counts": {
+        "abschnitte": 2,
+        "saetze": 9
+      }
+    },
+    "pptx_slide_028.json": {
+      "foliennummer": 28,
+      "ueberschrift": "Strukturelle Wandel der Kreativberufe",
+      "quelle_json": "data\\processed\\pptx_slide_028.json",
+      "abschnitte": [
+        "Strukturelle Wandel der Kreativberufe\nKernaussage: KI-Avatare verändern Produktionsketten in Werbung und Medien, weil Routinearbeiten automatisiert werden. Gleichzeitig entstehen neue Rollen, in denen Menschen KI steuern, kontrollieren und kreativ einsetzen.",
+        "Standardisierte Produktionsaufgaben werden automatisiert.\nJunior-Positionen im Bereich Routine-Content sind besonders betroffen.\nDer Fokus verschiebt sich hin zu strategischem Prompting.\nNeue Berufsbilder wie „AI Director“ entstehen.\nStrukturelle Wandel der Kreativberufe"
+      ],
+      "saetze": [
+        "Strukturelle Wandel der Kreativberufe",
+        "Kernaussage:",
+        "KI-Avatare verändern Produktionsketten in Werbung und Medien, weil Routinearbeiten automatisiert werden.",
+        "Gleichzeitig entstehen neue Rollen, in denen Menschen KI steuern, kontrollieren und kreativ einsetzen.",
+        "Standardisierte Produktionsaufgaben werden automatisiert.",
+        "Junior-Positionen im Bereich Routine-Content sind besonders betroffen.",
+        "Der Fokus verschiebt sich hin zu strategischem Prompting.",
+        "Neue Berufsbilder wie „AI Director“ entstehen.",
+        "Strukturelle Wandel der Kreativberufe"
+      ],
+      "counts": {
+        "abschnitte": 2,
+        "saetze": 9
+      }
+    },
+    "pptx_slide_029.json": {
+      "foliennummer": 29,
+      "ueberschrift": "Ökonomische Verdrängung durch Kosteneffizienz",
+      "quelle_json": "data\\processed\\pptx_slide_029.json",
+      "abschnitte": [
+        "Ökonomische Verdrängung durch Kosteneffizienz\nKernaussage: Ein Haupttreiber für den Einsatz von KI-Avataren ist die massive Kostenersparnis gegenüber menschlichen Produktionen. Diese wirtschaftliche Logik führt dazu, dass klassische Strukturen im Markt unter Druck geraten..",
+        "KI-Avatare verursachen keine variablen Produktionskosten pro Einsatz.\nMenschliche Models erfordern Gagen, Reisen und organisatorischen Aufwand.\nHohe Skalierbarkeit verschafft Unternehmen Wettbewerbsvorteile.\nKosteneffizienz erhöht den Druck auf klassische Kreativberufe.\nÖkonomische Verdrängung durch Kosteneffizienz"
+      ],
+      "saetze": [
+        "Ökonomische Verdrängung durch Kosteneffizienz",
+        "Kernaussage:",
+        "Ein Haupttreiber für den Einsatz von KI-Avataren ist die massive Kostenersparnis gegenüber menschlichen Produktionen.",
+        "Diese wirtschaftliche Logik führt dazu, dass klassische Strukturen im Markt unter Druck geraten..",
+        "KI-Avatare verursachen keine variablen Produktionskosten pro Einsatz.",
+        "Menschliche Models erfordern Gagen, Reisen und organisatorischen Aufwand.",
+        "Hohe Skalierbarkeit verschafft Unternehmen Wettbewerbsvorteile.",
+        "Kosteneffizienz erhöht den Druck auf klassische Kreativberufe.",
+        "Ökonomische Verdrängung durch Kosteneffizienz"
+      ],
+      "counts": {
+        "abschnitte": 2,
+        "saetze": 9
+      }
+    },
+    "pptx_slide_030.json": {
+      "foliennummer": 30,
+      "ueberschrift": "Entwertung menschlicher Einzigartigkeit",
+      "quelle_json": "data\\processed\\pptx_slide_030.json",
+      "abschnitte": [
+        "Entwertung menschlicher Einzigartigkeit\nKernaussage: Ein kritischer Punkt ist, dass KI-Stimmen und KI-Gesichter oft auf Daten realer Menschen beruhen. Ohne klare Regeln kann dies zu unfairer Nutzung, fehlender Vergütung und rechtlichen Konflikten führen.",
+        "Synthetische Stimmen basieren häufig auf realen Vorbildern.\nDigitale Reproduktion kann menschliche Leistung entwerten.\nFehlende Vergütung führt zu rechtlichen Konflikten.\nKreative fordern Schutz ihrer digitalen Identität.\nEntwertung menschlicher Einzigartigkeit"
+      ],
+      "saetze": [
+        "Entwertung menschlicher Einzigartigkeit",
+        "Kernaussage:",
+        "Ein kritischer Punkt ist, dass KI-Stimmen und KI-Gesichter oft auf Daten realer Menschen beruhen.",
+        "Ohne klare Regeln kann dies zu unfairer Nutzung, fehlender Vergütung und rechtlichen Konflikten führen.",
+        "Synthetische Stimmen basieren häufig auf realen Vorbildern.",
+        "Digitale Reproduktion kann menschliche Leistung entwerten.",
+        "Fehlende Vergütung führt zu rechtlichen Konflikten.",
+        "Kreative fordern Schutz ihrer digitalen Identität.",
+        "Entwertung menschlicher Einzigartigkeit"
+      ],
+      "counts": {
+        "abschnitte": 2,
+        "saetze": 9
+      }
+    },
+    "pptx_slide_031.json": {
+      "foliennummer": 31,
+      "ueberschrift": "Fallbeispiel: SAG-AFTRA",
+      "quelle_json": "data\\processed\\pptx_slide_031.json",
+      "abschnitte": [
+        "Fallbeispiel: SAG-AFTRA\nKernaussage: Das Fallbeispiel zeigt, dass Kreative und Gewerkschaften aktiv gegen unkontrollierte digitale Duplizierung vorgehen. Ziel ist es, digitale Doubletten nur mit Zustimmung und fairer Vergütung einzusetzen.",
+        "Schauspieler fordern Zustimmung bei der Nutzung digitaler Doubletten.\nStudios dürfen digitale Zwillinge nicht unbegrenzt einsetzen.\nArbeitsrechtliche Fragen gewinnen an Bedeutung.\nDas Thema KI-Avatare erhält gesellschaftspolitische Relevanz.\nFallbeispiel: SAG-AFTRA"
+      ],
+      "saetze": [
+        "Fallbeispiel:",
+        "SAG-AFTRA",
+        "Kernaussage:",
+        "Das Fallbeispiel zeigt, dass Kreative und Gewerkschaften aktiv gegen unkontrollierte digitale Duplizierung vorgehen.",
+        "Ziel ist es, digitale Doubletten nur mit Zustimmung und fairer Vergütung einzusetzen.",
+        "Schauspieler fordern Zustimmung bei der Nutzung digitaler Doubletten.",
+        "Studios dürfen digitale Zwillinge nicht unbegrenzt einsetzen.",
+        "Arbeitsrechtliche Fragen gewinnen an Bedeutung.",
+        "Das Thema KI-Avatare erhält gesellschaftspolitische Relevanz.",
+        "Fallbeispiel:",
+        "SAG-AFTRA"
+      ],
+      "counts": {
+        "abschnitte": 2,
+        "saetze": 11
+      }
+    },
+    "pptx_slide_032.json": {
+      "foliennummer": 32,
+      "ueberschrift": "Koexistenz statt Ersetzung",
+      "quelle_json": "data\\processed\\pptx_slide_032.json",
+      "abschnitte": [
+        "Koexistenz statt Ersetzung\nKernaussage: Statt einer kompletten Ersetzung entsteht häufig ein hybrider Ansatz, bei dem KI skaliert und Menschen die kreative Kontrolle behalten. Dieser „Human-in-the-Loop“-Gedanke verbindet Effizienz mit Verantwortung.",
+        "Kreative arbeiten als „Human-in-the-Loop“ mit KI-Systemen.\nKI übernimmt Routinearbeit, Skalierung und Variantenproduktion für viele Kanäle und Sprachen.\nMenschen konzentrieren sich auf Storytelling und Strategie.\nHybride Kampagnen kombinieren menschliche Testimonials für Glaubwürdigkeit und KI-Avatare für schnellen Support.\nKoexistenz statt Ersetzung"
+      ],
+      "saetze": [
+        "Koexistenz statt Ersetzung",
+        "Kernaussage:",
+        "Statt einer kompletten Ersetzung entsteht häufig ein hybrider Ansatz, bei dem KI skaliert und Menschen die kreative Kontrolle behalten.",
+        "Dieser „Human-in-the-Loop“-Gedanke verbindet Effizienz mit Verantwortung.",
+        "Kreative arbeiten als „Human-in-the-Loop“ mit KI-Systemen.",
+        "KI übernimmt Routinearbeit, Skalierung und Variantenproduktion für viele Kanäle und Sprachen.",
+        "Menschen konzentrieren sich auf Storytelling und Strategie.",
+        "Hybride Kampagnen kombinieren menschliche Testimonials für Glaubwürdigkeit und KI-Avatare für schnellen Support.",
+        "Koexistenz statt Ersetzung"
+      ],
+      "counts": {
+        "abschnitte": 2,
+        "saetze": 9
+      }
+    },
+    "pptx_slide_033.json": {
+      "foliennummer": 33,
+      "ueberschrift": "04 Zukunftsperspektiven",
+      "quelle_json": "data\\processed\\pptx_slide_033.json",
+      "abschnitte": [
+        "04 Zukunftsperspektiven\n04 Zukunftsperspektiven"
+      ],
+      "saetze": [
+        "04 Zukunftsperspektiven",
+        "04 Zukunftsperspektiven"
+      ],
+      "counts": {
+        "abschnitte": 1,
+        "saetze": 2
+      }
+    },
+    "pptx_slide_034.json": {
+      "foliennummer": 34,
+      "ueberschrift": "Integration in Omnichannel-Strategien",
+      "quelle_json": "data\\processed\\pptx_slide_034.json",
+      "abschnitte": [
+        "Integration in Omnichannel-Strategien\nIntegration in Omnichannel-Strategien\nKernaussage: KI-Avatare werden zunehmend kanalübergreifend eingesetzt, damit Marken überall gleich wirken. So entsteht ein konsistentes Kundenerlebnis, egal ob online, in sozialen Medien oder im Laden.",
+        "Avatare verbinden Web, E-Commerce, Social Media und Point of Sale in einer durchgängigen Customer Journey.\nKonsistente Markenbotschaften stärken das Kundenerlebnis.\nAvatare können Kunden über den gesamten Kaufprozess begleiten, von Information bis Support nach dem Kauf.\nOmnichannel-Strategien erhöhen Kundenbindung und Conversion."
+      ],
+      "saetze": [
+        "Integration in Omnichannel-Strategien",
+        "Integration in Omnichannel-Strategien",
+        "Kernaussage:",
+        "KI-Avatare werden zunehmend kanalübergreifend eingesetzt, damit Marken überall gleich wirken.",
+        "So entsteht ein konsistentes Kundenerlebnis, egal ob online, in sozialen Medien oder im Laden.",
+        "Avatare verbinden Web, E-Commerce, Social Media und Point of Sale in einer durchgängigen Customer Journey.",
+        "Konsistente Markenbotschaften stärken das Kundenerlebnis.",
+        "Avatare können Kunden über den gesamten Kaufprozess begleiten, von Information bis Support nach dem Kauf.",
+        "Omnichannel-Strategien erhöhen Kundenbindung und Conversion."
+      ],
+      "counts": {
+        "abschnitte": 2,
+        "saetze": 9
+      }
+    },
+    "pptx_slide_035.json": {
+      "foliennummer": 35,
+      "ueberschrift": "Drei Säulen der Integration- Online & E-Commerce",
+      "quelle_json": "data\\processed\\pptx_slide_035.json",
+      "abschnitte": [
+        "Drei Säulen der Integration- Online & E-Commerce\nDrei Säulen der Integration- Online & E-Commerce\nKernaussage: Im E-Commerce ersetzen Avatare häufig statische FAQ-Seiten und bieten eine interaktive Beratung. Dadurch können Shops schneller reagieren und personalisierte Empfehlungen geben, ohne dass Personal verfügbar sein muss.",
+        "Avatare führen dialogbasierte Verkaufsgespräche und beantworten Fragen direkt im Online-Shop.\nEmpfehlungen basieren auf Kundenhistorie, Kontext und Präferenzen, wodurch Relevanz steigt.\nEchtzeit-Beratung kann die Conversion-Rate erhöhen, weil Unsicherheiten schneller geklärt werden.\nGleichzeitig werden Supportkosten reduziert, da Standardanfragen automatisiert gelöst werden."
+      ],
+      "saetze": [
+        "Drei Säulen der Integration- Online & E-Commerce",
+        "Drei Säulen der Integration- Online & E-Commerce",
+        "Kernaussage:",
+        "Im E-Commerce ersetzen Avatare häufig statische FAQ-Seiten und bieten eine interaktive Beratung.",
+        "Dadurch können Shops schneller reagieren und personalisierte Empfehlungen geben, ohne dass Personal verfügbar sein muss.",
+        "Avatare führen dialogbasierte Verkaufsgespräche und beantworten Fragen direkt im Online-Shop.",
+        "Empfehlungen basieren auf Kundenhistorie, Kontext und Präferenzen, wodurch Relevanz steigt.",
+        "Echtzeit-Beratung kann die Conversion-Rate erhöhen, weil Unsicherheiten schneller geklärt werden.",
+        "Gleichzeitig werden Supportkosten reduziert, da Standardanfragen automatisiert gelöst werden."
+      ],
+      "counts": {
+        "abschnitte": 2,
+        "saetze": 9
+      }
+    },
+    "pptx_slide_036.json": {
+      "foliennummer": 36,
+      "ueberschrift": "Drei Säulen der Integration- Social Media",
+      "quelle_json": "data\\processed\\pptx_slide_036.json",
+      "abschnitte": [
+        "Drei Säulen der Integration- Social Media\nDrei Säulen der Integration- Social Media\nKernaussage: Auf Social-Media-Plattformen werden Avatare als „Always-on“-Markenbotschafter genutzt, die schnell Content produzieren. Dadurch können Marken Trends zeitnah besetzen und für große Communities personalisierte Videobotschaften erstellen.",
+        "Avatare veröffentlichen kontinuierlich personalisierte Inhalte.\nTrends können innerhalb weniger Minuten aufgegriffen werden.\nVideobotschaften werden für tausende Follower individualisiert.\nDie Marke bleibt dauerhaft sichtbar und präsent."
+      ],
+      "saetze": [
+        "Drei Säulen der Integration- Social Media",
+        "Drei Säulen der Integration- Social Media",
+        "Kernaussage:",
+        "Auf Social-Media-Plattformen werden Avatare als „Always-on“-Markenbotschafter genutzt, die schnell Content produzieren.",
+        "Dadurch können Marken Trends zeitnah besetzen und für große Communities personalisierte Videobotschaften erstellen.",
+        "Avatare veröffentlichen kontinuierlich personalisierte Inhalte.",
+        "Trends können innerhalb weniger Minuten aufgegriffen werden.",
+        "Videobotschaften werden für tausende Follower individualisiert.",
+        "Die Marke bleibt dauerhaft sichtbar und präsent."
+      ],
+      "counts": {
+        "abschnitte": 2,
+        "saetze": 9
+      }
+    },
+    "pptx_slide_037.json": {
+      "foliennummer": 37,
+      "ueberschrift": "Drei Säulen der Integration- Point of Sale",
+      "quelle_json": "data\\processed\\pptx_slide_037.json",
+      "abschnitte": [
+        "Drei Säulen der Integration- Point of Sale\nDrei Säulen der Integration- Point of Sale\nKernaussage: Im stationären Handel verbinden Avatare das physische Erlebnis mit digitalen Daten und Services. Interaktive Kioske oder Displays ermöglichen Beratung, Support und Verfügbarkeitsprüfung direkt am Regal oder Empfang.",
+        "Avatare erscheinen auf interaktiven Kiosksystemen oder Displays.\nSie bieten mehrsprachigen Support direkt im Geschäft.\nOnline-Verfügbarkeiten werden in Echtzeit geprüft.\nCross-Selling-Vorschläge unterstützen den Verkaufsprozess."
+      ],
+      "saetze": [
+        "Drei Säulen der Integration- Point of Sale",
+        "Drei Säulen der Integration- Point of Sale",
+        "Kernaussage:",
+        "Im stationären Handel verbinden Avatare das physische Erlebnis mit digitalen Daten und Services.",
+        "Interaktive Kioske oder Displays ermöglichen Beratung, Support und Verfügbarkeitsprüfung direkt am Regal oder Empfang.",
+        "Avatare erscheinen auf interaktiven Kiosksystemen oder Displays.",
+        "Sie bieten mehrsprachigen Support direkt im Geschäft.",
+        "Online-Verfügbarkeiten werden in Echtzeit geprüft.",
+        "Cross-Selling-Vorschläge unterstützen den Verkaufsprozess."
+      ],
+      "counts": {
+        "abschnitte": 2,
+        "saetze": 9
+      }
+    },
+    "pptx_slide_038.json": {
+      "foliennummer": 38,
+      "ueberschrift": "Emotionserkennung und Anpassung",
+      "quelle_json": "data\\processed\\pptx_slide_038.json",
+      "abschnitte": [
+        "Emotionserkennung und Anpassung\nKernaussage: Die nächste Evolutionsstufe ist, dass Avatare emotionale Signale erkennen und ihre Kommunikation anpassen. Affective Computing analysiert dabei Mimik, Gestik und Stimmlage, um besser auf Situationen einzugehen.",
+        "Affective Computing analysiert Mimik und Stimmlage.\nDer Avatar reagiert mit angepasstem Sprechtempo oder Tonfall.\nEmotionale Intelligenz erhöht die Natürlichkeit der Interaktion.\nPersonalisierte Reaktionen stärken Kundenbindung.\nDadurch wird die Mensch-Maschine- Interaktion natürlicher\nEmotionserkennung und Anpassung"
+      ],
+      "saetze": [
+        "Emotionserkennung und Anpassung",
+        "Kernaussage:",
+        "Die nächste Evolutionsstufe ist, dass Avatare emotionale Signale erkennen und ihre Kommunikation anpassen.",
+        "Affective Computing analysiert dabei Mimik, Gestik und Stimmlage, um besser auf Situationen einzugehen.",
+        "Affective Computing analysiert Mimik und Stimmlage.",
+        "Der Avatar reagiert mit angepasstem Sprechtempo oder Tonfall.",
+        "Emotionale Intelligenz erhöht die Natürlichkeit der Interaktion.",
+        "Personalisierte Reaktionen stärken Kundenbindung.",
+        "Dadurch wird die Mensch-Maschine- Interaktion natürlicher",
+        "Emotionserkennung und Anpassung"
+      ],
+      "counts": {
+        "abschnitte": 2,
+        "saetze": 10
+      }
+    },
+    "pptx_slide_039.json": {
+      "foliennummer": 39,
+      "ueberschrift": "Para-soziale Interaktionen",
+      "quelle_json": "data\\processed\\pptx_slide_039.json",
+      "abschnitte": [
+        "Para-soziale Interaktionen\nKernaussage Ein spannendes Phänomen ist, dass Nutzer emotionale Bindungen zu digitalen Figuren aufbauen. KI-Avatare verstärken diesen Effekt, weil sie personalisiert reagieren und eine Illusion von Gegenseitigkeit erzeugen können.",
+        "Para-soziale Beziehungen sind einseitige Bindungen, ähnlich wie zu Prominenten oder Filmcharakteren.\nAlgorithmen lernen Vorlieben und verstärken das Gefühl von Nähe, Intimität und Wiedererkennung.\nIm Marketing kann dies Markenloyalität steigern, weil Nutzer „virtuellen Influencern“ langfristig folgen.\nGleichzeitig braucht es Verantwortung, damit emotionale Bindung nicht manipulativ ausgenutzt wird, besonders bei jungen Zielgruppen.\nPara-soziale Interaktionen"
+      ],
+      "saetze": [
+        "Para-soziale Interaktionen",
+        "Kernaussage Ein spannendes Phänomen ist, dass Nutzer emotionale Bindungen zu digitalen Figuren aufbauen.",
+        "KI-Avatare verstärken diesen Effekt, weil sie personalisiert reagieren und eine Illusion von Gegenseitigkeit erzeugen können.",
+        "Para-soziale Beziehungen sind einseitige Bindungen, ähnlich wie zu Prominenten oder Filmcharakteren.",
+        "Algorithmen lernen Vorlieben und verstärken das Gefühl von Nähe, Intimität und Wiedererkennung.",
+        "Im Marketing kann dies Markenloyalität steigern, weil Nutzer „virtuellen Influencern“ langfristig folgen.",
+        "Gleichzeitig braucht es Verantwortung, damit emotionale Bindung nicht manipulativ ausgenutzt wird, besonders bei jungen Zielgruppen.",
+        "Para-soziale Interaktionen"
+      ],
+      "counts": {
+        "abschnitte": 2,
+        "saetze": 8
+      }
+    },
+    "pptx_slide_040.json": {
+      "foliennummer": 40,
+      "ueberschrift": "Uncanny Valley: Die Akzeptanz-Hürde",
+      "quelle_json": "data\\processed\\pptx_slide_040.json",
+      "abschnitte": [
+        "Uncanny Valley: Die Akzeptanz-Hürde\nUncanny Valley: Die Akzeptanz-Hürde\nKernaussage: Je menschenähnlicher ein Avatar wirkt, desto stärker reagieren Menschen emotional darauf. Kurz vor perfektem Realismus kippt die Reaktion jedoch oft ins Negative, was im Marketing problematisch sein kann.",
+        "Mit steigender Menschenähnlichkeit wächst zunächst die Akzeptanz.\nBei nahezu perfektem Realismus entsteht ein Gefühl von Unbehagen.\nDieses Phänomen wird als „Uncanny Valley“ bezeichnet.\nErst bei vollständigem Realismus steigt die Akzeptanz wieder an."
+      ],
+      "saetze": [
+        "Uncanny Valley:",
+        "Die Akzeptanz-Hürde",
+        "Uncanny Valley:",
+        "Die Akzeptanz-Hürde",
+        "Kernaussage:",
+        "Je menschenähnlicher ein Avatar wirkt, desto stärker reagieren Menschen emotional darauf.",
+        "Kurz vor perfektem Realismus kippt die Reaktion jedoch oft ins Negative, was im Marketing problematisch sein kann.",
+        "Mit steigender Menschenähnlichkeit wächst zunächst die Akzeptanz.",
+        "Bei nahezu perfektem Realismus entsteht ein Gefühl von Unbehagen.",
+        "Dieses Phänomen wird als „Uncanny Valley“ bezeichnet.",
+        "Erst bei vollständigem Realismus steigt die Akzeptanz wieder an."
+      ],
+      "counts": {
+        "abschnitte": 2,
+        "saetze": 11
+      }
+    },
+    "pptx_slide_041.json": {
+      "foliennummer": 41,
+      "ueberschrift": "Uncanny Valley",
+      "quelle_json": "data\\processed\\pptx_slide_041.json",
+      "abschnitte": [
+        "Uncanny Valley\nDas Konzept beschreibt die paradoxe Beziehung zwischen der Menschenähnlichkeit eines Objekts und unserer emotionalen Reaktion darauf.",
+        "Der Anstieg: Je menschenähnlicher ein Avatar (z. B. eine Zeichentrickfigur), desto sympathischer wirkt er.\nDas „Tal“: Erreicht die Ähnlichkeit ein fast perfektes, aber eben nicht ganz fehlerfreies Niveau, kippt die Sympathie schlagartig in Abscheu oder Unbehagen. Wir nehmen den Avatar als „krank“, „tot“ oder „falsch“ wahr.\nDie Rettung: Erst wenn der Avatar optisch und bewegungstechnisch vom echten Menschen nicht mehr zu unterscheiden ist, steigt die Akzeptanz wieder an.\nUncanny Valley"
+      ],
+      "saetze": [
+        "Uncanny Valley",
+        "Das Konzept beschreibt die paradoxe Beziehung zwischen der Menschenähnlichkeit eines Objekts und unserer emotionalen Reaktion darauf.",
+        "Der Anstieg:",
+        "Je menschenähnlicher ein Avatar (z.",
+        "B.",
+        "eine Zeichentrickfigur), desto sympathischer wirkt er.",
+        "Das „Tal“:",
+        "Erreicht die Ähnlichkeit ein fast perfektes, aber eben nicht ganz fehlerfreies Niveau, kippt die Sympathie schlagartig in Abscheu oder Unbehagen.",
+        "Wir nehmen den Avatar als „krank“, „tot“ oder „falsch“ wahr.",
+        "Die Rettung:",
+        "Erst wenn der Avatar optisch und bewegungstechnisch vom echten Menschen nicht mehr zu unterscheiden ist, steigt die Akzeptanz wieder an.",
+        "Uncanny Valley"
+      ],
+      "counts": {
+        "abschnitte": 2,
+        "saetze": 12
+      }
+    },
+    "pptx_slide_042.json": {
+      "foliennummer": 42,
+      "ueberschrift": "Risikos im Bereich Marketing",
+      "quelle_json": "data\\processed\\pptx_slide_042.json",
+      "abschnitte": [
+        "Risikos im Bereich Marketing\nKernaussage: Wenn ein Avatar im Uncanny Valley landet, kann das Markenimage massiv leiden. Nutzer achten dann stärker auf Unstimmigkeiten als auf die eigentliche Botschaft, wodurch Vertrauen und Aufmerksamkeit sinken.",
+        "Unnatürliche Mimik oder asynchrone Lippenbewegungen lenken ab.\nKunden reagieren sensibel auf künstliche Unstimmigkeiten.\nVertrauensverlust kann die Werbewirkung reduzieren.\nNegative Emotionen übertragen sich auf die Marke.\nRisikos im Bereich Marketing"
+      ],
+      "saetze": [
+        "Risikos im Bereich Marketing",
+        "Kernaussage:",
+        "Wenn ein Avatar im Uncanny Valley landet, kann das Markenimage massiv leiden.",
+        "Nutzer achten dann stärker auf Unstimmigkeiten als auf die eigentliche Botschaft, wodurch Vertrauen und Aufmerksamkeit sinken.",
+        "Unnatürliche Mimik oder asynchrone Lippenbewegungen lenken ab.",
+        "Kunden reagieren sensibel auf künstliche Unstimmigkeiten.",
+        "Vertrauensverlust kann die Werbewirkung reduzieren.",
+        "Negative Emotionen übertragen sich auf die Marke.",
+        "Risikos im Bereich Marketing"
+      ],
+      "counts": {
+        "abschnitte": 2,
+        "saetze": 9
+      }
+    },
+    "pptx_slide_043.json": {
+      "foliennummer": 43,
+      "ueberschrift": "Wie die Technik das Tal heute überwindet",
+      "quelle_json": "data\\processed\\pptx_slide_043.json",
+      "abschnitte": [
+        "Wie die Technik das Tal heute überwindet\nKernaussage: Moderne Systeme nutzen gezielte Tricks, um Avatare natürlicher wirken zu lassen oder das Uncanny Valley zu umgehen. Das Ziel ist, Akzeptanz zu erhöhen, ohne künstliche Perfektion zu erzeugen.",
+        "Mikromimik wie Blinzeln oder Atembewegungen erhöht Realismus.\nKleine Imperfektionen verhindern sterile Perfektion.\nBewusste Stilisierung umgeht den Anspruch auf vollständigen Realismus.\nTechnische Optimierung steigert emotionale Akzeptanz.\nWie die Technik das Tal heute überwindet"
+      ],
+      "saetze": [
+        "Wie die Technik das Tal heute überwindet",
+        "Kernaussage:",
+        "Moderne Systeme nutzen gezielte Tricks, um Avatare natürlicher wirken zu lassen oder das Uncanny Valley zu umgehen.",
+        "Das Ziel ist, Akzeptanz zu erhöhen, ohne künstliche Perfektion zu erzeugen.",
+        "Mikromimik wie Blinzeln oder Atembewegungen erhöht Realismus.",
+        "Kleine Imperfektionen verhindern sterile Perfektion.",
+        "Bewusste Stilisierung umgeht den Anspruch auf vollständigen Realismus.",
+        "Technische Optimierung steigert emotionale Akzeptanz.",
+        "Wie die Technik das Tal heute überwindet"
+      ],
+      "counts": {
+        "abschnitte": 2,
+        "saetze": 9
+      }
+    },
+    "pptx_slide_044.json": {
+      "foliennummer": 44,
+      "ueberschrift": "Deepfakes & Manipulation",
+      "quelle_json": "data\\processed\\pptx_slide_044.json",
+      "abschnitte": [
+        "Deepfakes & Manipulation\nKernaussage: Deepfakes sind täuschend echte Medienfälschungen, die durch Deep Learning erstellt werden. Im Marketing können sie zu massiven Reputationsschäden führen, wenn Markenidentität oder Testimonials missbraucht werden..",
+        "Deepfakes können Personen Aussagen zuschreiben, die nie stattgefunden haben, und Vertrauen gezielt untergraben.\nMarkenidentitäten können missbräuchlich verwendet werden.\nDie Grenze zwischen kreativer Nutzung und Desinformation verschwimmt, wodurch Governance wichtiger wird.\nUnternehmen müssen in Verifizierungs- und Schutztechnologien investieren.\nDeepfakes & Manipulation"
+      ],
+      "saetze": [
+        "Deepfakes & Manipulation",
+        "Kernaussage:",
+        "Deepfakes sind täuschend echte Medienfälschungen, die durch Deep Learning erstellt werden.",
+        "Im Marketing können sie zu massiven Reputationsschäden führen, wenn Markenidentität oder Testimonials missbraucht werden..",
+        "Deepfakes können Personen Aussagen zuschreiben, die nie stattgefunden haben, und Vertrauen gezielt untergraben.",
+        "Markenidentitäten können missbräuchlich verwendet werden.",
+        "Die Grenze zwischen kreativer Nutzung und Desinformation verschwimmt, wodurch Governance wichtiger wird.",
+        "Unternehmen müssen in Verifizierungs- und Schutztechnologien investieren.",
+        "Deepfakes & Manipulation"
+      ],
+      "counts": {
+        "abschnitte": 2,
+        "saetze": 9
+      }
+    },
+    "pptx_slide_045.json": {
+      "foliennummer": 45,
+      "ueberschrift": "05 Kulturelle Unterschiede",
+      "quelle_json": "data\\processed\\pptx_slide_045.json",
+      "abschnitte": [
+        "05 Kulturelle Unterschiede\n05 Kulturelle Unterschiede"
+      ],
+      "saetze": [
+        "05 Kulturelle Unterschiede",
+        "05 Kulturelle Unterschiede"
+      ],
+      "counts": {
+        "abschnitte": 1,
+        "saetze": 2
+      }
+    },
+    "pptx_slide_046.json": {
+      "foliennummer": 46,
+      "ueberschrift": "Globale Akzeptanz von KI-Avataren",
+      "quelle_json": "data\\processed\\pptx_slide_046.json",
+      "abschnitte": [
+        "Globale Akzeptanz von KI-Avataren\nKernaussage: Die Akzeptanz von KI-Avataren hängt stark von Kultur, Religion, Werten und technologischem Vertrauen ab. Daher funktioniert eine globale Avatar-Strategie nur, wenn sie lokal angepasst wird..",
+        "Westliche Gesellschaften betonen Datenschutz und Authentizität.\nIn Ostasien besteht häufig größere Offenheit gegenüber digitalen Figuren.\nKulturelle Werte beeinflussen emotionale Bindung.\nGlobale Marken müssen Strategien lokal anpassen.\nGlobale Akzeptanz von KI-Avataren"
+      ],
+      "saetze": [
+        "Globale Akzeptanz von KI-Avataren",
+        "Kernaussage:",
+        "Die Akzeptanz von KI-Avataren hängt stark von Kultur, Religion, Werten und technologischem Vertrauen ab.",
+        "Daher funktioniert eine globale Avatar-Strategie nur, wenn sie lokal angepasst wird..",
+        "Westliche Gesellschaften betonen Datenschutz und Authentizität.",
+        "In Ostasien besteht häufig größere Offenheit gegenüber digitalen Figuren.",
+        "Kulturelle Werte beeinflussen emotionale Bindung.",
+        "Globale Marken müssen Strategien lokal anpassen.",
+        "Globale Akzeptanz von KI-Avataren"
+      ],
+      "counts": {
+        "abschnitte": 2,
+        "saetze": 9
+      }
+    },
+    "pptx_slide_047.json": {
+      "foliennummer": 47,
+      "ueberschrift": "Japan und Südkorea- Die Vorreiter",
+      "quelle_json": "data\\processed\\pptx_slide_047.json",
+      "abschnitte": [
+        "Japan und Südkorea- Die Vorreiter\nKernaussage: In Ostasien gibt es eine historisch gewachsene Offenheit gegenüber nicht-menschlichen Akteuren. Virtuelle Idole und V-Tuber sind dort etabliert, wodurch Avatare im Marketing oft leichter akzeptiert werden.",
+        "Historische und kulturelle Faktoren fördern digitale Akzeptanz.\nVirtuelle Idole und V-Tuber sind gesellschaftlich etabliert.\nStilistische Avatare werden oft hyperrealistischen Figuren vorgezogen.\nMarketingstrategien profitieren von kultureller Offenheit.\nJapan und Südkorea- Die Vorreiter"
+      ],
+      "saetze": [
+        "Japan und Südkorea- Die Vorreiter",
+        "Kernaussage:",
+        "In Ostasien gibt es eine historisch gewachsene Offenheit gegenüber nicht-menschlichen Akteuren.",
+        "Virtuelle Idole und V-Tuber sind dort etabliert, wodurch Avatare im Marketing oft leichter akzeptiert werden.",
+        "Historische und kulturelle Faktoren fördern digitale Akzeptanz.",
+        "Virtuelle Idole und V-Tuber sind gesellschaftlich etabliert.",
+        "Stilistische Avatare werden oft hyperrealistischen Figuren vorgezogen.",
+        "Marketingstrategien profitieren von kultureller Offenheit.",
+        "Japan und Südkorea- Die Vorreiter"
+      ],
+      "counts": {
+        "abschnitte": 2,
+        "saetze": 9
+      }
+    },
+    "pptx_slide_048.json": {
+      "foliennummer": 48,
+      "ueberschrift": "Europa & USA: Die Hürde des kritischen Rationalismus",
+      "quelle_json": "data\\processed\\pptx_slide_048.json",
+      "abschnitte": [
+        "Europa & USA: Die Hürde des kritischen Rationalismus\nKernaussage: In westlichen Kulturen ist die Beziehung zu KI-Avataren oft von Skepsis geprägt, weil Manipulation und Täuschung gefürchtet werden. Daher muss ein Einsatz transparent und verantwortungsvoll kommuniziert werden..",
+        "Skepsis gegenüber Deepfakes ist weit verbreitet.\nTransparenz ist Voraussetzung für Akzeptanz.\nAvatare sollten nicht als echte Menschen getarnt werden.\nVertrauen entsteht durch offene Kommunikation.\nEuropa & USA: Die Hürde des kritischen Rationalismus"
+      ],
+      "saetze": [
+        "Europa & USA:",
+        "Die Hürde des kritischen Rationalismus",
+        "Kernaussage:",
+        "In westlichen Kulturen ist die Beziehung zu KI-Avataren oft von Skepsis geprägt, weil Manipulation und Täuschung gefürchtet werden.",
+        "Daher muss ein Einsatz transparent und verantwortungsvoll kommuniziert werden..",
+        "Skepsis gegenüber Deepfakes ist weit verbreitet.",
+        "Transparenz ist Voraussetzung für Akzeptanz.",
+        "Avatare sollten nicht als echte Menschen getarnt werden.",
+        "Vertrauen entsteht durch offene Kommunikation.",
+        "Europa & USA:",
+        "Die Hürde des kritischen Rationalismus"
+      ],
+      "counts": {
+        "abschnitte": 2,
+        "saetze": 11
+      }
+    },
+    "pptx_slide_049.json": {
+      "foliennummer": 49,
+      "ueberschrift": "Lokalisierung vs. Globalisierung",
+      "quelle_json": "data\\processed\\pptx_slide_049.json",
+      "abschnitte": [
+        "Lokalisierung vs. Globalisierung\nVisuelle Anpassung: Ein Avatar für den arabischen Markt benötigt ein anderes Styling, eine andere Gestik und Kleidung als ein Avatar für Skandinavien.\nKommunikationsstile: \nHigh-Context Kulturen (z.B. Asien): Avatare müssen subtile nonverbale Signale beherrschen.\nLow-Context Kulturen (z.B. Deutschland/USA): Fokus auf klare, direkte verbale Botschaften.\nSprachliche Nuancen: KI-Stimmen müssen lokale Dialekte und Höflichkeitsformen (z.B. \"Sie\" vs. \"Du\") perfekt beherrschen, um ernst genommen zu werden.\nLokalisierung vs. Globalisierung"
+      ],
+      "saetze": [
+        "Lokalisierung vs.",
+        "Globalisierung",
+        "Visuelle Anpassung:",
+        "Ein Avatar für den arabischen Markt benötigt ein anderes Styling, eine andere Gestik und Kleidung als ein Avatar für Skandinavien.",
+        "Kommunikationsstile:",
+        "High-Context Kulturen (z.B.",
+        "Asien):",
+        "Avatare müssen subtile nonverbale Signale beherrschen.",
+        "Low-Context Kulturen (z.B.",
+        "Deutschland/USA):",
+        "Fokus auf klare, direkte verbale Botschaften.",
+        "Sprachliche Nuancen:",
+        "KI-Stimmen müssen lokale Dialekte und Höflichkeitsformen (z.B.",
+        "\"Sie\" vs.",
+        "\"Du\") perfekt beherrschen, um ernst genommen zu werden.",
+        "Lokalisierung vs.",
+        "Globalisierung"
+      ],
+      "counts": {
+        "abschnitte": 1,
+        "saetze": 17
+      }
+    },
+    "pptx_slide_050.json": {
+      "foliennummer": 50,
+      "ueberschrift": "Fazit",
+      "quelle_json": "data\\processed\\pptx_slide_050.json",
+      "abschnitte": [
+        "Fazit\nFazit\nKI-Avatare sind mehr als nur ein technisches Tool – sie sind ein spannender Weg, Marken menschlicher und zugänglicher zu machen. Mit ihren Vorteilen und Herausforderungen formen sie die Zukunft des Marketings, indem sie persönliche Erlebnisse schaffen und die Kommunikation revolutionieren. Die Reise hat gerade erst begonnen!"
+      ],
+      "saetze": [
+        "Fazit",
+        "Fazit",
+        "KI-Avatare sind mehr als nur ein technisches Tool – sie sind ein spannender Weg, Marken menschlicher und zugänglicher zu machen.",
+        "Mit ihren Vorteilen und Herausforderungen formen sie die Zukunft des Marketings, indem sie persönliche Erlebnisse schaffen und die Kommunikation revolutionieren.",
+        "Die Reise hat gerade erst begonnen!"
+      ],
+      "counts": {
+        "abschnitte": 1,
+        "saetze": 5
+      }
+    }
+  }
+}

@@ -1,0 +1,1855 @@
+{
+  "meta": {
+    "min_occurrences_slides": 2,
+    "max_examples_per_term": 3,
+    "max_terms_total": 300,
+    "min_term_len": 3,
+    "allow_numbers": false,
+    "definition_mode": "rule"
+  },
+  "glossar": {
+    "animation": {
+      "term": "animation",
+      "display": "animation",
+      "definition": "animation: Sprachmodelle, Sprachausgabe und Animation.",
+      "vorkommen_slides": [
+        "pptx_slide_006.json",
+        "pptx_slide_008.json"
+      ],
+      "haeufigkeit": 3,
+      "beispiele": [
+        "Sprachmodelle, Sprachausgabe und Animation.",
+        "Technologie dahinter – TTS & “Animation”",
+        "Technologie dahinter – TTS & “Animation”"
+      ],
+      "aliases": []
+    },
+    "apache": {
+      "term": "apache",
+      "display": "apache",
+      "definition": "apache: Apache Spark erweitert Hadoop durch schnellere In-Memory-Verarbeitung.",
+      "vorkommen_slides": [
+        "pdf_slide_012.json",
+        "pdf_slide_014.json"
+      ],
+      "haeufigkeit": 4,
+      "beispiele": [
+        "Apache Spark – Analyse in Lichtgeschwindigkeit",
+        "Apache Spark – Analyse in Lichtgeschwindigkeit",
+        "Apache Spark erweitert Hadoop durch schnellere In-Memory-Verarbeitung."
+      ],
+      "aliases": []
+    },
+    "automatisiert": {
+      "term": "automatisiert",
+      "display": "automatisiert",
+      "definition": "automatisiert: Rephrase.",
+      "vorkommen_slides": [
+        "pptx_slide_011.json",
+        "pptx_slide_013.json",
+        "pptx_slide_023.json",
+        "pptx_slide_028.json",
+        "pptx_slide_035.json"
+      ],
+      "haeufigkeit": 6,
+      "beispiele": [
+        "Markensicherheit steigt, weil Tonalität und Aussagen kontrollierbar sind und Prozesse automatisiert ablaufen.",
+        "Rephrase.ai richtet sich auf personalisierte Videokampagnen, bei denen Inhalte automatisiert für Zielgruppen variiert werden.",
+        "Routineaufgaben werden automatisiert ausgeführt."
+      ],
+      "aliases": []
+    },
+    "automatisierte": {
+      "term": "automatisierte",
+      "display": "automatisierte",
+      "definition": "automatisierte: Automatisierte Ingestion-Prozesse bereiten Daten für Speicherung",
+      "vorkommen_slides": [
+        "pdf_slide_009.json",
+        "pdf_slide_029.json",
+        "pdf_slide_033.json",
+        "pdf_slide_040.json",
+        "pptx_slide_012.json",
+        "pptx_slide_015.json"
+      ],
+      "haeufigkeit": 7,
+      "beispiele": [
+        "Automatisierte Ingestion-Prozesse bereiten Daten für Speicherung",
+        "sowie schnellere automatisierte Prozesse.",
+        "Automatisierte Analyseverfahren erhöhen Effizienz."
+      ],
+      "aliases": []
+    },
+    "automatisierung": {
+      "term": "automatisierung",
+      "display": "automatisierung",
+      "definition": "automatisierung: Sie verbinden Automatisierung mit emotionaler Ansprache.",
+      "vorkommen_slides": [
+        "pdf_slide_032.json",
+        "pdf_slide_041.json",
+        "pptx_slide_012.json",
+        "pptx_slide_015.json"
+      ],
+      "haeufigkeit": 4,
+      "beispiele": [
+        "Automatisierung reduziert manuelle Analyseprozesse.",
+        "Automatisierung komplexer Entscheidungsprozesse.",
+        "Sie verbinden Automatisierung mit emotionaler Ansprache."
+      ],
+      "aliases": []
+    },
+    "avatar": {
+      "term": "avatar",
+      "display": "avatar",
+      "definition": "avatar: Der Markt für KI-Avatar-Plattformen ist stark gewachsen und bietet spezialisierte Tools für Video, E-Learning und Kundenservice.",
+      "vorkommen_slides": [
+        "pptx_slide_013.json",
+        "pptx_slide_017.json",
+        "pptx_slide_025.json",
+        "pptx_slide_038.json",
+        "pptx_slide_040.json",
+        "pptx_slide_041.json",
+        "pptx_slide_042.json",
+        "pptx_slide_046.json",
+        "pptx_slide_049.json"
+      ],
+      "haeufigkeit": 12,
+      "beispiele": [
+        "Der Markt für KI-Avatar-Plattformen ist stark gewachsen und bietet spezialisierte Tools für Video, E-Learning und Kundenservice.",
+        "Der Kunde als Avatar-Besitzer",
+        "Business-to-Avatar (B2A):"
+      ],
+      "aliases": []
+    },
+    "avatar als": {
+      "term": "avatar als",
+      "display": "avatar als",
+      "definition": "avatar als: Prävention von Phishing-Fallen, die den Avatar als Köder nutzen.",
+      "vorkommen_slides": [
+        "pptx_slide_025.json",
+        "pptx_slide_041.json"
+      ],
+      "haeufigkeit": 2,
+      "beispiele": [
+        "Prävention von Phishing-Fallen, die den Avatar als Köder nutzen.",
+        "Wir nehmen den Avatar als „krank“, „tot“ oder „falsch“ wahr."
+      ],
+      "aliases": [
+        "avatar-als"
+      ]
+    },
+    "avatare": {
+      "term": "avatare",
+      "display": "avatare",
+      "definition": "avatare: KI- Avatare im Marketing verstehen",
+      "vorkommen_slides": [
+        "pptx_slide_001.json",
+        "pptx_slide_002.json",
+        "pptx_slide_004.json",
+        "pptx_slide_005.json",
+        "pptx_slide_006.json",
+        "pptx_slide_009.json",
+        "pptx_slide_011.json",
+        "pptx_slide_012.json",
+        "pptx_slide_014.json",
+        "pptx_slide_015.json",
+        "pptx_slide_016.json",
+        "pptx_slide_023.json",
+        "pptx_slide_027.json",
+        "pptx_slide_028.json",
+        "pptx_slide_029.json",
+        "pptx_slide_031.json",
+        "pptx_slide_032.json",
+        "pptx_slide_034.json",
+        "pptx_slide_035.json",
+        "pptx_slide_036.json",
+        "pptx_slide_037.json",
+        "pptx_slide_038.json",
+        "pptx_slide_039.json",
+        "pptx_slide_043.json",
+        "pptx_slide_047.json",
+        "pptx_slide_048.json",
+        "pptx_slide_049.json",
+        "pptx_slide_050.json"
+      ],
+      "haeufigkeit": 48,
+      "beispiele": [
+        "KI-Avatare",
+        "KI-Avatare",
+        "KI- Avatare im Marketing verstehen"
+      ],
+      "aliases": []
+    },
+    "avatare häufig": {
+      "term": "avatare häufig",
+      "display": "avatare häufig",
+      "definition": "avatare häufig: Neben Marketingkampagnen werden KI-Avatare häufig für Support und Service eingesetzt, weil sie dauerhaft verfügbar sind.",
+      "vorkommen_slides": [
+        "pptx_slide_015.json",
+        "pptx_slide_035.json"
+      ],
+      "haeufigkeit": 2,
+      "beispiele": [
+        "Neben Marketingkampagnen werden KI-Avatare häufig für Support und Service eingesetzt, weil sie dauerhaft verfügbar sind.",
+        "Im E-Commerce ersetzen Avatare häufig statische FAQ-Seiten und bieten eine interaktive Beratung."
+      ],
+      "aliases": [
+        "avatare-häufig"
+      ]
+    },
+    "avatare sind": {
+      "term": "avatare sind",
+      "display": "avatare sind",
+      "definition": "avatare sind: Die heutigen KI-Avatare sind das Ergebnis einer langen Entwicklung künstlicher Intelligenz, die mit einfachen Regeln begann.",
+      "vorkommen_slides": [
+        "pptx_slide_002.json",
+        "pptx_slide_004.json",
+        "pptx_slide_012.json",
+        "pptx_slide_015.json",
+        "pptx_slide_050.json"
+      ],
+      "haeufigkeit": 6,
+      "beispiele": [
+        "KI-Avatare sind digitale, menschenähnliche Figuren, die Markenkommunikation übernehmen.",
+        "Die heutigen KI-Avatare sind das Ergebnis einer langen Entwicklung künstlicher Intelligenz, die mit einfachen Regeln begann.",
+        "KI-Avatare sind digitale, menschenähnliche Figuren, die Markenkommunikation übernehmen."
+      ],
+      "aliases": [
+        "avatare-sind"
+      ]
+    },
+    "avatare verändern": {
+      "term": "avatare verändern",
+      "display": "avatare verändern",
+      "definition": "avatare verändern: KI-Avatare verändern die Art, wie Marken kommunizieren, weil sie Inhalte personalisiert und skalierbar vermitteln können.",
+      "vorkommen_slides": [
+        "pptx_slide_002.json",
+        "pptx_slide_028.json"
+      ],
+      "haeufigkeit": 2,
+      "beispiele": [
+        "KI-Avatare verändern die Art, wie Marken kommunizieren, weil sie Inhalte personalisiert und skalierbar vermitteln können.",
+        "KI-Avatare verändern Produktionsketten in Werbung und Medien, weil Routinearbeiten automatisiert werden."
+      ],
+      "aliases": [
+        "avatare-verändern"
+      ]
+    },
+    "avatare werden": {
+      "term": "avatare werden",
+      "display": "avatare werden",
+      "definition": "avatare werden: KI-Avatare werden zunehmend kanalübergreifend eingesetzt, damit Marken überall gleich wirken.",
+      "vorkommen_slides": [
+        "pptx_slide_034.json",
+        "pptx_slide_047.json"
+      ],
+      "haeufigkeit": 2,
+      "beispiele": [
+        "KI-Avatare werden zunehmend kanalübergreifend eingesetzt, damit Marken überall gleich wirken.",
+        "Stilistische Avatare werden oft hyperrealistischen Figuren vorgezogen."
+      ],
+      "aliases": [
+        "avatare-werden"
+      ]
+    },
+    "avataren": {
+      "term": "avataren",
+      "display": "avataren",
+      "definition": "avataren: 02 Einsatz von KI-Avataren im Marketing",
+      "vorkommen_slides": [
+        "pptx_slide_003.json",
+        "pptx_slide_010.json",
+        "pptx_slide_011.json",
+        "pptx_slide_013.json",
+        "pptx_slide_024.json",
+        "pptx_slide_026.json",
+        "pptx_slide_029.json",
+        "pptx_slide_046.json",
+        "pptx_slide_048.json"
+      ],
+      "haeufigkeit": 13,
+      "beispiele": [
+        "01 Entwicklung von KI-Avataren",
+        "01 Entwicklung von KI-Avataren",
+        "02 Einsatz von KI-Avataren im Marketing"
+      ],
+      "aliases": []
+    },
+    "betrugserkennung": {
+      "term": "betrugserkennung",
+      "display": "betrugserkennung",
+      "definition": "betrugserkennung: Finanzwesen & Betrugserkennung",
+      "vorkommen_slides": [
+        "pdf_slide_021.json",
+        "pdf_slide_022.json"
+      ],
+      "haeufigkeit": 5,
+      "beispiele": [
+        "Finanzwesen & Betrugserkennung",
+        "Finanzwesen & Betrugserkennung",
+        "Finanzwesen & Betrugserkennung"
+      ],
+      "aliases": []
+    },
+    "big": {
+      "term": "big",
+      "display": "big",
+      "definition": "big: Umfassender Überblick zu Big",
+      "vorkommen_slides": [
+        "pdf_slide_001.json",
+        "pdf_slide_002.json",
+        "pdf_slide_003.json",
+        "pdf_slide_004.json",
+        "pdf_slide_005.json",
+        "pdf_slide_007.json",
+        "pdf_slide_011.json",
+        "pdf_slide_015.json",
+        "pdf_slide_016.json",
+        "pdf_slide_017.json",
+        "pdf_slide_018.json",
+        "pdf_slide_019.json",
+        "pdf_slide_021.json",
+        "pdf_slide_023.json",
+        "pdf_slide_024.json",
+        "pdf_slide_028.json",
+        "pdf_slide_030.json",
+        "pdf_slide_032.json",
+        "pdf_slide_033.json",
+        "pdf_slide_034.json",
+        "pdf_slide_035.json",
+        "pdf_slide_036.json",
+        "pdf_slide_037.json",
+        "pdf_slide_047.json",
+        "pdf_slide_048.json",
+        "pdf_slide_049.json"
+      ],
+      "haeufigkeit": 36,
+      "beispiele": [
+        "Big Data",
+        "Big Data",
+        "Umfassender Überblick zu Big"
+      ],
+      "aliases": []
+    },
+    "big data": {
+      "term": "big data",
+      "display": "big data",
+      "definition": "big data: Big Data bezeichnet die Verarbeitung und Analyse großer, komplexer und vielfältiger Datenmengen.",
+      "vorkommen_slides": [
+        "pdf_slide_001.json",
+        "pdf_slide_002.json",
+        "pdf_slide_003.json",
+        "pdf_slide_004.json",
+        "pdf_slide_005.json",
+        "pdf_slide_007.json",
+        "pdf_slide_011.json",
+        "pdf_slide_015.json",
+        "pdf_slide_016.json",
+        "pdf_slide_017.json",
+        "pdf_slide_018.json",
+        "pdf_slide_019.json",
+        "pdf_slide_021.json",
+        "pdf_slide_023.json",
+        "pdf_slide_024.json",
+        "pdf_slide_028.json",
+        "pdf_slide_030.json",
+        "pdf_slide_032.json",
+        "pdf_slide_033.json",
+        "pdf_slide_035.json",
+        "pdf_slide_036.json",
+        "pdf_slide_037.json",
+        "pdf_slide_047.json",
+        "pdf_slide_048.json",
+        "pdf_slide_049.json"
+      ],
+      "haeufigkeit": 32,
+      "beispiele": [
+        "Big Data",
+        "Big Data",
+        "Big Data bezeichnet die Verarbeitung und Analyse großer, komplexer und vielfältiger Datenmengen."
+      ],
+      "aliases": [
+        "big-data"
+      ]
+    },
+    "cloud": {
+      "term": "cloud",
+      "display": "cloud",
+      "definition": "cloud: Cloud-Systeme bieten elastische Skalierbarkeit bei steigender Last.",
+      "vorkommen_slides": [
+        "pdf_slide_007.json",
+        "pdf_slide_010.json",
+        "pdf_slide_015.json",
+        "pdf_slide_029.json",
+        "pdf_slide_031.json",
+        "pdf_slide_032.json",
+        "pdf_slide_037.json"
+      ],
+      "haeufigkeit": 9,
+      "beispiele": [
+        "Cloud-Technologien ermöglichen nahezu unbegrenzte",
+        "Moderne Architekturen kombinieren On-Premise- und Cloud-Lösungen.",
+        "Cloud-Systeme bieten elastische Skalierbarkeit bei steigender Last."
+      ],
+      "aliases": []
+    },
+    "cloud systeme": {
+      "term": "cloud systeme",
+      "display": "cloud systeme",
+      "definition": "cloud systeme: Cloud-Systeme werden entlastet, da nur relevante oder bereits vorverarbeitete Daten übertragen werden",
+      "vorkommen_slides": [
+        "pdf_slide_010.json",
+        "pdf_slide_029.json",
+        "pdf_slide_032.json"
+      ],
+      "haeufigkeit": 3,
+      "beispiele": [
+        "Cloud-Systeme bieten elastische Skalierbarkeit bei steigender Last.",
+        "Cloud-Systeme werden entlastet, da nur relevante oder bereits vorverarbeitete Daten übertragen werden",
+        "Edge Computing ergänzt zentrale Cloud-Systeme."
+      ],
+      "aliases": [
+        "cloud-systeme"
+      ]
+    },
+    "computing": {
+      "term": "computing",
+      "display": "computing",
+      "definition": "computing: Quantum Computing besitzt das Potenzial, bisher unlösbare",
+      "vorkommen_slides": [
+        "pdf_slide_028.json",
+        "pdf_slide_029.json",
+        "pdf_slide_032.json",
+        "pptx_slide_038.json"
+      ],
+      "haeufigkeit": 9,
+      "beispiele": [
+        "Quantum Computing",
+        "Quantum Computing",
+        "Quantum Computing besitzt das Potenzial, bisher unlösbare"
+      ],
+      "aliases": []
+    },
+    "dahinter": {
+      "term": "dahinter",
+      "display": "dahinter",
+      "definition": "dahinter: Technologie dahinter –LLMs & Generative Visuals",
+      "vorkommen_slides": [
+        "pptx_slide_007.json",
+        "pptx_slide_008.json"
+      ],
+      "haeufigkeit": 4,
+      "beispiele": [
+        "Technologie dahinter –LLMs & Generative Visuals",
+        "Technologie dahinter –LLMs & Generative Visuals",
+        "Technologie dahinter – TTS & “Animation”"
+      ],
+      "aliases": []
+    },
+    "data": {
+      "term": "data",
+      "display": "data",
+      "definition": "data: Data Grundlagen und",
+      "vorkommen_slides": [
+        "pdf_slide_001.json",
+        "pdf_slide_002.json",
+        "pdf_slide_003.json",
+        "pdf_slide_004.json",
+        "pdf_slide_005.json",
+        "pdf_slide_007.json",
+        "pdf_slide_009.json",
+        "pdf_slide_010.json",
+        "pdf_slide_011.json",
+        "pdf_slide_014.json",
+        "pdf_slide_015.json",
+        "pdf_slide_016.json",
+        "pdf_slide_017.json",
+        "pdf_slide_018.json",
+        "pdf_slide_019.json",
+        "pdf_slide_021.json",
+        "pdf_slide_023.json",
+        "pdf_slide_024.json",
+        "pdf_slide_028.json",
+        "pdf_slide_030.json",
+        "pdf_slide_032.json",
+        "pdf_slide_033.json",
+        "pdf_slide_034.json",
+        "pdf_slide_035.json",
+        "pdf_slide_036.json",
+        "pdf_slide_037.json",
+        "pdf_slide_038.json",
+        "pdf_slide_039.json",
+        "pdf_slide_046.json",
+        "pdf_slide_047.json",
+        "pdf_slide_048.json",
+        "pdf_slide_049.json"
+      ],
+      "haeufigkeit": 52,
+      "beispiele": [
+        "Big Data",
+        "Big Data",
+        "Data Grundlagen und"
+      ],
+      "aliases": []
+    },
+    "data engineers": {
+      "term": "data engineers",
+      "display": "data engineers",
+      "definition": "data engineers: Fachkräfte wie Data Engineers sind stark gefragt.",
+      "vorkommen_slides": [
+        "pdf_slide_030.json",
+        "pdf_slide_047.json"
+      ],
+      "haeufigkeit": 2,
+      "beispiele": [
+        "Fachkräfte wie Data Engineers sind stark gefragt.",
+        "Bedarf an Data Engineers und Data Scientists."
+      ],
+      "aliases": [
+        "data-engineers"
+      ]
+    },
+    "data erfordert": {
+      "term": "data erfordert",
+      "display": "data erfordert",
+      "definition": "data erfordert: Die erfolgreiche Einführung von Big Data erfordert strukturierte Planung und agile Umsetzung.",
+      "vorkommen_slides": [
+        "pdf_slide_030.json",
+        "pdf_slide_036.json",
+        "pdf_slide_047.json"
+      ],
+      "haeufigkeit": 3,
+      "beispiele": [
+        "Big Data erfordert leistungsfähige Infrastruktur und qualifiziertes",
+        "Die erfolgreiche Einführung von Big Data erfordert strukturierte Planung und agile Umsetzung.",
+        "Big Data erfordert spezialisierte Kompetenzen."
+      ],
+      "aliases": [
+        "data-erfordert"
+      ]
+    },
+    "data science": {
+      "term": "data science",
+      "display": "data science",
+      "definition": "data science: Der Data Science Lifecycle",
+      "vorkommen_slides": [
+        "pdf_slide_038.json",
+        "pdf_slide_039.json"
+      ],
+      "haeufigkeit": 5,
+      "beispiele": [
+        "05 Data Science &",
+        "05 Data Science &",
+        "Der Data Science Lifecycle"
+      ],
+      "aliases": [
+        "data-science"
+      ]
+    },
+    "datenanalysen": {
+      "term": "datenanalysen",
+      "display": "datenanalysen",
+      "definition": "datenanalysen: Datenanalysen verbessern Lieferketten und Ressourcenplanung.",
+      "vorkommen_slides": [
+        "pdf_slide_018.json",
+        "pdf_slide_045.json"
+      ],
+      "haeufigkeit": 2,
+      "beispiele": [
+        "Datenanalysen verbessern Lieferketten und Ressourcenplanung.",
+        "Datenanalysen müssen fair und nachvollziehbar sein."
+      ],
+      "aliases": []
+    },
+    "datengetriebene geschäftsmodelle": {
+      "term": "datengetriebene geschäftsmodelle",
+      "display": "datengetriebene geschäftsmodelle",
+      "definition": "datengetriebene geschäftsmodelle: Förderung von Innovation und Flexibilität hilft Unternehmen, neue datengetriebene Geschäftsmodelle zu",
+      "vorkommen_slides": [
+        "pdf_slide_027.json",
+        "pdf_slide_035.json"
+      ],
+      "haeufigkeit": 2,
+      "beispiele": [
+        "digitale Dienstleistungen und datengetriebene Geschäftsmodelle.",
+        "Förderung von Innovation und Flexibilität hilft Unternehmen, neue datengetriebene Geschäftsmodelle zu"
+      ],
+      "aliases": [
+        "datengetriebene-geschäftsmodelle"
+      ]
+    },
+    "datenintegrität": {
+      "term": "datenintegrität",
+      "display": "datenintegrität",
+      "definition": "datenintegrität: Datenintegrität wird durch Validierung, Versionierung und Zugriffskontrollen sichergestellt.",
+      "vorkommen_slides": [
+        "pdf_slide_015.json",
+        "pdf_slide_046.json"
+      ],
+      "haeufigkeit": 2,
+      "beispiele": [
+        "Datenintegrität wird durch Validierung, Versionierung und Zugriffskontrollen sichergestellt.",
+        "Sicherung der Datenintegrität über den Lebenszyklus."
+      ],
+      "aliases": []
+    },
+    "datenpipelines": {
+      "term": "datenpipelines",
+      "display": "datenpipelines",
+      "definition": "datenpipelines: Datenpipelines sichern Integrität und Reihenfolge der Events.",
+      "vorkommen_slides": [
+        "pdf_slide_012.json",
+        "pdf_slide_014.json"
+      ],
+      "haeufigkeit": 2,
+      "beispiele": [
+        "Spark wird häufig für komplexe Datenpipelines eingesetzt.",
+        "Datenpipelines sichern Integrität und Reihenfolge der Events."
+      ],
+      "aliases": []
+    },
+    "datenprojekten": {
+      "term": "datenprojekten",
+      "display": "datenprojekten",
+      "definition": "datenprojekten: Die Messung des wirtschaftlichen Nutzens ist entscheidend, um den Erfolg von Datenprojekten anhand klarer",
+      "vorkommen_slides": [
+        "pdf_slide_036.json",
+        "pdf_slide_048.json"
+      ],
+      "haeufigkeit": 2,
+      "beispiele": [
+        "Klare Zieldefinition vor Projektstart hilft Unternehmen dabei, den Nutzen von Datenprojekten messbar zu",
+        "Die Messung des wirtschaftlichen Nutzens ist entscheidend, um den Erfolg von Datenprojekten anhand klarer"
+      ],
+      "aliases": []
+    },
+    "datenschutz": {
+      "term": "datenschutz",
+      "display": "datenschutz",
+      "definition": "datenschutz: Ein konsequenter Datenschutz stärkt langfristig das Vertrauen von Kunden, Partnern und der Öffentlichkeit in",
+      "vorkommen_slides": [
+        "pdf_slide_027.json",
+        "pdf_slide_033.json",
+        "pdf_slide_044.json",
+        "pdf_slide_049.json",
+        "pptx_slide_024.json",
+        "pptx_slide_046.json"
+      ],
+      "haeufigkeit": 12,
+      "beispiele": [
+        "Datenschutz und ethische Aspekte",
+        "Datenschutz und ethische Aspekte",
+        "Ein konsequenter Datenschutz stärkt langfristig das Vertrauen von Kunden, Partnern und der Öffentlichkeit in"
+      ],
+      "aliases": []
+    },
+    "datenstrategie": {
+      "term": "datenstrategie",
+      "display": "datenstrategie",
+      "definition": "datenstrategie: Entwicklung einer ganzheitlichen Datenstrategie, die Datenquellen, Analyseprozesse und konkrete",
+      "vorkommen_slides": [
+        "pdf_slide_031.json",
+        "pdf_slide_035.json"
+      ],
+      "haeufigkeit": 2,
+      "beispiele": [
+        "Entwicklung einer klaren Datenstrategie als Erfolgsfaktor für datengetriebene Unternehmen.",
+        "Entwicklung einer ganzheitlichen Datenstrategie, die Datenquellen, Analyseprozesse und konkrete"
+      ],
+      "aliases": []
+    },
+    "datenströme": {
+      "term": "datenströme",
+      "display": "datenströme",
+      "definition": "datenströme: Skalierbarkeit ist notwendig, um wachsende Datenströme effizient zu bewältigen.",
+      "vorkommen_slides": [
+        "pdf_slide_004.json",
+        "pdf_slide_014.json"
+      ],
+      "haeufigkeit": 3,
+      "beispiele": [
+        "Skalierbarkeit ist notwendig, um wachsende Datenströme effizient zu bewältigen.",
+        "Datenströme müssen effizient transportiert und verarbeitet werden,",
+        "Apache Kafka verarbeitet kontinuierliche Datenströme"
+      ],
+      "aliases": []
+    },
+    "datenverarbeitung": {
+      "term": "datenverarbeitung",
+      "display": "datenverarbeitung",
+      "definition": "datenverarbeitung: Die fünf Vs beschreiben zentrale Eigenschaften, die Big Data von herkömmlicher Datenverarbeitung unterscheiden.",
+      "vorkommen_slides": [
+        "pdf_slide_005.json",
+        "pdf_slide_007.json",
+        "pdf_slide_027.json"
+      ],
+      "haeufigkeit": 3,
+      "beispiele": [
+        "Die fünf Vs beschreiben zentrale Eigenschaften, die Big Data von herkömmlicher Datenverarbeitung unterscheiden.",
+        "Im Gegensatz zur traditionellen Datenverarbeitung adressiert Big",
+        "DSGVO fordert transparente Datenverarbeitung."
+      ],
+      "aliases": []
+    },
+    "deep learning": {
+      "term": "deep learning",
+      "display": "deep learning",
+      "definition": "deep learning: Deep Learning verarbeitet hochkomplexe Daten wie Bilder oder",
+      "vorkommen_slides": [
+        "pdf_slide_041.json",
+        "pptx_slide_044.json"
+      ],
+      "haeufigkeit": 4,
+      "beispiele": [
+        "Deep Learning & Neuronale",
+        "Deep Learning & Neuronale",
+        "Deep Learning verarbeitet hochkomplexe Daten wie Bilder oder"
+      ],
+      "aliases": [
+        "deep-learning"
+      ]
+    },
+    "deepfakes": {
+      "term": "deepfakes",
+      "display": "deepfakes",
+      "definition": "deepfakes: Deepfakes sind täuschend echte Medienfälschungen, die durch Deep Learning erstellt werden.",
+      "vorkommen_slides": [
+        "pptx_slide_025.json",
+        "pptx_slide_044.json",
+        "pptx_slide_048.json"
+      ],
+      "haeufigkeit": 6,
+      "beispiele": [
+        "Vermeidung von Reputationsschäden durch manipulierte Aussagen oder Deepfakes.",
+        "Deepfakes & Manipulation",
+        "Deepfakes sind täuschend echte Medienfälschungen, die durch Deep Learning erstellt werden."
+      ],
+      "aliases": []
+    },
+    "den avatar": {
+      "term": "den avatar",
+      "display": "den avatar",
+      "definition": "den avatar: Prävention von Phishing-Fallen, die den Avatar als Köder nutzen.",
+      "vorkommen_slides": [
+        "pptx_slide_025.json",
+        "pptx_slide_041.json"
+      ],
+      "haeufigkeit": 2,
+      "beispiele": [
+        "Prävention von Phishing-Fallen, die den Avatar als Köder nutzen.",
+        "Wir nehmen den Avatar als „krank“, „tot“ oder „falsch“ wahr."
+      ],
+      "aliases": [
+        "den-avatar"
+      ]
+    },
+    "digitale": {
+      "term": "digitale",
+      "display": "digitale",
+      "definition": "digitale: Sie wirken wie digitale Markenbotschafter und werden in Videos, Support und Kampagnen eingesetzt.",
+      "vorkommen_slides": [
+        "pdf_slide_027.json",
+        "pptx_slide_002.json",
+        "pptx_slide_004.json",
+        "pptx_slide_011.json",
+        "pptx_slide_012.json",
+        "pptx_slide_020.json",
+        "pptx_slide_030.json",
+        "pptx_slide_031.json",
+        "pptx_slide_047.json"
+      ],
+      "haeufigkeit": 12,
+      "beispiele": [
+        "digitale Dienstleistungen und datengetriebene Geschäftsmodelle.",
+        "Sie wirken wie digitale Markenbotschafter und werden in Videos, Support und Kampagnen eingesetzt.",
+        "KI-Avatare sind digitale, menschenähnliche Figuren, die Markenkommunikation übernehmen."
+      ],
+      "aliases": []
+    },
+    "edge": {
+      "term": "edge",
+      "display": "edge",
+      "definition": "edge: Edge Computing verarbeitet Daten direkt an der Quelle, statt sie ausschließlich in zentrale Clouds zu senden.",
+      "vorkommen_slides": [
+        "pdf_slide_029.json",
+        "pdf_slide_032.json"
+      ],
+      "haeufigkeit": 4,
+      "beispiele": [
+        "Edge Computing",
+        "Edge Computing",
+        "Edge Computing verarbeitet Daten direkt an der Quelle, statt sie ausschließlich in zentrale Clouds zu senden."
+      ],
+      "aliases": []
+    },
+    "edge computing": {
+      "term": "edge computing",
+      "display": "edge computing",
+      "definition": "edge computing: Edge Computing verarbeitet Daten direkt an der Quelle, statt sie ausschließlich in zentrale Clouds zu senden.",
+      "vorkommen_slides": [
+        "pdf_slide_029.json",
+        "pdf_slide_032.json"
+      ],
+      "haeufigkeit": 4,
+      "beispiele": [
+        "Edge Computing",
+        "Edge Computing",
+        "Edge Computing verarbeitet Daten direkt an der Quelle, statt sie ausschließlich in zentrale Clouds zu senden."
+      ],
+      "aliases": [
+        "edge-computing"
+      ]
+    },
+    "effizienzsteigerung": {
+      "term": "effizienzsteigerung",
+      "display": "effizienzsteigerung",
+      "definition": "effizienzsteigerung: Technologien und Fachpersonal stehen dabei langfristigen Vorteilen wie Effizienzsteigerung und besseren",
+      "vorkommen_slides": [
+        "pdf_slide_048.json",
+        "pptx_slide_017.json"
+      ],
+      "haeufigkeit": 2,
+      "beispiele": [
+        "Technologien und Fachpersonal stehen dabei langfristigen Vorteilen wie Effizienzsteigerung und besseren",
+        "Effizienzsteigerung für den Kunden:"
+      ],
+      "aliases": []
+    },
+    "ethische": {
+      "term": "ethische",
+      "display": "ethische",
+      "definition": "ethische: Datenschutz und ethische Aspekte",
+      "vorkommen_slides": [
+        "pdf_slide_027.json",
+        "pdf_slide_045.json",
+        "pdf_slide_049.json",
+        "pptx_slide_024.json"
+      ],
+      "haeufigkeit": 10,
+      "beispiele": [
+        "Datenschutz und ethische Aspekte",
+        "Datenschutz und ethische Aspekte",
+        "Rechtliche und ethische"
+      ],
+      "aliases": []
+    },
+    "ethische aspekte": {
+      "term": "ethische aspekte",
+      "display": "ethische aspekte",
+      "definition": "ethische aspekte: Datenschutz und ethische Aspekte",
+      "vorkommen_slides": [
+        "pdf_slide_027.json",
+        "pptx_slide_024.json"
+      ],
+      "haeufigkeit": 4,
+      "beispiele": [
+        "Datenschutz und ethische Aspekte",
+        "Datenschutz und ethische Aspekte",
+        "Datenschutz und ethische Aspekte"
+      ],
+      "aliases": [
+        "ethische-aspekte"
+      ]
+    },
+    "ethische verantwortung": {
+      "term": "ethische verantwortung",
+      "display": "ethische verantwortung",
+      "definition": "ethische verantwortung: Weiterentwicklung von Technologien und ethische Verantwortung",
+      "vorkommen_slides": [
+        "pdf_slide_045.json",
+        "pdf_slide_049.json"
+      ],
+      "haeufigkeit": 3,
+      "beispiele": [
+        "Ethische Verantwortung",
+        "Ethische Verantwortung",
+        "Weiterentwicklung von Technologien und ethische Verantwortung"
+      ],
+      "aliases": [
+        "ethische-verantwortung"
+      ]
+    },
+    "frameworks": {
+      "term": "frameworks",
+      "display": "frameworks",
+      "definition": "frameworks: Echtzeit-Analysen sind durch spezialisierte Frameworks",
+      "vorkommen_slides": [
+        "pdf_slide_007.json",
+        "pdf_slide_016.json",
+        "pdf_slide_046.json"
+      ],
+      "haeufigkeit": 4,
+      "beispiele": [
+        "Echtzeit-Analysen sind durch spezialisierte Frameworks",
+        "Moderne Frameworks",
+        "Data Governance Frameworks"
+      ],
+      "aliases": []
+    },
+    "gefunden": {
+      "term": "gefunden",
+      "display": "gefunden",
+      "definition": "gefunden: kein Titel gefunden",
+      "vorkommen_slides": [
+        "pdf_slide_003.json",
+        "pdf_slide_008.json",
+        "pdf_slide_026.json",
+        "pdf_slide_043.json",
+        "pdf_slide_050.json"
+      ],
+      "haeufigkeit": 5,
+      "beispiele": [
+        "kein Titel gefunden",
+        "kein Titel gefunden",
+        "kein Titel gefunden"
+      ],
+      "aliases": []
+    },
+    "gefühl": {
+      "term": "gefühl",
+      "display": "gefühl",
+      "definition": "gefühl: Algorithmen lernen Vorlieben und verstärken das Gefühl von Nähe, Intimität und Wiedererkennung.",
+      "vorkommen_slides": [
+        "pptx_slide_039.json",
+        "pptx_slide_040.json"
+      ],
+      "haeufigkeit": 2,
+      "beispiele": [
+        "Algorithmen lernen Vorlieben und verstärken das Gefühl von Nähe, Intimität und Wiedererkennung.",
+        "Bei nahezu perfektem Realismus entsteht ein Gefühl von Unbehagen."
+      ],
+      "aliases": []
+    },
+    "governance": {
+      "term": "governance",
+      "display": "governance",
+      "definition": "governance: Datenmengen spielen Datenqualität, Zugriffskontrolle und Governance eine entscheidende Rolle für",
+      "vorkommen_slides": [
+        "pdf_slide_015.json",
+        "pdf_slide_046.json",
+        "pptx_slide_044.json"
+      ],
+      "haeufigkeit": 5,
+      "beispiele": [
+        "Datenmengen spielen Datenqualität, Zugriffskontrolle und Governance eine entscheidende Rolle für",
+        "Data Governance Frameworks",
+        "Data Governance Frameworks"
+      ],
+      "aliases": []
+    },
+    "grundlagen": {
+      "term": "grundlagen",
+      "display": "grundlagen",
+      "definition": "grundlagen: Ursprung und Grundlagen der KI",
+      "vorkommen_slides": [
+        "pdf_slide_001.json",
+        "pdf_slide_003.json",
+        "pptx_slide_004.json"
+      ],
+      "haeufigkeit": 4,
+      "beispiele": [
+        "Data Grundlagen und",
+        "01 Grundlagen",
+        "Ursprung und Grundlagen der KI"
+      ],
+      "aliases": []
+    },
+    "herausforderungen": {
+      "term": "herausforderungen",
+      "display": "herausforderungen",
+      "definition": "herausforderungen: Die Präsentation stellt zentrale Konzepte, Technologien und Herausforderungen",
+      "vorkommen_slides": [
+        "pdf_slide_002.json",
+        "pdf_slide_005.json",
+        "pdf_slide_026.json",
+        "pdf_slide_030.json",
+        "pdf_slide_049.json",
+        "pptx_slide_022.json",
+        "pptx_slide_026.json",
+        "pptx_slide_050.json"
+      ],
+      "haeufigkeit": 10,
+      "beispiele": [
+        "Die Präsentation stellt zentrale Konzepte, Technologien und Herausforderungen",
+        "verdeutlichen technische Herausforderungen und strategische Potenziale.",
+        "04 Herausforderungen"
+      ],
+      "aliases": []
+    },
+    "intelligenz": {
+      "term": "intelligenz",
+      "display": "intelligenz",
+      "definition": "intelligenz: Die heutigen KI-Avatare sind das Ergebnis einer langen Entwicklung künstlicher Intelligenz, die mit einfachen Regeln begann.",
+      "vorkommen_slides": [
+        "pdf_slide_032.json",
+        "pptx_slide_004.json",
+        "pptx_slide_012.json",
+        "pptx_slide_038.json"
+      ],
+      "haeufigkeit": 4,
+      "beispiele": [
+        "Künstliche Intelligenz (KI) verbessert Mustererkennung.",
+        "Die heutigen KI-Avatare sind das Ergebnis einer langen Entwicklung künstlicher Intelligenz, die mit einfachen Regeln begann.",
+        "Sie erzeugen Sprache, Mimik und Gestik mithilfe künstlicher Intelligenz."
+      ],
+      "aliases": []
+    },
+    "interaktion wirkt": {
+      "term": "interaktion wirkt",
+      "display": "interaktion wirkt",
+      "definition": "interaktion wirkt: Die Interaktion wirkt authentischer als klassische Massenwerbung.",
+      "vorkommen_slides": [
+        "pptx_slide_012.json",
+        "pptx_slide_014.json"
+      ],
+      "haeufigkeit": 2,
+      "beispiele": [
+        "Die Interaktion wirkt täuschend echt und personalisiert.",
+        "Die Interaktion wirkt authentischer als klassische Massenwerbung."
+      ],
+      "aliases": [
+        "interaktion-wirkt"
+      ]
+    },
+    "interaktive": {
+      "term": "interaktive",
+      "display": "interaktive",
+      "definition": "interaktive: Interaktive Diagramme erlauben eine tiefere Exploration der Daten, indem Nutzer verschiedene Perspektiven oder",
+      "vorkommen_slides": [
+        "pdf_slide_042.json",
+        "pptx_slide_005.json",
+        "pptx_slide_035.json",
+        "pptx_slide_037.json"
+      ],
+      "haeufigkeit": 4,
+      "beispiele": [
+        "Interaktive Diagramme erlauben eine tiefere Exploration der Daten, indem Nutzer verschiedene Perspektiven oder",
+        "Frühe KI-Avatare erschienen in Computerspielen als interaktive Figuren.",
+        "Im E-Commerce ersetzen Avatare häufig statische FAQ-Seiten und bieten eine interaktive Beratung."
+      ],
+      "aliases": []
+    },
+    "kein": {
+      "term": "kein",
+      "display": "kein",
+      "definition": "kein: kein Titel gefunden",
+      "vorkommen_slides": [
+        "pdf_slide_003.json",
+        "pdf_slide_008.json",
+        "pdf_slide_026.json",
+        "pdf_slide_043.json",
+        "pdf_slide_050.json"
+      ],
+      "haeufigkeit": 5,
+      "beispiele": [
+        "kein Titel gefunden",
+        "kein Titel gefunden",
+        "kein Titel gefunden"
+      ],
+      "aliases": []
+    },
+    "kein titel": {
+      "term": "kein titel",
+      "display": "kein titel",
+      "definition": "kein titel: kein Titel gefunden",
+      "vorkommen_slides": [
+        "pdf_slide_003.json",
+        "pdf_slide_008.json",
+        "pdf_slide_026.json",
+        "pdf_slide_043.json",
+        "pdf_slide_050.json"
+      ],
+      "haeufigkeit": 5,
+      "beispiele": [
+        "kein Titel gefunden",
+        "kein Titel gefunden",
+        "kein Titel gefunden"
+      ],
+      "aliases": [
+        "kein-titel"
+      ]
+    },
+    "ki avatare": {
+      "term": "ki avatare",
+      "display": "ki avatare",
+      "definition": "ki avatare: KI- Avatare im Marketing verstehen",
+      "vorkommen_slides": [
+        "pptx_slide_001.json",
+        "pptx_slide_002.json",
+        "pptx_slide_004.json",
+        "pptx_slide_005.json",
+        "pptx_slide_006.json",
+        "pptx_slide_009.json",
+        "pptx_slide_011.json",
+        "pptx_slide_014.json",
+        "pptx_slide_015.json",
+        "pptx_slide_016.json",
+        "pptx_slide_023.json",
+        "pptx_slide_027.json",
+        "pptx_slide_028.json",
+        "pptx_slide_029.json",
+        "pptx_slide_031.json",
+        "pptx_slide_032.json",
+        "pptx_slide_034.json",
+        "pptx_slide_039.json",
+        "pptx_slide_050.json"
+      ],
+      "haeufigkeit": 26,
+      "beispiele": [
+        "KI-Avatare",
+        "KI-Avatare",
+        "KI- Avatare im Marketing verstehen"
+      ],
+      "aliases": [
+        "ki-avatare"
+      ]
+    },
+    "ki avataren": {
+      "term": "ki avataren",
+      "display": "ki avataren",
+      "definition": "ki avataren: 02 Einsatz von KI-Avataren im Marketing",
+      "vorkommen_slides": [
+        "pptx_slide_003.json",
+        "pptx_slide_010.json",
+        "pptx_slide_011.json",
+        "pptx_slide_024.json",
+        "pptx_slide_026.json",
+        "pptx_slide_029.json",
+        "pptx_slide_046.json",
+        "pptx_slide_048.json"
+      ],
+      "haeufigkeit": 12,
+      "beispiele": [
+        "01 Entwicklung von KI-Avataren",
+        "01 Entwicklung von KI-Avataren",
+        "02 Einsatz von KI-Avataren im Marketing"
+      ],
+      "aliases": [
+        "ki-avataren"
+      ]
+    },
+    "kommunikationsformen": {
+      "term": "kommunikationsformen",
+      "display": "kommunikationsformen",
+      "definition": "kommunikationsformen: Die Technologie entwickelt sich dynamisch weiter und prägt neue Kommunikationsformen.",
+      "vorkommen_slides": [
+        "pptx_slide_002.json",
+        "pptx_slide_004.json"
+      ],
+      "haeufigkeit": 2,
+      "beispiele": [
+        "Die Technologie entwickelt sich dynamisch weiter und prägt neue Kommunikationsformen.",
+        "Die Technologie entwickelt sich dynamisch weiter und prägt neue Kommunikationsformen."
+      ],
+      "aliases": []
+    },
+    "komponenten": {
+      "term": "komponenten",
+      "display": "komponenten",
+      "definition": "komponenten: Es besteht aus mehreren Komponenten, die Speicherung,",
+      "vorkommen_slides": [
+        "pdf_slide_008.json",
+        "pdf_slide_011.json"
+      ],
+      "haeufigkeit": 2,
+      "beispiele": [
+        "Komponenten",
+        "Es besteht aus mehreren Komponenten, die Speicherung,"
+      ],
+      "aliases": []
+    },
+    "kreativberufe": {
+      "term": "kreativberufe",
+      "display": "kreativberufe",
+      "definition": "kreativberufe: Kosteneffizienz erhöht den Druck auf klassische Kreativberufe.",
+      "vorkommen_slides": [
+        "pptx_slide_028.json",
+        "pptx_slide_029.json"
+      ],
+      "haeufigkeit": 3,
+      "beispiele": [
+        "Strukturelle Wandel der Kreativberufe",
+        "Strukturelle Wandel der Kreativberufe",
+        "Kosteneffizienz erhöht den Druck auf klassische Kreativberufe."
+      ],
+      "aliases": []
+    },
+    "kreative arbeiten": {
+      "term": "kreative arbeiten",
+      "display": "kreative arbeiten",
+      "definition": "kreative arbeiten: Entwickler und Kreative arbeiten zunehmend interdisziplinär.",
+      "vorkommen_slides": [
+        "pptx_slide_027.json",
+        "pptx_slide_032.json"
+      ],
+      "haeufigkeit": 2,
+      "beispiele": [
+        "Entwickler und Kreative arbeiten zunehmend interdisziplinär.",
+        "Kreative arbeiten als „Human-in-the-Loop“ mit KI-Systemen."
+      ],
+      "aliases": [
+        "kreative-arbeiten"
+      ]
+    },
+    "kulturelle": {
+      "term": "kulturelle",
+      "display": "kulturelle",
+      "definition": "kulturelle: Kulturelle Werte beeinflussen emotionale Bindung.",
+      "vorkommen_slides": [
+        "pptx_slide_045.json",
+        "pptx_slide_046.json",
+        "pptx_slide_047.json"
+      ],
+      "haeufigkeit": 4,
+      "beispiele": [
+        "05 Kulturelle Unterschiede",
+        "05 Kulturelle Unterschiede",
+        "Kulturelle Werte beeinflussen emotionale Bindung."
+      ],
+      "aliases": []
+    },
+    "kundensegmentierung": {
+      "term": "kundensegmentierung",
+      "display": "kundensegmentierung",
+      "definition": "kundensegmentierung: Kundensegmentierung verbessert gezielte Marketingmaßnahmen und ermöglicht eine genauere Ansprache",
+      "vorkommen_slides": [
+        "pdf_slide_022.json",
+        "pdf_slide_024.json",
+        "pdf_slide_025.json"
+      ],
+      "haeufigkeit": 3,
+      "beispiele": [
+        "Kundensegmentierung & Marketing",
+        "Kundensegmentierung verbessert gezielte Marketingmaßnahmen und ermöglicht eine genauere Ansprache",
+        "Kundensegmentierung ermöglicht personalisierte"
+      ],
+      "aliases": []
+    },
+    "künstlicher": {
+      "term": "künstlicher",
+      "display": "künstlicher",
+      "definition": "künstlicher: Die heutigen KI-Avatare sind das Ergebnis einer langen Entwicklung künstlicher Intelligenz, die mit einfachen Regeln begann.",
+      "vorkommen_slides": [
+        "pptx_slide_004.json",
+        "pptx_slide_012.json"
+      ],
+      "haeufigkeit": 2,
+      "beispiele": [
+        "Die heutigen KI-Avatare sind das Ergebnis einer langen Entwicklung künstlicher Intelligenz, die mit einfachen Regeln begann.",
+        "Sie erzeugen Sprache, Mimik und Gestik mithilfe künstlicher Intelligenz."
+      ],
+      "aliases": []
+    },
+    "künstlicher intelligenz": {
+      "term": "künstlicher intelligenz",
+      "display": "künstlicher intelligenz",
+      "definition": "künstlicher intelligenz: Die heutigen KI-Avatare sind das Ergebnis einer langen Entwicklung künstlicher Intelligenz, die mit einfachen Regeln begann.",
+      "vorkommen_slides": [
+        "pptx_slide_004.json",
+        "pptx_slide_012.json"
+      ],
+      "haeufigkeit": 2,
+      "beispiele": [
+        "Die heutigen KI-Avatare sind das Ergebnis einer langen Entwicklung künstlicher Intelligenz, die mit einfachen Regeln begann.",
+        "Sie erzeugen Sprache, Mimik und Gestik mithilfe künstlicher Intelligenz."
+      ],
+      "aliases": [
+        "künstlicher-intelligenz"
+      ]
+    },
+    "leistungsfähige infrastruktur": {
+      "term": "leistungsfähige infrastruktur",
+      "display": "leistungsfähige infrastruktur",
+      "definition": "leistungsfähige infrastruktur: Big Data erfordert leistungsfähige Infrastruktur und qualifiziertes",
+      "vorkommen_slides": [
+        "pdf_slide_030.json",
+        "pptx_slide_026.json"
+      ],
+      "haeufigkeit": 2,
+      "beispiele": [
+        "Big Data erfordert leistungsfähige Infrastruktur und qualifiziertes",
+        "Echtzeit-Rendering benötigt leistungsfähige Infrastruktur."
+      ],
+      "aliases": [
+        "leistungsfähige-infrastruktur"
+      ]
+    },
+    "llms": {
+      "term": "llms",
+      "display": "llms",
+      "definition": "llms: Large Language Models (LLMs) ermöglichen natürliche Textgenerierung.",
+      "vorkommen_slides": [
+        "pptx_slide_006.json",
+        "pptx_slide_007.json"
+      ],
+      "haeufigkeit": 3,
+      "beispiele": [
+        "Large Language Models (LLMs) ermöglichen natürliche Textgenerierung.",
+        "Technologie dahinter –LLMs & Generative Visuals",
+        "Technologie dahinter –LLMs & Generative Visuals"
+      ],
+      "aliases": []
+    },
+    "machine learning": {
+      "term": "machine learning",
+      "display": "machine learning",
+      "definition": "machine learning: kombinieren verteilte Verarbeitung mit Machine Learning und Echtzeit-Algorithmen.",
+      "vorkommen_slides": [
+        "pdf_slide_012.json",
+        "pdf_slide_016.json",
+        "pdf_slide_040.json",
+        "pptx_slide_005.json"
+      ],
+      "haeufigkeit": 6,
+      "beispiele": [
+        "Bibliotheken unterstützen Machine Learning und Graph-Analysen.",
+        "kombinieren verteilte Verarbeitung mit Machine Learning und Echtzeit-Algorithmen.",
+        "Machine Learning Algorithmen identifizieren Muster und Prognosen."
+      ],
+      "aliases": [
+        "machine-learning"
+      ]
+    },
+    "markenkommunikation übernehmen": {
+      "term": "markenkommunikation übernehmen",
+      "display": "markenkommunikation übernehmen",
+      "definition": "markenkommunikation übernehmen: KI-Avatare sind digitale, menschenähnliche Figuren, die Markenkommunikation übernehmen.",
+      "vorkommen_slides": [
+        "pptx_slide_002.json",
+        "pptx_slide_004.json"
+      ],
+      "haeufigkeit": 2,
+      "beispiele": [
+        "KI-Avatare sind digitale, menschenähnliche Figuren, die Markenkommunikation übernehmen.",
+        "KI-Avatare sind digitale, menschenähnliche Figuren, die Markenkommunikation übernehmen."
+      ],
+      "aliases": [
+        "markenkommunikation-übernehmen"
+      ]
+    },
+    "marketing": {
+      "term": "marketing",
+      "display": "marketing",
+      "definition": "marketing: Kundensegmentierung & Marketing",
+      "vorkommen_slides": [
+        "pdf_slide_022.json",
+        "pdf_slide_025.json",
+        "pptx_slide_001.json",
+        "pptx_slide_005.json",
+        "pptx_slide_010.json",
+        "pptx_slide_011.json",
+        "pptx_slide_039.json",
+        "pptx_slide_040.json",
+        "pptx_slide_042.json",
+        "pptx_slide_044.json",
+        "pptx_slide_047.json"
+      ],
+      "haeufigkeit": 15,
+      "beispiele": [
+        "Kundensegmentierung & Marketing",
+        "Marketing & Kundenmanagement",
+        "Marketing & Kundenmanagement"
+      ],
+      "aliases": []
+    },
+    "marketinginhalten": {
+      "term": "marketinginhalten",
+      "display": "marketinginhalten",
+      "definition": "marketinginhalten: Unternehmen nutzen sie zur effizienten Skalierung von Marketinginhalten.",
+      "vorkommen_slides": [
+        "pptx_slide_002.json",
+        "pptx_slide_004.json"
+      ],
+      "haeufigkeit": 2,
+      "beispiele": [
+        "Unternehmen nutzen sie zur effizienten Skalierung von Marketinginhalten.",
+        "Unternehmen nutzen sie zur effizienten Skalierung von Marketinginhalten."
+      ],
+      "aliases": []
+    },
+    "neue kommunikationsformen": {
+      "term": "neue kommunikationsformen",
+      "display": "neue kommunikationsformen",
+      "definition": "neue kommunikationsformen: Die Technologie entwickelt sich dynamisch weiter und prägt neue Kommunikationsformen.",
+      "vorkommen_slides": [
+        "pptx_slide_002.json",
+        "pptx_slide_004.json"
+      ],
+      "haeufigkeit": 2,
+      "beispiele": [
+        "Die Technologie entwickelt sich dynamisch weiter und prägt neue Kommunikationsformen.",
+        "Die Technologie entwickelt sich dynamisch weiter und prägt neue Kommunikationsformen."
+      ],
+      "aliases": [
+        "neue-kommunikationsformen"
+      ]
+    },
+    "organisation": {
+      "term": "organisation",
+      "display": "organisation",
+      "definition": "organisation: Ohne klare Organisation können Projekte scheitern.",
+      "vorkommen_slides": [
+        "pdf_slide_030.json",
+        "pdf_slide_043.json"
+      ],
+      "haeufigkeit": 2,
+      "beispiele": [
+        "Ohne klare Organisation können Projekte scheitern.",
+        "06 Ethik, Recht & Organisation"
+      ],
+      "aliases": []
+    },
+    "personalisierte": {
+      "term": "personalisierte",
+      "display": "personalisierte",
+      "definition": "personalisierte: Analyse medizinischer Daten unterstützt personalisierte Therapien.",
+      "vorkommen_slides": [
+        "pdf_slide_019.json",
+        "pdf_slide_020.json",
+        "pdf_slide_024.json",
+        "pdf_slide_025.json",
+        "pptx_slide_002.json",
+        "pptx_slide_004.json",
+        "pptx_slide_011.json",
+        "pptx_slide_013.json",
+        "pptx_slide_014.json",
+        "pptx_slide_015.json",
+        "pptx_slide_023.json",
+        "pptx_slide_035.json",
+        "pptx_slide_036.json",
+        "pptx_slide_038.json"
+      ],
+      "haeufigkeit": 16,
+      "beispiele": [
+        "Analyse medizinischer Daten unterstützt personalisierte Therapien.",
+        "Personalisierte Medizin",
+        "Personalisierte Angebote und Prognosen"
+      ],
+      "aliases": []
+    },
+    "personalisierte kommunikation": {
+      "term": "personalisierte kommunikation",
+      "display": "personalisierte kommunikation",
+      "definition": "personalisierte kommunikation: Marken benötigen schnelle Produktion, konsistente Botschaften und personalisierte Kommunikation in großem Maßstab.",
+      "vorkommen_slides": [
+        "pptx_slide_011.json",
+        "pptx_slide_014.json",
+        "pptx_slide_015.json"
+      ],
+      "haeufigkeit": 3,
+      "beispiele": [
+        "Marken benötigen schnelle Produktion, konsistente Botschaften und personalisierte Kommunikation in großem Maßstab.",
+        "Personalisierte Kommunikation stärkt Vertrauen und Markenbindung.",
+        "Gleichzeitig bleibt eine personalisierte Kommunikation erhalten."
+      ],
+      "aliases": [
+        "personalisierte-kommunikation"
+      ]
+    },
+    "personalisierung": {
+      "term": "personalisierung",
+      "display": "personalisierung",
+      "definition": "personalisierung: Gleichzeitig kann Personalisierung die Wirksamkeit steigern, weil Botschaften relevanter wirken.",
+      "vorkommen_slides": [
+        "pptx_slide_014.json",
+        "pptx_slide_023.json"
+      ],
+      "haeufigkeit": 3,
+      "beispiele": [
+        "Personalisierung von Kundenerlebnissen",
+        "Personalisierung von Kundenerlebnissen",
+        "Gleichzeitig kann Personalisierung die Wirksamkeit steigern, weil Botschaften relevanter wirken."
+      ],
+      "aliases": []
+    },
+    "plattformen": {
+      "term": "plattformen",
+      "display": "plattformen",
+      "definition": "plattformen: Daten entstehen kontinuierlich aus digitalen Plattformen, Sensoren und Transaktionssystemen.",
+      "vorkommen_slides": [
+        "pdf_slide_002.json",
+        "pdf_slide_011.json",
+        "pdf_slide_031.json",
+        "pdf_slide_037.json",
+        "pptx_slide_013.json",
+        "pptx_slide_036.json"
+      ],
+      "haeufigkeit": 9,
+      "beispiele": [
+        "Daten entstehen kontinuierlich aus digitalen Plattformen, Sensoren und Transaktionssystemen.",
+        "Hadoop war eine der ersten Plattformen zur verteilten Verarbeitung großer",
+        "Anwendungen sowie den effizienten Austausch von Daten zwischen Plattformen."
+      ],
+      "aliases": []
+    },
+    "realismus": {
+      "term": "realismus",
+      "display": "realismus",
+      "definition": "realismus: Kurz vor perfektem Realismus kippt die Reaktion jedoch oft ins Negative, was im Marketing problematisch sein kann.",
+      "vorkommen_slides": [
+        "pptx_slide_005.json",
+        "pptx_slide_040.json",
+        "pptx_slide_043.json"
+      ],
+      "haeufigkeit": 6,
+      "beispiele": [
+        "Die Integration von Sprach- und Bilderkennung erhöhte den Realismus.",
+        "Kurz vor perfektem Realismus kippt die Reaktion jedoch oft ins Negative, was im Marketing problematisch sein kann.",
+        "Bei nahezu perfektem Realismus entsteht ein Gefühl von Unbehagen."
+      ],
+      "aliases": []
+    },
+    "reputationsschäden": {
+      "term": "reputationsschäden",
+      "display": "reputationsschäden",
+      "definition": "reputationsschäden: Im Marketing können sie zu massiven Reputationsschäden führen, wenn Markenidentität oder Testimonials missbraucht werden.",
+      "vorkommen_slides": [
+        "pptx_slide_025.json",
+        "pptx_slide_044.json"
+      ],
+      "haeufigkeit": 2,
+      "beispiele": [
+        "Vermeidung von Reputationsschäden durch manipulierte Aussagen oder Deepfakes.",
+        "Im Marketing können sie zu massiven Reputationsschäden führen, wenn Markenidentität oder Testimonials missbraucht werden.."
+      ],
+      "aliases": []
+    },
+    "science": {
+      "term": "science",
+      "display": "science",
+      "definition": "science: Der Data Science Lifecycle",
+      "vorkommen_slides": [
+        "pdf_slide_038.json",
+        "pdf_slide_039.json"
+      ],
+      "haeufigkeit": 5,
+      "beispiele": [
+        "05 Data Science &",
+        "05 Data Science &",
+        "Der Data Science Lifecycle"
+      ],
+      "aliases": []
+    },
+    "sind digitale": {
+      "term": "sind digitale",
+      "display": "sind digitale",
+      "definition": "sind digitale: KI-generierte Werbe-Avatare sind digitale Figuren, die in Videos oder Dialogsystemen als Markenrepräsentanten auftreten.",
+      "vorkommen_slides": [
+        "pptx_slide_002.json",
+        "pptx_slide_004.json",
+        "pptx_slide_012.json"
+      ],
+      "haeufigkeit": 3,
+      "beispiele": [
+        "KI-Avatare sind digitale, menschenähnliche Figuren, die Markenkommunikation übernehmen.",
+        "KI-Avatare sind digitale, menschenähnliche Figuren, die Markenkommunikation übernehmen.",
+        "KI-generierte Werbe-Avatare sind digitale Figuren, die in Videos oder Dialogsystemen als Markenrepräsentanten auftreten."
+      ],
+      "aliases": [
+        "sind-digitale"
+      ]
+    },
+    "social media": {
+      "term": "social media",
+      "display": "social media",
+      "definition": "social media: Avatare verbinden Web, E-Commerce, Social Media und Point of Sale in einer durchgängigen Customer Journey.",
+      "vorkommen_slides": [
+        "pptx_slide_034.json",
+        "pptx_slide_036.json"
+      ],
+      "haeufigkeit": 4,
+      "beispiele": [
+        "Avatare verbinden Web, E-Commerce, Social Media und Point of Sale in einer durchgängigen Customer Journey.",
+        "Drei Säulen der Integration- Social Media",
+        "Drei Säulen der Integration- Social Media"
+      ],
+      "aliases": [
+        "social-media"
+      ]
+    },
+    "speichert daten": {
+      "term": "speichert daten",
+      "display": "speichert daten",
+      "definition": "speichert daten: Hadoop Distributed File System speichert Daten verteilt über viele Knoten.",
+      "vorkommen_slides": [
+        "pdf_slide_011.json",
+        "pdf_slide_012.json"
+      ],
+      "haeufigkeit": 2,
+      "beispiele": [
+        "Hadoop Distributed File System speichert Daten verteilt über viele Knoten.",
+        "Spark speichert Daten im Arbeitsspeicher statt auf Festplatten."
+      ],
+      "aliases": [
+        "speichert-daten"
+      ]
+    },
+    "strukturierte planung": {
+      "term": "strukturierte planung",
+      "display": "strukturierte planung",
+      "definition": "strukturierte planung: Die erfolgreiche Einführung von Big Data erfordert strukturierte Planung und agile Umsetzung.",
+      "vorkommen_slides": [
+        "pdf_slide_031.json",
+        "pdf_slide_036.json"
+      ],
+      "haeufigkeit": 2,
+      "beispiele": [
+        "Eine strukturierte Planung hilft, Ziele zu definieren und Daten systematisch zu nutzen",
+        "Die erfolgreiche Einführung von Big Data erfordert strukturierte Planung und agile Umsetzung."
+      ],
+      "aliases": [
+        "strukturierte-planung"
+      ]
+    },
+    "systeme ermöglichen": {
+      "term": "systeme ermöglichen",
+      "display": "systeme ermöglichen",
+      "definition": "systeme ermöglichen: Streaming-Systeme ermöglichen nahezu sofortige Verarbeitung.",
+      "vorkommen_slides": [
+        "pdf_slide_013.json",
+        "pdf_slide_014.json"
+      ],
+      "haeufigkeit": 2,
+      "beispiele": [
+        "Key-Value-Systeme ermöglichen extrem schnelle Abfragen.",
+        "Streaming-Systeme ermöglichen nahezu sofortige Verarbeitung."
+      ],
+      "aliases": [
+        "systeme-ermöglichen"
+      ]
+    },
+    "technologie": {
+      "term": "technologie",
+      "display": "technologie",
+      "definition": "technologie: Technologie ermöglicht es Unternehmen, wertvolle Erkenntnisse zu gewinnen, die mit herkömmlichen",
+      "vorkommen_slides": [
+        "pdf_slide_002.json",
+        "pdf_slide_035.json",
+        "pdf_slide_048.json",
+        "pptx_slide_002.json",
+        "pptx_slide_004.json",
+        "pptx_slide_007.json",
+        "pptx_slide_008.json",
+        "pptx_slide_027.json"
+      ],
+      "haeufigkeit": 11,
+      "beispiele": [
+        "Technologie ermöglicht es Unternehmen, wertvolle Erkenntnisse zu gewinnen, die mit herkömmlichen",
+        "Technologie allein",
+        "Hohe Anfangsinvestitionen in Technologie und Personal."
+      ],
+      "aliases": []
+    },
+    "technologie dahinter": {
+      "term": "technologie dahinter",
+      "display": "technologie dahinter",
+      "definition": "technologie dahinter: Technologie dahinter –LLMs & Generative Visuals",
+      "vorkommen_slides": [
+        "pptx_slide_007.json",
+        "pptx_slide_008.json"
+      ],
+      "haeufigkeit": 4,
+      "beispiele": [
+        "Technologie dahinter –LLMs & Generative Visuals",
+        "Technologie dahinter –LLMs & Generative Visuals",
+        "Technologie dahinter – TTS & “Animation”"
+      ],
+      "aliases": [
+        "technologie-dahinter"
+      ]
+    },
+    "technologie entwickelt": {
+      "term": "technologie entwickelt",
+      "display": "technologie entwickelt",
+      "definition": "technologie entwickelt: Die Technologie entwickelt sich dynamisch weiter und prägt neue Kommunikationsformen.",
+      "vorkommen_slides": [
+        "pptx_slide_002.json",
+        "pptx_slide_004.json"
+      ],
+      "haeufigkeit": 2,
+      "beispiele": [
+        "Die Technologie entwickelt sich dynamisch weiter und prägt neue Kommunikationsformen.",
+        "Die Technologie entwickelt sich dynamisch weiter und prägt neue Kommunikationsformen."
+      ],
+      "aliases": [
+        "technologie-entwickelt"
+      ]
+    },
+    "technologische": {
+      "term": "technologische",
+      "display": "technologische",
+      "definition": "technologische: Technologische Fortschritte erweitern kontinuierlich die Möglichkeiten datengetriebener Analysen.",
+      "vorkommen_slides": [
+        "pdf_slide_008.json",
+        "pdf_slide_032.json",
+        "pdf_slide_036.json",
+        "pptx_slide_006.json"
+      ],
+      "haeufigkeit": 5,
+      "beispiele": [
+        "02 Technologische",
+        "Technologische Fortschritte erweitern kontinuierlich die Möglichkeiten datengetriebener Analysen.",
+        "Technologische"
+      ],
+      "aliases": []
+    },
+    "technologische fortschritte": {
+      "term": "technologische fortschritte",
+      "display": "technologische fortschritte",
+      "definition": "technologische fortschritte: Technologische Fortschritte erweitern kontinuierlich die Möglichkeiten datengetriebener Analysen.",
+      "vorkommen_slides": [
+        "pdf_slide_032.json",
+        "pptx_slide_006.json"
+      ],
+      "haeufigkeit": 3,
+      "beispiele": [
+        "Technologische Fortschritte erweitern kontinuierlich die Möglichkeiten datengetriebener Analysen.",
+        "Technologische Fortschritte und Meilensteine",
+        "Technologische Fortschritte und Meilensteine"
+      ],
+      "aliases": [
+        "technologische-fortschritte"
+      ]
+    },
+    "titel": {
+      "term": "titel",
+      "display": "titel",
+      "definition": "titel: kein Titel gefunden",
+      "vorkommen_slides": [
+        "pdf_slide_003.json",
+        "pdf_slide_008.json",
+        "pdf_slide_026.json",
+        "pdf_slide_043.json",
+        "pdf_slide_050.json"
+      ],
+      "haeufigkeit": 5,
+      "beispiele": [
+        "kein Titel gefunden",
+        "kein Titel gefunden",
+        "kein Titel gefunden"
+      ],
+      "aliases": []
+    },
+    "titel gefunden": {
+      "term": "titel gefunden",
+      "display": "titel gefunden",
+      "definition": "titel gefunden: kein Titel gefunden",
+      "vorkommen_slides": [
+        "pdf_slide_003.json",
+        "pdf_slide_008.json",
+        "pdf_slide_026.json",
+        "pdf_slide_043.json",
+        "pdf_slide_050.json"
+      ],
+      "haeufigkeit": 5,
+      "beispiele": [
+        "kein Titel gefunden",
+        "kein Titel gefunden",
+        "kein Titel gefunden"
+      ],
+      "aliases": [
+        "titel-gefunden"
+      ]
+    },
+    "tts": {
+      "term": "tts",
+      "display": "tts",
+      "definition": "tts: Text-to-Speech-Systeme (TTS) erzeugen realistische synthetische Stimmen.",
+      "vorkommen_slides": [
+        "pptx_slide_006.json",
+        "pptx_slide_008.json"
+      ],
+      "haeufigkeit": 3,
+      "beispiele": [
+        "Text-to-Speech-Systeme (TTS) erzeugen realistische synthetische Stimmen.",
+        "Technologie dahinter – TTS & “Animation”",
+        "Technologie dahinter – TTS & “Animation”"
+      ],
+      "aliases": []
+    },
+    "uncanny": {
+      "term": "uncanny",
+      "display": "uncanny",
+      "definition": "uncanny: Dieses Phänomen wird als „Uncanny Valley“ bezeichnet.",
+      "vorkommen_slides": [
+        "pptx_slide_040.json",
+        "pptx_slide_041.json",
+        "pptx_slide_042.json",
+        "pptx_slide_043.json"
+      ],
+      "haeufigkeit": 7,
+      "beispiele": [
+        "Uncanny Valley:",
+        "Uncanny Valley:",
+        "Dieses Phänomen wird als „Uncanny Valley“ bezeichnet."
+      ],
+      "aliases": []
+    },
+    "unterschiede": {
+      "term": "unterschiede",
+      "display": "unterschiede",
+      "definition": "unterschiede: Unterschiede zu traditionellen Datenverarbeitungstechniken",
+      "vorkommen_slides": [
+        "pdf_slide_007.json",
+        "pptx_slide_045.json"
+      ],
+      "haeufigkeit": 4,
+      "beispiele": [
+        "Unterschiede zu traditionellen Datenverarbeitungstechniken",
+        "Unterschiede zu traditionellen Datenverarbeitungstechniken",
+        "05 Kulturelle Unterschiede"
+      ],
+      "aliases": []
+    },
+    "verstehen": {
+      "term": "verstehen",
+      "display": "verstehen",
+      "definition": "verstehen: Kontinuierliche Weiterbildung stellt sicher, dass Mitarbeitende neue Technologien verstehen und Unternehmen",
+      "vorkommen_slides": [
+        "pdf_slide_025.json",
+        "pdf_slide_034.json",
+        "pptx_slide_001.json",
+        "pptx_slide_024.json"
+      ],
+      "haeufigkeit": 4,
+      "beispiele": [
+        "Unternehmen verstehen",
+        "Kontinuierliche Weiterbildung stellt sicher, dass Mitarbeitende neue Technologien verstehen und Unternehmen",
+        "KI- Avatare im Marketing verstehen"
+      ],
+      "aliases": []
+    },
+    "werden automatisiert": {
+      "term": "werden automatisiert",
+      "display": "werden automatisiert",
+      "definition": "werden automatisiert: Standardisierte Produktionsaufgaben werden automatisiert.",
+      "vorkommen_slides": [
+        "pptx_slide_023.json",
+        "pptx_slide_028.json"
+      ],
+      "haeufigkeit": 2,
+      "beispiele": [
+        "Routineaufgaben werden automatisiert ausgeführt.",
+        "Standardisierte Produktionsaufgaben werden automatisiert."
+      ],
+      "aliases": [
+        "werden-automatisiert"
+      ]
+    },
+    "zukunftsperspektiven": {
+      "term": "zukunftsperspektiven",
+      "display": "zukunftsperspektiven",
+      "definition": "zukunftsperspektiven: 04 Zukunftsperspektiven",
+      "vorkommen_slides": [
+        "pdf_slide_026.json",
+        "pptx_slide_033.json"
+      ],
+      "haeufigkeit": 3,
+      "beispiele": [
+        "Zukunftsperspektiven",
+        "04 Zukunftsperspektiven",
+        "04 Zukunftsperspektiven"
+      ],
+      "aliases": []
+    }
+  }
+}

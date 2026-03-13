@@ -1,0 +1,1012 @@
+{
+  "meta": {
+    "modell": "t5-small",
+    "min_words_for_summary": 40,
+    "fallback_short_text_words": 60,
+    "created_at_epoch": 1773341862,
+    "input_dir": "data\\processed",
+    "output_dir": "data\\processed"
+  },
+  "slides": {
+    "pdf_slide_001.json": {
+      "foliennummer": 1,
+      "ueberschrift": "Big Data",
+      "quelle_json": "data\\processed\\pdf_slide_001.json",
+      "modus": "fallback",
+      "wortanzahl": 12,
+      "kurzer_originaltext": "Big Data\nBig Data\nUmfassender Überblick zu Big\nData Grundlagen und\nTechnologien",
+      "summary": "",
+      "modell": "t5-small"
+    },
+    "pdf_slide_002.json": {
+      "foliennummer": 2,
+      "ueberschrift": "Einführung",
+      "quelle_json": "data\\processed\\pdf_slide_002.json",
+      "modus": "t5",
+      "wortanzahl": 80,
+      "kurzer_originaltext": "",
+      "summary": "Einführung Big Data bezeichnet die Verarbeitung und Analyse großer, komplexer und vielfältiger Datenmengen . die mit herkömmlichen Methoden nicht erreichbar sind .",
+      "modell": "t5-small"
+    },
+    "pdf_slide_003.json": {
+      "foliennummer": 3,
+      "ueberschrift": "kein Titel gefunden",
+      "quelle_json": "data\\processed\\pdf_slide_003.json",
+      "modus": "fallback",
+      "wortanzahl": 8,
+      "kurzer_originaltext": "kein Titel gefunden\n01 Grundlagen\nvon Big Data",
+      "summary": "",
+      "modell": "t5-small"
+    },
+    "pdf_slide_004.json": {
+      "foliennummer": 4,
+      "ueberschrift": "Definition und Merkmale von Big Data",
+      "quelle_json": "data\\processed\\pdf_slide_004.json",
+      "modus": "t5",
+      "wortanzahl": 83,
+      "kurzer_originaltext": "",
+      "summary": "Definition und Merkmale von Big Data Die Herausforderung besteht darin, diese Daten sinnvoll zu speichern, zu verarbeiten und auszuwerten, um daraus belastbare Erkenntnisse zu gewinnen.",
+      "modell": "t5-small"
+    },
+    "pdf_slide_005.json": {
+      "foliennummer": 5,
+      "ueberschrift": "Die 5Vs: Volume, Velocity, Variety, Veracity, Value",
+      "quelle_json": "data\\processed\\pdf_slide_005.json",
+      "modus": "t5",
+      "wortanzahl": 71,
+      "kurzer_originaltext": "",
+      "summary": "die 5Vs: Volume, Velocity, Variety, Veracity, Value Die fünf Vs beschreiben zentrale Eigenschaften, die Big Data von herkömmlicher Datenverarbeitung unterscheiden. Sie verdeutlichen technische Herausforderungen und strategische Potenziale.",
+      "modell": "t5-small"
+    },
+    "pdf_slide_006.json": {
+      "foliennummer": 6,
+      "ueberschrift": "Die 5Vs: Volume, Velocity, Variety, Veracity, Value",
+      "quelle_json": "data\\processed\\pdf_slide_006.json",
+      "modus": "fallback",
+      "wortanzahl": 14,
+      "kurzer_originaltext": "Die 5Vs: Volume, Velocity, Variety, Veracity, Value\nDie 5Vs: Volume, Velocity, Variety, Veracity, Value",
+      "summary": "",
+      "modell": "t5-small"
+    },
+    "pdf_slide_007.json": {
+      "foliennummer": 7,
+      "ueberschrift": "Unterschiede zu traditionellen Datenverarbeitungstechniken",
+      "quelle_json": "data\\processed\\pdf_slide_007.json",
+      "modus": "t5",
+      "wortanzahl": 60,
+      "kurzer_originaltext": "",
+      "summary": "Traditionelle Systeme stoßen bei Echtzeitverarbeitung und Skalierung schnell an Grenzen . flexible Speicherarchitekturen ersetzen starre Datenbankschemata .",
+      "modell": "t5-small"
+    },
+    "pdf_slide_008.json": {
+      "foliennummer": 8,
+      "ueberschrift": "kein Titel gefunden",
+      "quelle_json": "data\\processed\\pdf_slide_008.json",
+      "modus": "fallback",
+      "wortanzahl": 6,
+      "kurzer_originaltext": "kein Titel gefunden\n02 Technologische\nKomponenten",
+      "summary": "",
+      "modell": "t5-small"
+    },
+    "pdf_slide_009.json": {
+      "foliennummer": 9,
+      "ueberschrift": "Datenquellen und Datenerfassung",
+      "quelle_json": "data\\processed\\pdf_slide_009.json",
+      "modus": "t5",
+      "wortanzahl": 70,
+      "kurzer_originaltext": "",
+      "summary": "Soziale Medien liefern Nutzungs- und Interaktionsdaten in Echtzeit . transaktionssysteme dokumentieren Kauf- und Zahlungsprozesse . Zusätzlich stammen Daten aus Unternehmensdatenbanken, Logdateien von IT-Systemen sowie aus Webtracking .",
+      "modell": "t5-small"
+    },
+    "pdf_slide_010.json": {
+      "foliennummer": 10,
+      "ueberschrift": "Die Evolution der Datenspeicherung",
+      "quelle_json": "data\\processed\\pdf_slide_010.json",
+      "modus": "t5",
+      "wortanzahl": 62,
+      "kurzer_originaltext": "",
+      "summary": "Die Evolution der Datenspeicherung Die Speicherung großer Datenmengen hat sich von strukturierten Data Warehouses zu flexiblen Data Lakes entwickelt.",
+      "modell": "t5-small"
+    },
+    "pdf_slide_011.json": {
+      "foliennummer": 11,
+      "ueberschrift": "Das Hadoop- Ökosystem",
+      "quelle_json": "data\\processed\\pdf_slide_011.json",
+      "modus": "t5",
+      "wortanzahl": 62,
+      "kurzer_originaltext": "",
+      "summary": "Das Hadoop- kosystem Hadoop war eine der ersten Plattformen zur verteilten Verarbeitung großer Datenmengen. Es besteht aus mehreren Komponenten, die Speicherung, Verarbeitung und Ressourcenverwaltung ermöglichen.",
+      "modell": "t5-small"
+    },
+    "pdf_slide_012.json": {
+      "foliennummer": 12,
+      "ueberschrift": "Apache Spark – Analyse in Lichtgeschwindigkeit",
+      "quelle_json": "data\\processed\\pdf_slide_012.json",
+      "modus": "t5",
+      "wortanzahl": 53,
+      "kurzer_originaltext": "",
+      "summary": "Apache Spark erweitert Hadoop durch schnellere In-Memory-Verarbeitung . speichert Daten im Arbeitsspeicher statt auf Festplatten .",
+      "modell": "t5-small"
+    },
+    "pdf_slide_013.json": {
+      "foliennummer": 13,
+      "ueberschrift": "NoSQL-Datenbanken",
+      "quelle_json": "data\\processed\\pdf_slide_013.json",
+      "modus": "t5",
+      "wortanzahl": 47,
+      "kurzer_originaltext": "",
+      "summary": "noSQL-Datenbanken entstanden, um die Vielfalt moderner Datenquellen zu bewältigen. Sie bieten flexible Strukturen jenseits relationaler Tabellenmodelle .",
+      "modell": "t5-small"
+    },
+    "pdf_slide_014.json": {
+      "foliennummer": 14,
+      "ueberschrift": "Messaging & Data Ingestion",
+      "quelle_json": "data\\processed\\pdf_slide_014.json",
+      "modus": "t5",
+      "wortanzahl": 53,
+      "kurzer_originaltext": "",
+      "summary": "Messaging & Data Ingestion Datenströme müssen effizient transportiert und verarbeitet werden, bevor sie analysiert werden können. Streaming-Systeme ermöglichen nahezu sofortige Verarbeitung.",
+      "modell": "t5-small"
+    },
+    "pdf_slide_015.json": {
+      "foliennummer": 15,
+      "ueberschrift": "Speicherung und Datenmanagement",
+      "quelle_json": "data\\processed\\pdf_slide_015.json",
+      "modus": "t5",
+      "wortanzahl": 67,
+      "kurzer_originaltext": "",
+      "summary": "Speicherung und Datenmanagement ist eine zentrale Voraussetzung für Big-Data-Analysen. Neben der reinen Ablage großer Datenmengen spielen Datenqualität, Zugriffskontrolle und Governance eine entscheidende Rolle für nachhaltigen Mehrwert.",
+      "modell": "t5-small"
+    },
+    "pdf_slide_016.json": {
+      "foliennummer": 16,
+      "ueberschrift": "Analyse- und Verarbeitungstechnologien",
+      "quelle_json": "data\\processed\\pdf_slide_016.json",
+      "modus": "t5",
+      "wortanzahl": 54,
+      "kurzer_originaltext": "",
+      "summary": "moderne Frameworks kombinieren verteilte Verarbeitung mit Machine Learning und Echtzeit-Algorithmen . Hadoop und Spark ermöglichen parallele Verarbeitung großer Datenmengen .",
+      "modell": "t5-small"
+    },
+    "pdf_slide_017.json": {
+      "foliennummer": 17,
+      "ueberschrift": "03 Anwendungs-",
+      "quelle_json": "data\\processed\\pdf_slide_017.json",
+      "modus": "fallback",
+      "wortanzahl": 8,
+      "kurzer_originaltext": "03 Anwendungs-\n03 Anwendungs-\nbereiche von Big Data",
+      "summary": "",
+      "modell": "t5-small"
+    },
+    "pdf_slide_018.json": {
+      "foliennummer": 18,
+      "ueberschrift": "Einsatz in Unternehmen und Industrie",
+      "quelle_json": "data\\processed\\pdf_slide_018.json",
+      "modus": "t5",
+      "wortanzahl": 55,
+      "kurzer_originaltext": "",
+      "summary": "Einsatz in Unternehmen und Industrie Einsatz in Industrie und Unternehmen nutzen Big Data um Prozesse effizienter zu gestalten und Innovation zu fördern. Wettbewerbsvorteile entstehen durch schnellere und fundiertere Entscheidungen.",
+      "modell": "t5-small"
+    },
+    "pdf_slide_019.json": {
+      "foliennummer": 19,
+      "ueberschrift": "Anwendungen im Gesundheitswesen",
+      "quelle_json": "data\\processed\\pdf_slide_019.json",
+      "modus": "t5",
+      "wortanzahl": 50,
+      "kurzer_originaltext": "",
+      "summary": "Große Patientendatensätze liefern neue Erkenntnisse für Forschung und Prävention . Früherkennungssysteme identifizieren Krankheitsrisiken .",
+      "modell": "t5-small"
+    },
+    "pdf_slide_020.json": {
+      "foliennummer": 20,
+      "ueberschrift": "Anwendungen im Gesundheitswesen",
+      "quelle_json": "data\\processed\\pdf_slide_020.json",
+      "modus": "fallback",
+      "wortanzahl": 15,
+      "kurzer_originaltext": "Anwendungen im Gesundheitswesen\nAnwendungen im Gesundheitswesen\n30%\n25%\n20%\n35%\nPersonalisierte Medizin\nFernüberwachung\nKrankenhausmanagement\nArzneimittelforschung",
+      "summary": "",
+      "modell": "t5-small"
+    },
+    "pdf_slide_021.json": {
+      "foliennummer": 21,
+      "ueberschrift": "Finanzwesen & Betrugserkennung",
+      "quelle_json": "data\\processed\\pdf_slide_021.json",
+      "modus": "t5",
+      "wortanzahl": 47,
+      "kurzer_originaltext": "",
+      "summary": "Finanzwesen & Betrugserkennung Finanzwesen wird im Finanzsektor eingesetzt, um Risiken zu minimieren und Betrug frühzeitig zu erkennen .",
+      "modell": "t5-small"
+    },
+    "pdf_slide_022.json": {
+      "foliennummer": 22,
+      "ueberschrift": "Finanzwesen & Betrugserkennung",
+      "quelle_json": "data\\processed\\pdf_slide_022.json",
+      "modus": "fallback",
+      "wortanzahl": 14,
+      "kurzer_originaltext": "Finanzwesen & Betrugserkennung\nFinanzwesen & Betrugserkennung\n35%\n25%\n20%\n20%\nBetrugserkennung\nRisikomanagement\nKundensegmentierung & Marketing\nAlgorithmischer Handel",
+      "summary": "",
+      "modell": "t5-small"
+    },
+    "pdf_slide_023.json": {
+      "foliennummer": 23,
+      "ueberschrift": "Smart City Konzepte",
+      "quelle_json": "data\\processed\\pdf_slide_023.json",
+      "modus": "t5",
+      "wortanzahl": 44,
+      "kurzer_originaltext": "",
+      "summary": "Smart City Konzepte Städte nutzen Big Data zur Optimierung von Infrastruktur und öffentlichem Service . Energiemanagementsysteme optimieren Stromverbrauch.",
+      "modell": "t5-small"
+    },
+    "pdf_slide_024.json": {
+      "foliennummer": 24,
+      "ueberschrift": "E-Commerce & Retail",
+      "quelle_json": "data\\processed\\pdf_slide_024.json",
+      "modus": "t5",
+      "wortanzahl": 71,
+      "kurzer_originaltext": "",
+      "summary": "personalisierte Angebote und Prognosen erhöhen Kaufwahrscheinlichkeit, indem sie Produkte auf Basis von Nutzerverhalten und bisherigen Käufen vorschlagen. Dynamic Pricing reagiert auf Marktveränderungen und passt Preise automatisch an Nachfrage, Wettbewerb und Verfügbarkeit an.",
+      "modell": "t5-small"
+    },
+    "pdf_slide_025.json": {
+      "foliennummer": 25,
+      "ueberschrift": "Marketing & Kundenmanagement",
+      "quelle_json": "data\\processed\\pdf_slide_025.json",
+      "modus": "t5",
+      "wortanzahl": 40,
+      "kurzer_originaltext": "",
+      "summary": "marketing & customermanagement Marketing & Kundenmanagement Marketingstrategien werden durch datenbasierte Analysen präziser und effektiver. Unternehmen verstehen Kundenverhalten besser und können Trends frühzeitig erkennen.",
+      "modell": "t5-small"
+    },
+    "pdf_slide_026.json": {
+      "foliennummer": 26,
+      "ueberschrift": "kein Titel gefunden",
+      "quelle_json": "data\\processed\\pdf_slide_026.json",
+      "modus": "fallback",
+      "wortanzahl": 6,
+      "kurzer_originaltext": "kein Titel gefunden\n04 Herausforderungen\n&\nZukunftsperspektiven",
+      "summary": "",
+      "modell": "t5-small"
+    },
+    "pdf_slide_027.json": {
+      "foliennummer": 27,
+      "ueberschrift": "Datenschutz und ethische Aspekte",
+      "quelle_json": "data\\processed\\pdf_slide_027.json",
+      "modus": "t5",
+      "wortanzahl": 62,
+      "kurzer_originaltext": "",
+      "summary": "Rechtliche und ethische Rahmenbedingungen bestimmen die Nutzung sensibler Informationen . Unternehmen müssen Einwilligungen korrekt dokumentieren . fairness und Transparenz sind zentrale etische Prinzipien .",
+      "modell": "t5-small"
+    },
+    "pdf_slide_028.json": {
+      "foliennummer": 28,
+      "ueberschrift": "Quantum Computing",
+      "quelle_json": "data\\processed\\pdf_slide_028.json",
+      "modus": "t5",
+      "wortanzahl": 56,
+      "kurzer_originaltext": "",
+      "summary": "quantum Computing Quantum Computing besitzt das Potenzial, bisher unlösbare Rechenprobleme zu bewältigen . in Kombination mit Big Data könnten völlig neue Analyseformen entstehen .",
+      "modell": "t5-small"
+    },
+    "pdf_slide_029.json": {
+      "foliennummer": 29,
+      "ueberschrift": "Edge Computing",
+      "quelle_json": "data\\processed\\pdf_slide_029.json",
+      "modus": "t5",
+      "wortanzahl": 66,
+      "kurzer_originaltext": "",
+      "summary": "Edge Computing Edge Computing verarbeitet Daten direkt an der Quelle, statt sie ausschließlich in zentrale Clouds zu senden.",
+      "modell": "t5-small"
+    },
+    "pdf_slide_030.json": {
+      "foliennummer": 30,
+      "ueberschrift": "Technische & organisatorische",
+      "quelle_json": "data\\processed\\pdf_slide_030.json",
+      "modus": "t5",
+      "wortanzahl": 42,
+      "kurzer_originaltext": "",
+      "summary": "Technische & organisatorische Herausforderungen Big Data erfordert leistungsfähige Infrastruktur und qualifiziertes Personal . ohne klare Organisation können Projekte scheitern.",
+      "modell": "t5-small"
+    },
+    "pdf_slide_031.json": {
+      "foliennummer": 31,
+      "ueberschrift": "Strategische Roadmap",
+      "quelle_json": "data\\processed\\pdf_slide_031.json",
+      "modus": "t5",
+      "wortanzahl": 68,
+      "kurzer_originaltext": "",
+      "summary": "Strategische Roadmap . strukturierte Planung hilft, Ziele zu definieren und Daten systematisch zu nutzen . flexible Strukturen unterstützt Unternehmen dabei, Daten schnell zu verarbeiten, neue Technologien zu integrieren und auf Marktveränderungen dynamisch zu reagieren .",
+      "modell": "t5-small"
+    },
+    "pdf_slide_032.json": {
+      "foliennummer": 32,
+      "ueberschrift": "Trends und Innovationen im Bereich Big Data",
+      "quelle_json": "data\\processed\\pdf_slide_032.json",
+      "modus": "t5",
+      "wortanzahl": 49,
+      "kurzer_originaltext": "",
+      "summary": "Trends und Innovationen im Bereich Big Data trends und innovations im Bereich big data technologische Fortschritte erweitern kontinuierlich die Möglichkeiten datengetriebener Analysen.",
+      "modell": "t5-small"
+    },
+    "pdf_slide_033.json": {
+      "foliennummer": 33,
+      "ueberschrift": "Zukunftsausblick",
+      "quelle_json": "data\\processed\\pdf_slide_033.json",
+      "modus": "t5",
+      "wortanzahl": 43,
+      "kurzer_originaltext": "",
+      "summary": "Zukunftsausblick Big Data wird weiterhin zentrale Rolle in Wirtschaft und Gesellschaft spielen. Unternehmen müssen Infrastrukturen kontinuierlich anpassen .",
+      "modell": "t5-small"
+    },
+    "pdf_slide_034.json": {
+      "foliennummer": 34,
+      "ueberschrift": "Erfolgsfaktoren",
+      "quelle_json": "data\\processed\\pdf_slide_034.json",
+      "modus": "t5",
+      "wortanzahl": 59,
+      "kurzer_originaltext": "",
+      "summary": "Erfolgsfaktoren Der Erfolg hängt von Strategie, Kompetenzen und Unternehmenskultur ab. ohne klare Zielsetzung bleibt Big Data oft wirkungslos .",
+      "modell": "t5-small"
+    },
+    "pdf_slide_035.json": {
+      "foliennummer": 35,
+      "ueberschrift": "Strategische Empfehlungen",
+      "quelle_json": "data\\processed\\pdf_slide_035.json",
+      "modus": "t5",
+      "wortanzahl": 80,
+      "kurzer_originaltext": "",
+      "summary": "strategische Strategische Empfehlungen Um Big Data effektiv zu nutzen, müssen Unternehmen langfristig planen und investieren. Technologie allein reicht nicht aus.",
+      "modell": "t5-small"
+    },
+    "pdf_slide_036.json": {
+      "foliennummer": 36,
+      "ueberschrift": "Implementierungsstrategie",
+      "quelle_json": "data\\processed\\pdf_slide_036.json",
+      "modus": "t5",
+      "wortanzahl": 85,
+      "kurzer_originaltext": "",
+      "summary": "implementationsstrategie Implementierungsstrategie Die erfolgreiche Einführung von Big Data erfordert strukturierte Planung und agile Umsetzung . klare Zieldefinition vor Projektstart hilft Unternehmen dabei, den Nutzen von Datenprojekten messbar zu machen und Prioritäten festzulegen .",
+      "modell": "t5-small"
+    },
+    "pdf_slide_037.json": {
+      "foliennummer": 37,
+      "ueberschrift": "Integrationstechniken",
+      "quelle_json": "data\\processed\\pdf_slide_037.json",
+      "modus": "t5",
+      "wortanzahl": 74,
+      "kurzer_originaltext": "",
+      "summary": "integrationstechniken Big Data muss nahtlos in bestehende IT-Systeme eingebunden werden . APIs verbinden neue Plattformen mit bestehenden Systemen und erleichtern den automatisierten Austausch von Informationen zwischen unterschiedlichen Softwarelösungen .",
+      "modell": "t5-small"
+    },
+    "pdf_slide_038.json": {
+      "foliennummer": 38,
+      "ueberschrift": "05 Data Science &",
+      "quelle_json": "data\\processed\\pdf_slide_038.json",
+      "modus": "fallback",
+      "wortanzahl": 7,
+      "kurzer_originaltext": "05 Data Science &\n05 Data Science &\nKI",
+      "summary": "",
+      "modell": "t5-small"
+    },
+    "pdf_slide_039.json": {
+      "foliennummer": 39,
+      "ueberschrift": "Der Data Science Lifecycle",
+      "quelle_json": "data\\processed\\pdf_slide_039.json",
+      "modus": "t5",
+      "wortanzahl": 73,
+      "kurzer_originaltext": "",
+      "summary": "Der Data Science Lifecycle Data Science folgt einem strukturierten Prozess von Problemdefinition bis Deployment. Jede Phase beeinflusst Qualität und Nutzen der Ergebnisse.",
+      "modell": "t5-small"
+    },
+    "pdf_slide_040.json": {
+      "foliennummer": 40,
+      "ueberschrift": "Machine Learning Grundlage",
+      "quelle_json": "data\\processed\\pdf_slide_040.json",
+      "modus": "t5",
+      "wortanzahl": 62,
+      "kurzer_originaltext": "",
+      "summary": "machine learning Basis ML ermöglicht automatisierte Mustererkennung in großen Datensätzen . Unsupervised Learning nutzt gelabelte Trainingsdaten . bei den Modellen durch Feedback aus ihrer Umgebung lernen.",
+      "modell": "t5-small"
+    },
+    "pdf_slide_041.json": {
+      "foliennummer": 41,
+      "ueberschrift": "Deep Learning & Neuronale",
+      "quelle_json": "data\\processed\\pdf_slide_041.json",
+      "modus": "t5",
+      "wortanzahl": 40,
+      "kurzer_originaltext": "",
+      "summary": "deep learning & neuronale Netze Deep Learning verarbeitet hochkomplexe Daten wie Bilder oder Sprache .",
+      "modell": "t5-small"
+    },
+    "pdf_slide_042.json": {
+      "foliennummer": 42,
+      "ueberschrift": "Datenvisualisierung",
+      "quelle_json": "data\\processed\\pdf_slide_042.json",
+      "modus": "t5",
+      "wortanzahl": 64,
+      "kurzer_originaltext": "",
+      "summary": "Sie unterstützen Entscheidungsträger bei strategischen Maßnahmen . dashboards präsentieren Kennzahlen übersichtlich .",
+      "modell": "t5-small"
+    },
+    "pdf_slide_043.json": {
+      "foliennummer": 43,
+      "ueberschrift": "kein Titel gefunden",
+      "quelle_json": "data\\processed\\pdf_slide_043.json",
+      "modus": "fallback",
+      "wortanzahl": 7,
+      "kurzer_originaltext": "kein Titel gefunden\n06 Ethik, Recht & Organisation",
+      "summary": "",
+      "modell": "t5-small"
+    },
+    "pdf_slide_044.json": {
+      "foliennummer": 44,
+      "ueberschrift": "Datenschutz & DSGVO",
+      "quelle_json": "data\\processed\\pdf_slide_044.json",
+      "modus": "t5",
+      "wortanzahl": 62,
+      "kurzer_originaltext": "",
+      "summary": "transparente Datenverwendung ist gesetzlich vorgeschrieben und verpflichtet Unternehmen dazu, offen darzulegen, welche Daten erhoben und zu welchem Zweck sie genutzt werden.",
+      "modell": "t5-small"
+    },
+    "pdf_slide_045.json": {
+      "foliennummer": 45,
+      "ueberschrift": "Ethische Verantwortung",
+      "quelle_json": "data\\processed\\pdf_slide_045.json",
+      "modus": "t5",
+      "wortanzahl": 69,
+      "kurzer_originaltext": "",
+      "summary": "Ethische Verantwortung Datenanalysen müssen fair und nachvollziehbar sein . Verantwortung für den ethischen Einsatz von Daten liegt bei Unternehmen als auch bei Entwicklern und Datenwissenschaftlern .",
+      "modell": "t5-small"
+    },
+    "pdf_slide_046.json": {
+      "foliennummer": 46,
+      "ueberschrift": "Data Governance Frameworks",
+      "quelle_json": "data\\processed\\pdf_slide_046.json",
+      "modus": "t5",
+      "wortanzahl": 60,
+      "kurzer_originaltext": "",
+      "summary": "Data Governance Frameworks Data Governance definiert Regeln, Rollen und Prozesse im Umgang mit Daten . Klare Strukturen verbessern Qualität und Sicherheit .",
+      "modell": "t5-small"
+    },
+    "pdf_slide_047.json": {
+      "foliennummer": 47,
+      "ueberschrift": "Fachkräftemangel & Kompetenzaufbau",
+      "quelle_json": "data\\processed\\pdf_slide_047.json",
+      "modus": "t5",
+      "wortanzahl": 67,
+      "kurzer_originaltext": "",
+      "summary": "Fachkräftemangel & Kompetenzaufbau Big Data erfordert spezialisierte Kompetenzen . Bedarf an Data Engineers und Data Scientists ist eine zentrale Herausforderung .",
+      "modell": "t5-small"
+    },
+    "pdf_slide_048.json": {
+      "foliennummer": 48,
+      "ueberschrift": "Kosten-Nutzen-Analyse",
+      "quelle_json": "data\\processed\\pdf_slide_048.json",
+      "modus": "t5",
+      "wortanzahl": 64,
+      "kurzer_originaltext": "",
+      "summary": "Kosten-Nutzen-Analyse Big Data müssen auch aus wirtschaftlicher Perspektive bewertet werden . Investitionen in Infrastruktur, Technologien und Fachpersonal stehen dabei langfristigen Vorteilen wie Effizienzsteigerung und besseren Entscheidungsgrundlagen gegenüber.",
+      "modell": "t5-small"
+    },
+    "pdf_slide_049.json": {
+      "foliennummer": 49,
+      "ueberschrift": "Fazit",
+      "quelle_json": "data\\processed\\pdf_slide_049.json",
+      "modus": "fallback",
+      "wortanzahl": 39,
+      "kurzer_originaltext": "Fazit\nFazit\nBig Data bietet enorme Chancen für Unternehmen durch verbesserte\nErkenntnisse und Innovation. Gleichzeitig sind Datenschutz und\ntechnische Herausforderungen zu meistern. Die kontinuierliche\nWeiterentwicklung von Technologien und ethische Verantwortung\nsind entscheidend für nachhaltigen Erfolg im Big Data Umfeld.",
+      "summary": "",
+      "modell": "t5-small"
+    },
+    "pdf_slide_050.json": {
+      "foliennummer": 50,
+      "ueberschrift": "kein Titel gefunden",
+      "quelle_json": "data\\processed\\pdf_slide_050.json",
+      "modus": "fallback",
+      "wortanzahl": 4,
+      "kurzer_originaltext": "kein Titel gefunden\nThanks! ☺",
+      "summary": "",
+      "modell": "t5-small"
+    },
+    "pptx_slide_001.json": {
+      "foliennummer": 1,
+      "ueberschrift": "KI-Avatare",
+      "quelle_json": "data\\processed\\pptx_slide_001.json",
+      "modus": "fallback",
+      "wortanzahl": 9,
+      "kurzer_originaltext": "KI-Avatare\nKI-Avatare\nKI- Avatare im Marketing verstehen",
+      "summary": "",
+      "modell": "t5-small"
+    },
+    "pptx_slide_002.json": {
+      "foliennummer": 2,
+      "ueberschrift": "Einführung",
+      "quelle_json": "data\\processed\\pptx_slide_002.json",
+      "modus": "t5",
+      "wortanzahl": 66,
+      "kurzer_originaltext": "",
+      "summary": "KI-Avatare verändern die Art, wie Marken kommunizieren, weil sie Inhalte personalisiert und skalierbar vermitteln können. Sie ermöglichen eine personalisierte Ansprache in Echtzeit. Unternehmen nutzen sie zur effizienten Skalierung von Marketinginhalten.",
+      "modell": "t5-small"
+    },
+    "pptx_slide_003.json": {
+      "foliennummer": 3,
+      "ueberschrift": "01 Entwicklung von KI-Avataren",
+      "quelle_json": "data\\processed\\pptx_slide_003.json",
+      "modus": "fallback",
+      "wortanzahl": 10,
+      "kurzer_originaltext": "01 Entwicklung von KI-Avataren\n01 Entwicklung von KI-Avataren",
+      "summary": "",
+      "modell": "t5-small"
+    },
+    "pptx_slide_004.json": {
+      "foliennummer": 4,
+      "ueberschrift": "Ursprung und Grundlagen der KI",
+      "quelle_json": "data\\processed\\pptx_slide_004.json",
+      "modus": "t5",
+      "wortanzahl": 73,
+      "kurzer_originaltext": "",
+      "summary": "KI-Avatare are digitale, menschenähnliche Figuren, die Markenkommunikation übernehmen. Sie ermöglichen eine personalisierte Ansprache in Echtzeit. Unternehmen nutzen sie zur effizienten Skalierung von Marketinginhalten.",
+      "modell": "t5-small"
+    },
+    "pptx_slide_005.json": {
+      "foliennummer": 5,
+      "ueberschrift": "Erste Anwendungen in digitalen Avatare",
+      "quelle_json": "data\\processed\\pptx_slide_005.json",
+      "modus": "t5",
+      "wortanzahl": 73,
+      "kurzer_originaltext": "",
+      "summary": "Frühe KI-Avatare erschienen in computerspielen als interaktive Figuren . Sie wurden im Kundenservice für einfache Support-Systeme genutzt .",
+      "modell": "t5-small"
+    },
+    "pptx_slide_006.json": {
+      "foliennummer": 6,
+      "ueberschrift": "Technologische Fortschritte und Meilensteine",
+      "quelle_json": "data\\processed\\pptx_slide_006.json",
+      "modus": "t5",
+      "wortanzahl": 63,
+      "kurzer_originaltext": "",
+      "summary": "Technologische Fortschritte und Meilensteine Kernaussage: Moderne KI-Avatare wirken überzeugend, weil mehrere Technologien zusammenarbeiten: Sprachmodelle, Sprachausgabe und Animation. Dadurch entsteht ein konsistentes Verhalten, das in Videos und Echtzeit-Anwendungen genutzt werden kann.",
+      "modell": "t5-small"
+    },
+    "pptx_slide_007.json": {
+      "foliennummer": 7,
+      "ueberschrift": "Technologie dahinter –LLMs & Generative Visuals",
+      "quelle_json": "data\\processed\\pptx_slide_007.json",
+      "modus": "fallback",
+      "wortanzahl": 10,
+      "kurzer_originaltext": "Technologie dahinter –LLMs & Generative Visuals\nTechnologie dahinter –LLMs & Generative Visuals",
+      "summary": "",
+      "modell": "t5-small"
+    },
+    "pptx_slide_008.json": {
+      "foliennummer": 8,
+      "ueberschrift": "Technologie dahinter – TTS & “Animation”",
+      "quelle_json": "data\\processed\\pptx_slide_008.json",
+      "modus": "fallback",
+      "wortanzahl": 8,
+      "kurzer_originaltext": "Technologie dahinter – TTS & “Animation”\nTechnologie dahinter – TTS & “Animation”",
+      "summary": "",
+      "modell": "t5-small"
+    },
+    "pptx_slide_009.json": {
+      "foliennummer": 9,
+      "ueberschrift": "Barrierefreiheit und Inklusion",
+      "quelle_json": "data\\processed\\pptx_slide_009.json",
+      "modus": "t5",
+      "wortanzahl": 81,
+      "kurzer_originaltext": "",
+      "summary": "KI-Avatare können Kommunikation zugänglicher machen, weil sie Inhalte automatisch an unterschiedliche Bedürfnisse anpassen. Dadurch entsteht nicht nur ein sozialer Nutzen, sondern auch ein strategischer Vorteil für Marken.",
+      "modell": "t5-small"
+    },
+    "pptx_slide_010.json": {
+      "foliennummer": 10,
+      "ueberschrift": "02 Einsatz von KI-Avataren im Marketing",
+      "quelle_json": "data\\processed\\pptx_slide_010.json",
+      "modus": "fallback",
+      "wortanzahl": 14,
+      "kurzer_originaltext": "02 Einsatz von KI-Avataren im Marketing\n02 Einsatz von KI-Avataren im Marketing",
+      "summary": "",
+      "modell": "t5-small"
+    },
+    "pptx_slide_011.json": {
+      "foliennummer": 11,
+      "ueberschrift": "Warum KI-Avatare im Marketing ?",
+      "quelle_json": "data\\processed\\pptx_slide_011.json",
+      "modus": "t5",
+      "wortanzahl": 91,
+      "kurzer_originaltext": "",
+      "summary": "KI-Avataren ermöglichen skalierbare Content-Produktion ohne teure Studios, Reisen oder wiederholte Drehs . Markensicherheit steigt, weil Tonalität und Aussagen kontrollierbar sind und Prozesse automatisiert ablaufen .",
+      "modell": "t5-small"
+    },
+    "pptx_slide_012.json": {
+      "foliennummer": 12,
+      "ueberschrift": "Was sind KI-generierte Werbe-Avatare ?",
+      "quelle_json": "data\\processed\\pptx_slide_012.json",
+      "modus": "t5",
+      "wortanzahl": 66,
+      "kurzer_originaltext": "",
+      "summary": "KI-generierte Werbe-Avatare sind digitale Figuren, die in Videos oder Dialogsystemen als Markenrepräsentanten auftreten. Sie verbinden automatisierte Medienproduktion mit personalisierter Ansprache der Zielgruppe .",
+      "modell": "t5-small"
+    },
+    "pptx_slide_013.json": {
+      "foliennummer": 13,
+      "ueberschrift": "Führende Plattformen im Vergleich",
+      "quelle_json": "data\\processed\\pptx_slide_013.json",
+      "modus": "t5",
+      "wortanzahl": 94,
+      "kurzer_originaltext": "",
+      "summary": "Unternehmen wählen Plattformen je nach Ziel, Aufwand und gewünschter Realitätsnähe . D-ID fokussiert auf animierte Standbilder und Agenten, die in Echtzeit reagieren können .",
+      "modell": "t5-small"
+    },
+    "pptx_slide_014.json": {
+      "foliennummer": 14,
+      "ueberschrift": "Personalisierung von Kundenerlebnissen",
+      "quelle_json": "data\\processed\\pptx_slide_014.json",
+      "modus": "t5",
+      "wortanzahl": 62,
+      "kurzer_originaltext": "",
+      "summary": "Personalisierung von Kundenerlebnissen Kernaussage: KI-Avatare können Inhalte an individuelle Bedürfnisse anpassen und damit relevanter machen als klassische Massenkommunikation.",
+      "modell": "t5-small"
+    },
+    "pptx_slide_015.json": {
+      "foliennummer": 15,
+      "ueberschrift": "Automatisierte Interaktion und Kundenservice",
+      "quelle_json": "data\\processed\\pptx_slide_015.json",
+      "modus": "t5",
+      "wortanzahl": 64,
+      "kurzer_originaltext": "",
+      "summary": "KI-Avatare häufig für Support und Service eingesetzt, weil sie dauerhaft verfügbar sind. Sie beantworten Anfragen in Echtzeit ohne Wartezeiten . Unternehmen reduzieren Support-Kosten durch Automatisierung.",
+      "modell": "t5-small"
+    },
+    "pptx_slide_016.json": {
+      "foliennummer": 16,
+      "ueberschrift": "Markenbildung und Identitätsmanagement",
+      "quelle_json": "data\\processed\\pptx_slide_016.json",
+      "modus": "t5",
+      "wortanzahl": 61,
+      "kurzer_originaltext": "",
+      "summary": "Markenbildung und Identitätsmanagement Kernaussage: KI-Avatare können als konstante Markenfigur auftreten . Damit das funktioniert, müssen Rolle, Tonalität und Grenzen des Avatars klar definiert werden .",
+      "modell": "t5-small"
+    },
+    "pptx_slide_017.json": {
+      "foliennummer": 17,
+      "ueberschrift": "Personal Twin",
+      "quelle_json": "data\\processed\\pptx_slide_017.json",
+      "modus": "t5",
+      "wortanzahl": 63,
+      "kurzer_originaltext": "",
+      "summary": "Personal Twin Der Kunde als Avatar-Besitzer Entwicklung von persönlichen digitalen Zwillingen auf Konsumentenseite . Einsatz für virtuelle Anproben oder das Vorfiltern von Werbeangeboten .",
+      "modell": "t5-small"
+    },
+    "pptx_slide_018.json": {
+      "foliennummer": 18,
+      "ueberschrift": "Die Top KI-Influencer Beispiele",
+      "quelle_json": "data\\processed\\pptx_slide_018.json",
+      "modus": "fallback",
+      "wortanzahl": 10,
+      "kurzer_originaltext": "Die Top KI-Influencer Beispiele\nDie Top KI-Influencer Beispiele",
+      "summary": "",
+      "modell": "t5-small"
+    },
+    "pptx_slide_019.json": {
+      "foliennummer": 19,
+      "ueberschrift": "Lil Miquela",
+      "quelle_json": "data\\processed\\pptx_slide_019.json",
+      "modus": "t5",
+      "wortanzahl": 54,
+      "kurzer_originaltext": "",
+      "summary": "Lil Miquela – Die Lifestyle-Ikone Herkunft: USA . Sie hat eine eigene Backstory als 19-jähriges Mädchen in L.A.",
+      "modell": "t5-small"
+    },
+    "pptx_slide_020.json": {
+      "foliennummer": 20,
+      "ueberschrift": "Noonoouri",
+      "quelle_json": "data\\processed\\pptx_slide_020.json",
+      "modus": "t5",
+      "wortanzahl": 54,
+      "kurzer_originaltext": "",
+      "summary": "Das deutsche Digital-Model Herkunft: Deutschland erstellt vom Münchner Designer Jörg Zuber Stil . Sie sind die erste digitale Figur, die einen Plattenvertrag bei Warner Music unterschrieben hat.",
+      "modell": "t5-small"
+    },
+    "pptx_slide_021.json": {
+      "foliennummer": 21,
+      "ueberschrift": "Aitana Lopez",
+      "quelle_json": "data\\processed\\pptx_slide_021.json",
+      "modus": "t5",
+      "wortanzahl": 52,
+      "kurzer_originaltext": "",
+      "summary": "Sie wirkt so echt, dass sie regelmäßig Nachrichten von Prominenten erhält, die sie für real halten.",
+      "modell": "t5-small"
+    },
+    "pptx_slide_022.json": {
+      "foliennummer": 22,
+      "ueberschrift": "03 Vorteile und Herausforderungen",
+      "quelle_json": "data\\processed\\pptx_slide_022.json",
+      "modus": "fallback",
+      "wortanzahl": 8,
+      "kurzer_originaltext": "03 Vorteile und Herausforderungen\n03 Vorteile und Herausforderungen",
+      "summary": "",
+      "modell": "t5-small"
+    },
+    "pptx_slide_023.json": {
+      "foliennummer": 23,
+      "ueberschrift": "Steigerung der Marketingeffizienz",
+      "quelle_json": "data\\processed\\pptx_slide_023.json",
+      "modus": "t5",
+      "wortanzahl": 51,
+      "kurzer_originaltext": "",
+      "summary": "Steigerung der Marketingeffizienz Kernaussage: KI-Avatare automatisieren wiederkehrende Aufgaben und machen Content-Produktion schneller und günstiger. Gleichzeitig kann Personalisierung die Wirksamkeit steigern, weil Botschaften relevanter wirken.",
+      "modell": "t5-small"
+    },
+    "pptx_slide_024.json": {
+      "foliennummer": 24,
+      "ueberschrift": "Datenschutz und ethische Aspekte",
+      "quelle_json": "data\\processed\\pptx_slide_024.json",
+      "modus": "t5",
+      "wortanzahl": 68,
+      "kurzer_originaltext": "",
+      "summary": "der Einsatz von KI-Avataren ist nur dann nachhaltig, wenn Nutzer verstehen, was mit ihren Daten passiert. Transparenz und klare Regeln sind entscheidend, um Vertrauen zu schaffen und Manipulation zu vermeiden. Unternehmen müssen offenlegen, wie Nutzerdaten verarbeitet werden.",
+      "modell": "t5-small"
+    },
+    "pptx_slide_025.json": {
+      "foliennummer": 25,
+      "ueberschrift": "Cybersecurity – Schutz vor digitalem Identitätsdiebstahl",
+      "quelle_json": "data\\processed\\pptx_slide_025.json",
+      "modus": "t5",
+      "wortanzahl": 64,
+      "kurzer_originaltext": "",
+      "summary": "Schutz vor digitalem Identitätsdiebstahl Verantwortung für Marken-Integrität: Schutz des Avatars vor Hackerangriffen und unbefugter Übernahme. Vermeidung von Reputationsschäden durch manipulierte Aussagen oder Deepfakes.",
+      "modell": "t5-small"
+    },
+    "pptx_slide_026.json": {
+      "foliennummer": 26,
+      "ueberschrift": "Herausforderungen bei der Implementierung",
+      "quelle_json": "data\\processed\\pptx_slide_026.json",
+      "modus": "t5",
+      "wortanzahl": 71,
+      "kurzer_originaltext": "",
+      "summary": "die Einführung von KI-Avataren ist mehr als ein Tool-Kauf, weil Prozesse, Systeme und Qualitätskontrollen angepasst werden müssen . Qualitätssicherung verhindert diskriminierende oder falsche Inhalte .",
+      "modell": "t5-small"
+    },
+    "pptx_slide_027.json": {
+      "foliennummer": 27,
+      "ueberschrift": "Technologie und kreative Grenzen",
+      "quelle_json": "data\\processed\\pptx_slide_027.json",
+      "modus": "t5",
+      "wortanzahl": 64,
+      "kurzer_originaltext": "",
+      "summary": "natürliche Spontanität ist technisch schwer vollständig reproduzierbar . Entwickler und Kreative arbeiten zunehmend interdisziplinär .",
+      "modell": "t5-small"
+    },
+    "pptx_slide_028.json": {
+      "foliennummer": 28,
+      "ueberschrift": "Strukturelle Wandel der Kreativberufe",
+      "quelle_json": "data\\processed\\pptx_slide_028.json",
+      "modus": "t5",
+      "wortanzahl": 61,
+      "kurzer_originaltext": "",
+      "summary": "Gleichzeitig entstehen neue Rollen, in denen Menschen KI steuern, kontrollieren und kreativ einsetzen. Junior-Positionen im Bereich Routine-Content sind besonders betroffen. Der Fokus verschiebt sich hin zu strategischem Prompting .",
+      "modell": "t5-small"
+    },
+    "pptx_slide_029.json": {
+      "foliennummer": 29,
+      "ueberschrift": "Ökonomische Verdrängung durch Kosteneffizienz",
+      "quelle_json": "data\\processed\\pptx_slide_029.json",
+      "modus": "t5",
+      "wortanzahl": 65,
+      "kurzer_originaltext": "",
+      "summary": "KI-Avataren verursachen keine variablen Produktionskosten pro Einsatz . Menschliche Models erfordern Gagen, Reisen und organisatorischen Aufwand .",
+      "modell": "t5-small"
+    },
+    "pptx_slide_030.json": {
+      "foliennummer": 30,
+      "ueberschrift": "Entwertung menschlicher Einzigartigkeit",
+      "quelle_json": "data\\processed\\pptx_slide_030.json",
+      "modus": "t5",
+      "wortanzahl": 62,
+      "kurzer_originaltext": "",
+      "summary": "k-stimmen und KI-Gesichter oft auf Daten realer Menschen beruhen. ohne klare Regeln können dies zu unfairer Nutzung, fehlender Vergütung und rechtlichen Konflikten führen. Kreative fordern Schutz ihrer digitalen Identität.",
+      "modell": "t5-small"
+    },
+    "pptx_slide_031.json": {
+      "foliennummer": 31,
+      "ueberschrift": "Fallbeispiel: SAG-AFTRA",
+      "quelle_json": "data\\processed\\pptx_slide_031.json",
+      "modus": "t5",
+      "wortanzahl": 59,
+      "kurzer_originaltext": "",
+      "summary": "digitale Doubletten nur mit Zustimmung und fairer Vergütung einzusetzen . Ziel ist es, digitale Zwillinge nicht unbegrenzt einsetzen .",
+      "modell": "t5-small"
+    },
+    "pptx_slide_032.json": {
+      "foliennummer": 32,
+      "ueberschrift": "Koexistenz statt Ersetzung",
+      "quelle_json": "data\\processed\\pptx_slide_032.json",
+      "modus": "t5",
+      "wortanzahl": 77,
+      "kurzer_originaltext": "",
+      "summary": "Koexistenz statt Ersetzung Kernaussage: Statt einer vollständigen Ersetzung entsteht häufig ein hybrider Ansatz bei dem KI skaliert und Menschen die kreative Kontrolle behalten. KI übernimmt Routinearbeit, Skalierung und Variantenproduktion für viele Kanäle und Sprachen.",
+      "modell": "t5-small"
+    },
+    "pptx_slide_033.json": {
+      "foliennummer": 33,
+      "ueberschrift": "04 Zukunftsperspektiven",
+      "quelle_json": "data\\processed\\pptx_slide_033.json",
+      "modus": "fallback",
+      "wortanzahl": 4,
+      "kurzer_originaltext": "04 Zukunftsperspektiven\n04 Zukunftsperspektiven",
+      "summary": "",
+      "modell": "t5-small"
+    },
+    "pptx_slide_034.json": {
+      "foliennummer": 34,
+      "ueberschrift": "Integration in Omnichannel-Strategien",
+      "quelle_json": "data\\processed\\pptx_slide_034.json",
+      "modus": "t5",
+      "wortanzahl": 76,
+      "kurzer_originaltext": "",
+      "summary": "integration in Omnichannel-Strategien Kernaussage: KI-Avatare werden zunehmend kanalübergreifend eingesetzt, damit Marken überall gleich wirken. entsteht ein konsistentes Kundenerlebnis, egal ob online, in sozialen Medien oder im Laden.",
+      "modell": "t5-small"
+    },
+    "pptx_slide_035.json": {
+      "foliennummer": 35,
+      "ueberschrift": "Drei Säulen der Integration- Online & E-Commerce",
+      "quelle_json": "data\\processed\\pptx_slide_035.json",
+      "modus": "t5",
+      "wortanzahl": 86,
+      "kurzer_originaltext": "",
+      "summary": "Empfehlungen basieren auf Kundenhistorie, Kontext und Präferenzen, wodurch Relevanz steigt. Echtzeit-Beratung kann die Conversion-Rate erhöhen, weil Unsicherheiten schneller geklärt werden.",
+      "modell": "t5-small"
+    },
+    "pptx_slide_036.json": {
+      "foliennummer": 36,
+      "ueberschrift": "Drei Säulen der Integration- Social Media",
+      "quelle_json": "data\\processed\\pptx_slide_036.json",
+      "modus": "t5",
+      "wortanzahl": 66,
+      "kurzer_originaltext": "",
+      "summary": "auf Social-Media-Plattformen werden Avatare als „Always-on“-Markenbotschafter genutzt . Trends können innerhalb weniger Minuten aufgegriffen werden. Videobotschaften werden für tausende Follower individualisiert .",
+      "modell": "t5-small"
+    },
+    "pptx_slide_037.json": {
+      "foliennummer": 37,
+      "ueberschrift": "Drei Säulen der Integration- Point of Sale",
+      "quelle_json": "data\\processed\\pptx_slide_037.json",
+      "modus": "t5",
+      "wortanzahl": 68,
+      "kurzer_originaltext": "",
+      "summary": "Drei Säulen der Integration- Point of Sale Im stationären Handel verbinden Avatare das physische Erlebnis mit digitalen Daten und Services.",
+      "modell": "t5-small"
+    },
+    "pptx_slide_038.json": {
+      "foliennummer": 38,
+      "ueberschrift": "Emotionserkennung und Anpassung",
+      "quelle_json": "data\\processed\\pptx_slide_038.json",
+      "modus": "t5",
+      "wortanzahl": 65,
+      "kurzer_originaltext": "",
+      "summary": "Emotionserkennung und Anpassung Kernaussage: Die nächste Evolutionsstufe ist, dass Avatare emotionale Signale erkennen und ihre Kommunikation anpassen. Der Avatar reagiert mit angepasstem Sprechtempo oder Tonfall .",
+      "modell": "t5-small"
+    },
+    "pptx_slide_039.json": {
+      "foliennummer": 39,
+      "ueberschrift": "Para-soziale Interaktionen",
+      "quelle_json": "data\\processed\\pptx_slide_039.json",
+      "modus": "t5",
+      "wortanzahl": 86,
+      "kurzer_originaltext": "",
+      "summary": "para-soziale Interaktionen Kernaussage Ein spannendes Phänomen ist, dass Nutzer emotionale Bindungen zu digitalen Figuren aufbauen. KI-Avatare verstärken diesen Effekt, weil sie personalisiert reagieren und eine Illusion von Gegenseitigkeit erzeugen können.",
+      "modell": "t5-small"
+    },
+    "pptx_slide_040.json": {
+      "foliennummer": 40,
+      "ueberschrift": "Uncanny Valley: Die Akzeptanz-Hürde",
+      "quelle_json": "data\\processed\\pptx_slide_040.json",
+      "modus": "t5",
+      "wortanzahl": 71,
+      "kurzer_originaltext": "",
+      "summary": "Kurz vor perfectm Realismus kippt die Reaktion jedoch oft ins Negative, was im Marketing problematisch sein kann . Bei nahezu perfectm realismus entsteht ein Gefühl von Unbehagen . Erst bei vollständigem Realisme steigt die Akzeptanz wieder an.",
+      "modell": "t5-small"
+    },
+    "pptx_slide_041.json": {
+      "foliennummer": 41,
+      "ueberschrift": "Uncanny Valley",
+      "quelle_json": "data\\processed\\pptx_slide_041.json",
+      "modus": "t5",
+      "wortanzahl": 88,
+      "kurzer_originaltext": "",
+      "summary": "uncanny Valley Das Konzept beschreibt die paradoxe Beziehung zwischen der Menschenähnlichkeit eines Objekts und unserer emotionalen Reaktion darauf . das „Tal“: Erreicht die hnlichkeit ein fast perfektes, aber eben nicht ganz fehlerfreies Niveau, kippt die Sympathie schlagartig in Abscheu oder Unbehagen .",
+      "modell": "t5-small"
+    },
+    "pptx_slide_042.json": {
+      "foliennummer": 42,
+      "ueberschrift": "Risikos im Bereich Marketing",
+      "quelle_json": "data\\processed\\pptx_slide_042.json",
+      "modus": "t5",
+      "wortanzahl": 62,
+      "kurzer_originaltext": "",
+      "summary": "Nutzer achten dann stärker auf Unstimmigkeiten als auf die eigentliche Botschaft, wodurch Vertrauen und Aufmerksamkeit sinken. negative Emotionen übertragen sich auf die Marke.",
+      "modell": "t5-small"
+    },
+    "pptx_slide_043.json": {
+      "foliennummer": 43,
+      "ueberschrift": "Wie die Technik das Tal heute überwindet",
+      "quelle_json": "data\\processed\\pptx_slide_043.json",
+      "modus": "t5",
+      "wortanzahl": 68,
+      "kurzer_originaltext": "",
+      "summary": "Das Ziel ist, Akzeptanz zu erhöhen, ohne künstliche Perfektion zu erzeugen . Mikromimik wie Blinzeln oder Atembewegungen erhöht Realismus .",
+      "modell": "t5-small"
+    },
+    "pptx_slide_044.json": {
+      "foliennummer": 44,
+      "ueberschrift": "Deepfakes & Manipulation",
+      "quelle_json": "data\\processed\\pptx_slide_044.json",
+      "modus": "t5",
+      "wortanzahl": 67,
+      "kurzer_originaltext": "",
+      "summary": "deepfakes & manipulation are täuschend echte Medienfälschungen, die durch Deep Learning erstellt werden. Im Marketing können sie zu massiven Reputationsschäden führen, wenn Markenidentitäten können missbräuchlich verwendet werden.",
+      "modell": "t5-small"
+    },
+    "pptx_slide_045.json": {
+      "foliennummer": 45,
+      "ueberschrift": "05 Kulturelle Unterschiede",
+      "quelle_json": "data\\processed\\pptx_slide_045.json",
+      "modus": "fallback",
+      "wortanzahl": 6,
+      "kurzer_originaltext": "05 Kulturelle Unterschiede\n05 Kulturelle Unterschiede",
+      "summary": "",
+      "modell": "t5-small"
+    },
+    "pptx_slide_046.json": {
+      "foliennummer": 46,
+      "ueberschrift": "Globale Akzeptanz von KI-Avataren",
+      "quelle_json": "data\\processed\\pptx_slide_046.json",
+      "modus": "t5",
+      "wortanzahl": 64,
+      "kurzer_originaltext": "",
+      "summary": "globale Akzeptanz von KI-Avataren hängt stark von Kultur, Religion, Werten und technologischem Vertrauen ab. Daher funktioniert eine globale Avatar-Strategie nur, wenn sie lokal angepasst wird.",
+      "modell": "t5-small"
+    },
+    "pptx_slide_047.json": {
+      "foliennummer": 47,
+      "ueberschrift": "Japan und Südkorea- Die Vorreiter",
+      "quelle_json": "data\\processed\\pptx_slide_047.json",
+      "modus": "t5",
+      "wortanzahl": 66,
+      "kurzer_originaltext": "",
+      "summary": "in Ostasien gibt es eine historisch gewachsene Offenheit gegenüber nicht-menschlichen Akteuren. Virtuelle Idole und V-Tuber sind dort etabliert, wodurch Avatare im Marketing oft leichter akzeptiert werden.",
+      "modell": "t5-small"
+    },
+    "pptx_slide_048.json": {
+      "foliennummer": 48,
+      "ueberschrift": "Europa & USA: Die Hürde des kritischen Rationalismus",
+      "quelle_json": "data\\processed\\pptx_slide_048.json",
+      "modus": "t5",
+      "wortanzahl": 67,
+      "kurzer_originaltext": "",
+      "summary": "Europa & USA: Die Hürde des kritischen Rationalismus Kernaussage: In westlichen Kulturen ist die Beziehung zu KI-Avataren oft von Skepsis geprägt, weil Manipulation und Täuschung gefürchtet werden. Daher muss ein Einsatz transparent und verantwortungsvoll kommuniziert werden. Vertrauen entsteht durch offene Kommunikation.",
+      "modell": "t5-small"
+    },
+    "pptx_slide_049.json": {
+      "foliennummer": 49,
+      "ueberschrift": "Lokalisierung vs. Globalisierung",
+      "quelle_json": "data\\processed\\pptx_slide_049.json",
+      "modus": "t5",
+      "wortanzahl": 75,
+      "kurzer_originaltext": "",
+      "summary": "Lokalisierung vs. globalisierung Visuelle Anpassung: Ein Avatar für den arabischen Markt benötigt ein anderes Styling . low-Context Kulturen (z.B. Deutschland/USA): Fokus auf klare, direkte verbale Botschaften . Sprachliche Nuancen: KI-Stimmen müssen lokale Dialekte und Höflichkeitsformen z.b. \"Sie\" v. \"Du\") perfekt beherrschen, umernst",
+      "modell": "t5-small"
+    },
+    "pptx_slide_050.json": {
+      "foliennummer": 50,
+      "ueberschrift": "Fazit",
+      "quelle_json": "data\\processed\\pptx_slide_050.json",
+      "modus": "t5",
+      "wortanzahl": 48,
+      "kurzer_originaltext": "",
+      "summary": "Fazit KI-Avatare sind mehr als nur ein technisches Tool . sie sind ein spannender Weg, Marken menschlicher und zugänglicher zu machen .",
+      "modell": "t5-small"
+    }
+  }
+}

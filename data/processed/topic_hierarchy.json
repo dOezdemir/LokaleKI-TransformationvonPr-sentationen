@@ -1,0 +1,442 @@
+{
+  "root": {
+    "title": "Themen",
+    "children": [
+      {
+        "type": "cluster",
+        "cluster_id": "4",
+        "title": "big data, data, data science, datenverarbeitungstechniken unterschiede",
+        "children": [
+          {
+            "type": "slide",
+            "file": "pdf_slide_001.json"
+          },
+          {
+            "type": "slide",
+            "file": "pdf_slide_004.json"
+          },
+          {
+            "type": "slide",
+            "file": "pdf_slide_005.json"
+          },
+          {
+            "type": "slide",
+            "file": "pdf_slide_007.json"
+          },
+          {
+            "type": "slide",
+            "file": "pdf_slide_009.json"
+          },
+          {
+            "type": "slide",
+            "file": "pdf_slide_010.json"
+          },
+          {
+            "type": "slide",
+            "file": "pdf_slide_013.json"
+          },
+          {
+            "type": "slide",
+            "file": "pdf_slide_014.json"
+          },
+          {
+            "type": "slide",
+            "file": "pdf_slide_015.json"
+          },
+          {
+            "type": "slide",
+            "file": "pdf_slide_016.json"
+          },
+          {
+            "type": "slide",
+            "file": "pdf_slide_017.json"
+          },
+          {
+            "type": "slide",
+            "file": "pdf_slide_029.json"
+          },
+          {
+            "type": "slide",
+            "file": "pdf_slide_032.json"
+          },
+          {
+            "type": "slide",
+            "file": "pdf_slide_038.json"
+          },
+          {
+            "type": "slide",
+            "file": "pdf_slide_039.json"
+          },
+          {
+            "type": "slide",
+            "file": "pdf_slide_042.json"
+          },
+          {
+            "type": "slide",
+            "file": "pdf_slide_046.json"
+          }
+        ]
+      },
+      {
+        "type": "cluster",
+        "cluster_id": "3",
+        "title": "titel gefunden, kein titel, titel, gefunden",
+        "children": [
+          {
+            "type": "slide",
+            "file": "pdf_slide_002.json"
+          },
+          {
+            "type": "slide",
+            "file": "pdf_slide_003.json"
+          },
+          {
+            "type": "slide",
+            "file": "pdf_slide_006.json"
+          },
+          {
+            "type": "slide",
+            "file": "pdf_slide_008.json"
+          },
+          {
+            "type": "slide",
+            "file": "pdf_slide_011.json"
+          },
+          {
+            "type": "slide",
+            "file": "pdf_slide_012.json"
+          },
+          {
+            "type": "slide",
+            "file": "pdf_slide_026.json"
+          },
+          {
+            "type": "slide",
+            "file": "pdf_slide_028.json"
+          },
+          {
+            "type": "slide",
+            "file": "pdf_slide_040.json"
+          },
+          {
+            "type": "slide",
+            "file": "pdf_slide_041.json"
+          },
+          {
+            "type": "slide",
+            "file": "pdf_slide_043.json"
+          },
+          {
+            "type": "slide",
+            "file": "pdf_slide_050.json"
+          },
+          {
+            "type": "slide",
+            "file": "pptx_slide_002.json"
+          },
+          {
+            "type": "slide",
+            "file": "pptx_slide_006.json"
+          },
+          {
+            "type": "slide",
+            "file": "pptx_slide_007.json"
+          },
+          {
+            "type": "slide",
+            "file": "pptx_slide_008.json"
+          },
+          {
+            "type": "slide",
+            "file": "pptx_slide_009.json"
+          },
+          {
+            "type": "slide",
+            "file": "pptx_slide_019.json"
+          },
+          {
+            "type": "slide",
+            "file": "pptx_slide_020.json"
+          },
+          {
+            "type": "slide",
+            "file": "pptx_slide_021.json"
+          },
+          {
+            "type": "slide",
+            "file": "pptx_slide_027.json"
+          },
+          {
+            "type": "slide",
+            "file": "pptx_slide_030.json"
+          },
+          {
+            "type": "slide",
+            "file": "pptx_slide_031.json"
+          },
+          {
+            "type": "slide",
+            "file": "pptx_slide_033.json"
+          },
+          {
+            "type": "slide",
+            "file": "pptx_slide_040.json"
+          },
+          {
+            "type": "slide",
+            "file": "pptx_slide_041.json"
+          },
+          {
+            "type": "slide",
+            "file": "pptx_slide_043.json"
+          },
+          {
+            "type": "slide",
+            "file": "pptx_slide_044.json"
+          },
+          {
+            "type": "slide",
+            "file": "pptx_slide_045.json"
+          },
+          {
+            "type": "slide",
+            "file": "pptx_slide_047.json"
+          },
+          {
+            "type": "slide",
+            "file": "pptx_slide_048.json"
+          }
+        ]
+      },
+      {
+        "type": "cluster",
+        "cluster_id": "0",
+        "title": "big data, data engineers, data erfordert, leistungsfähige infrastruktur",
+        "children": [
+          {
+            "type": "slide",
+            "file": "pdf_slide_018.json"
+          },
+          {
+            "type": "slide",
+            "file": "pdf_slide_019.json"
+          },
+          {
+            "type": "slide",
+            "file": "pdf_slide_020.json"
+          },
+          {
+            "type": "slide",
+            "file": "pdf_slide_023.json"
+          },
+          {
+            "type": "slide",
+            "file": "pdf_slide_025.json"
+          },
+          {
+            "type": "slide",
+            "file": "pdf_slide_030.json"
+          },
+          {
+            "type": "slide",
+            "file": "pdf_slide_031.json"
+          },
+          {
+            "type": "slide",
+            "file": "pdf_slide_033.json"
+          },
+          {
+            "type": "slide",
+            "file": "pdf_slide_034.json"
+          },
+          {
+            "type": "slide",
+            "file": "pdf_slide_035.json"
+          },
+          {
+            "type": "slide",
+            "file": "pdf_slide_036.json"
+          },
+          {
+            "type": "slide",
+            "file": "pdf_slide_037.json"
+          },
+          {
+            "type": "slide",
+            "file": "pdf_slide_047.json"
+          },
+          {
+            "type": "slide",
+            "file": "pdf_slide_048.json"
+          },
+          {
+            "type": "slide",
+            "file": "pdf_slide_049.json"
+          },
+          {
+            "type": "slide",
+            "file": "pptx_slide_022.json"
+          },
+          {
+            "type": "slide",
+            "file": "pptx_slide_026.json"
+          },
+          {
+            "type": "slide",
+            "file": "pptx_slide_029.json"
+          }
+        ]
+      },
+      {
+        "type": "cluster",
+        "cluster_id": "2",
+        "title": "finanzwesen betrugserkennung, betrugserkennung finanzwesen, risikomanagement kundensegmentierung, betrugserkennung risikomanagement",
+        "children": [
+          {
+            "type": "slide",
+            "file": "pdf_slide_021.json"
+          },
+          {
+            "type": "slide",
+            "file": "pdf_slide_022.json"
+          },
+          {
+            "type": "slide",
+            "file": "pdf_slide_027.json"
+          },
+          {
+            "type": "slide",
+            "file": "pdf_slide_044.json"
+          },
+          {
+            "type": "slide",
+            "file": "pdf_slide_045.json"
+          },
+          {
+            "type": "slide",
+            "file": "pptx_slide_024.json"
+          },
+          {
+            "type": "slide",
+            "file": "pptx_slide_025.json"
+          }
+        ]
+      },
+      {
+        "type": "cluster",
+        "cluster_id": "1",
+        "title": "avatare, avatare marketing, marketing, künstlicher intelligenz",
+        "children": [
+          {
+            "type": "slide",
+            "file": "pdf_slide_024.json"
+          },
+          {
+            "type": "slide",
+            "file": "pptx_slide_001.json"
+          },
+          {
+            "type": "slide",
+            "file": "pptx_slide_003.json"
+          },
+          {
+            "type": "slide",
+            "file": "pptx_slide_004.json"
+          },
+          {
+            "type": "slide",
+            "file": "pptx_slide_005.json"
+          },
+          {
+            "type": "slide",
+            "file": "pptx_slide_010.json"
+          },
+          {
+            "type": "slide",
+            "file": "pptx_slide_011.json"
+          },
+          {
+            "type": "slide",
+            "file": "pptx_slide_012.json"
+          },
+          {
+            "type": "slide",
+            "file": "pptx_slide_013.json"
+          },
+          {
+            "type": "slide",
+            "file": "pptx_slide_014.json"
+          },
+          {
+            "type": "slide",
+            "file": "pptx_slide_015.json"
+          },
+          {
+            "type": "slide",
+            "file": "pptx_slide_016.json"
+          },
+          {
+            "type": "slide",
+            "file": "pptx_slide_017.json"
+          },
+          {
+            "type": "slide",
+            "file": "pptx_slide_018.json"
+          },
+          {
+            "type": "slide",
+            "file": "pptx_slide_023.json"
+          },
+          {
+            "type": "slide",
+            "file": "pptx_slide_028.json"
+          },
+          {
+            "type": "slide",
+            "file": "pptx_slide_032.json"
+          },
+          {
+            "type": "slide",
+            "file": "pptx_slide_034.json"
+          },
+          {
+            "type": "slide",
+            "file": "pptx_slide_035.json"
+          },
+          {
+            "type": "slide",
+            "file": "pptx_slide_036.json"
+          },
+          {
+            "type": "slide",
+            "file": "pptx_slide_037.json"
+          },
+          {
+            "type": "slide",
+            "file": "pptx_slide_038.json"
+          },
+          {
+            "type": "slide",
+            "file": "pptx_slide_039.json"
+          },
+          {
+            "type": "slide",
+            "file": "pptx_slide_042.json"
+          },
+          {
+            "type": "slide",
+            "file": "pptx_slide_046.json"
+          },
+          {
+            "type": "slide",
+            "file": "pptx_slide_049.json"
+          },
+          {
+            "type": "slide",
+            "file": "pptx_slide_050.json"
+          }
+        ]
+      }
+    ]
+  }
+}

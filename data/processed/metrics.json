@@ -1,0 +1,15 @@
+{
+  "phase2": {
+    "slides_analysiert": 100,
+    "input_dir": "data\\processed",
+    "output_dir": "data\\processed",
+    "logs_dir": "data\\raw\\logs",
+    "assets_dir": "export\\assets",
+    "semantic_index": "semantic_index.json",
+    "segments_index": "segments_index.json",
+    "glossary": "glossary.json",
+    "summaries": "summaries.json",
+    "topic_hierarchy": "topic_hierarchy.json",
+    "runtime_seconds": 469.245
+  }
+}
