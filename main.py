@@ -977,14 +977,19 @@ def parse_pdf(pdf_path: str) -> None:
 # ==========================================================
 def main():
     parser = argparse.ArgumentParser()
+
     parser.add_argument(
         "--pptx",
-        default=r"C:\Users\oezdemir\Desktop\Projekt\data\raw\slides_input\Test1_neu.pptx",
+        default="data/raw/slides_input/Test1_neu.pptx",
+        help="Pfad zur PPTX-Datei"
     )
+
     parser.add_argument(
         "--pdf",
-        default=r"C:\Users\oezdemir\Desktop\Projekt\data\raw\slides_input\TEST2_neu1.pdf",
+        default="data/raw/slides_input/TEST2_neu1.pdf",
+        help="Pfad zur PDF-Datei"
     )
+
     args = parser.parse_args()
 
     # Beide Parser nacheinander ausführen
@@ -1007,4 +1012,5 @@ def main():
 
 
 if __name__ == "__main__":
+
     main()
