@@ -125,7 +125,12 @@ Schnellstart
 │   ├── index.html
 │   ├── glossar.html
 │   ├── quiz.html
+│   ├── assets/
 │   ├── slides/
-│   └── assets/
+│   └── style/
 └── audit/
+│   ├── map.json
+│   ├── quiz.json
+│   ├── run.json
+
 
